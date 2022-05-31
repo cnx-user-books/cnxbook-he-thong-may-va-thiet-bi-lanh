@@ -1,0 +1,214 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hệ thống thiết bị cấp đông</title>
+  <metadata>
+  <md:content-id>m30520</md:content-id><md:title>Hệ thống thiết bị cấp đông</md:title>
+  <md:abstract>Các hệ thống thiết bị cáp đồng</md:abstract>
+  <md:uuid>db53e478-7f80-458b-a6a7-bb021ef770d9</md:uuid>
+</metadata>
+
+<content>
+    <para id="id4304697">Nội dung:</para>
+    <section id="id-192722097444">
+      <title>CÁC VẤN ĐỀ VỀ CẤP ĐÔNG THỰC PHẨM</title>
+      <section id="id-428529217079">
+        <title>Mục đích và ý nghĩa </title>
+        <section id="id-815108854869">
+          <title>Phân loại giới hạn làm lạnh</title>
+          <para id="id4304728">* Nhiệt độ đóng băng của thực phẩm </para>
+          <para id="id4304735">Nước nguyên chất đóng băng ở 0oC. Tuy nhiên điểm đóng băng của thực phẩm thì khác, vì nồng độ muối khoáng và chất hoà tan trong dịch tế bào của thực phẩm thay đổi tuỳ từng loại thực phẩm nên chúng có điểm đóng băng khác nhau và thường nhỏ hơn 0oC. </para>
+          <para id="id4304772">Ví dụ của cá biển có điểm đóng băng khoảng -1,5oC, cá nước ngọt điểm đóng băng -1,0oC, tôm biển -2oC. </para>
+          <para id="id4304810">* Các cấp làm lạnh thực phẩm:</para>
+          <para id="id4304815">Ứng với khoảng nhiệt độ sản phẩm sau cấp đông người ta phân biệt các cấp làm lạnh thực phẩm như sau:</para>
+          <para id="id4304823">- Làm lạnh: Khi nhiệt độ sản phẩm cuối quá trình nằm trong khoảng</para>
+          <para id="id4304839">tđb &lt; t &lt; + 20oC</para>
+          <para id="id4304864">- Làm lạnh đông (cấp đông): Khi nhiệt độ sản phẩm sau cấp đông nằm trong khoảng:</para>
+          <para id="id4304884">-100oC &lt; t &lt; tđb</para>
+          <para id="id4304905">- Làm lạnh thâm độ: Khi nhiệt độ sản phẩm sau cấp đông nằm trong khoảng</para>
+          <para id="id4304925">-273oC &lt; t &lt; -100oC</para>
+        </section>
+        <section id="id-34129943385">
+          <title>Mục đích và ý nghĩa</title>
+          <para id="id4304960">Thực phẩm ở nhiệt độ cao dưới tác dụng của men phân giải (enzim) của bản thân và các vi sinh vật sẽ xảy ra quá trình biến đổi về chất, dẫn đến hư hỏng, ươn thối.</para>
+          <para id="id4304977">Khi nhiệt độ thực phẩm xuống thấp các quá trình trên sẽ bị ức chế và kìm hãm, tốc độ các phản ứng hoá sinh sẽ giảm. Nhiệt độ càng thấp, tốc độ phân giải càng giảm mạnh.</para>
+          <para id="id4304995">Khi nhiệt độ giảm thì hoạt động sống của tế bào giảm là do:</para>
+          <para id="id4305002">- Cấu trúc tế bào bị co rút;</para>
+          <para id="id4305008">- Độ nhớt dịch tế bào tăng;</para>
+          <para id="id4305015">- Sự khuyếch tán nước và các chất tan của tế bào giảm;</para>
+          <para id="id4305023">- Hoạt tính của enzim có trong tế bào giảm. Nhiệt độ thấp ức chế tốc độ của các phản ứng hoá sinh trong thực phẩm. Nhiệt độ thấp tốc độ giảm, người ta tính rằng cứ giảm 10oC thì tốc độ phản ứng hoá sinh giảm xuống còn từ 1/2 đến 1/3. Nhiệt độ thấp tác dụng đến các men phân giải nhưng không tiêu diệt được nó. Nhiệt độ giảm xuống 0oC hoạt động của hầu hết các enzim bị đình chỉ. Men lipaza, trypsin, catalaza ở nhiệt độ -191oC cũng không bị phá huỷ. Nhiệt độ càng thấp khả năng phân giải giảm, ví dụ khả năng phân giải của men lipaza phân giải mỡ cho ở bảng 4-1 dưới đây.</para>
+          <section id="id-920809327518">
+            <title>Bảng 4-1 : Khả năng phân giải của men phân giải mỡ lipaza</title>
+            <table id="id4305102" summary="">
+              <tgroup cols="5">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <tbody>
+                  <row>
+                    <entry>Nhiệt độ, oC</entry>
+                    <entry>40</entry>
+                    <entry>10</entry>
+                    <entry>0</entry>
+                    <entry>-10</entry>
+                  </row>
+                  <row>
+                    <entry>Khả năng phân giải, %</entry>
+                    <entry>11,9</entry>
+                    <entry>3,89</entry>
+                    <entry>2,26</entry>
+                    <entry>0,70</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <para id="id4305247">Các tế bào thực vật có cấu trúc đơn giản hoạt động sống có thể độc lập với cơ thể sống. Vì vậy khả năng chịu lạnh cao, đa số tế bào thực vật không bị chết khi nước trong nó chưa đóng băng.</para>
+            <para id="id4305265">Tế bào động vật có cấu trúc và hoạt động sống phức tạp, gắn liền với cơ thể sống. Vì vậy khả năng chịu lạnh kém. Đa số tế bào động vật chết khi nhiệt độ giảm quá 4oC so với thân nhiệt bình thường của nó. Tế bào động vật chết là do chủ yếu độ nhớt tăng và sự phân lớp của các chất tan trong cơ thể.</para>
+            <para id="id4305298">Một số loài động vật có khả năng tự điều chỉnh hoạt động sống khi nhiệt độ giảm, cơ thể giảm các hoạt động sống đến mức không cần nhu cầu bình thường của điều kiện môi trường trong một khoảng thời gian nhất định. Khi tăng nhiệt độ, hoạt động sống của chúng phục hồi, điều này được ứng dụng trong vận chuyển động vật đặc biệt là thuỷ sản ở dạng tươi sống, đảm bảo chất lượng tốt và giảm chi phí vận chuyển.</para>
+            <para id="id4305313">Như vậy khi nhiệt độ thấp quá trình phân giải của thực phẩm sẽ bị chậm lại hoặc chấm dứt hoàn toàn là do:</para>
+            <para id="id4305325">- Hoạt động của các men phân giải bị đình chỉ.</para>
+            <para id="id4305331">- Sự phát triển của các vi sinh vật bị ức chế, đại bộ phận các vi sinh vật ngừng hoạt động trong khoảng -3oC  -10oC. Tuy nhiên ở -10oC vi khuẩn micrococcuss vẫn sống nhưng phát triển chậm. Các loại nấm mốc chịu đựng lạnh tốt hơn, có thể tới -15oC. Để nấm mốc sống được độ ẩm phải đảm bảo ít nhất là 15%. Khi nhiệt độ giảm xuống -18oC thì nước trong thực phẩm mới đóng băng tới 86%, đạt yêu cầu trên. Vì vậy nhiệt độ bảo quản tốt nhất từ -18oC trở xuống mới làm cho toàn bộ vi sinh vật và nấm mốc ngừng hoạt động hoàn toàn.</para>
+          </section>
+        </section>
+      </section>
+      <section id="id-513784185056">
+        <title>Sự kết tinh của nước trong thực phẩm </title>
+        <section id="id-601041967774">
+          <title>Nước trong thực phẩm</title>
+          <para id="id4305445">Nước trong thực phẩm, đặc biệt trong thuỷ sản chiếm tỷ lệ rất lớn có thể lên đến 80%. Tuỳ theo mức độ liên kết mà người ta chia nước trong thực phẩm ra các dạng: Nước tự do và nước liên kết </para>
+          <para id="id4305462">- Nước tự do: Chỉ liên kết cơ học. Nước nằm bất động trong mạng lưới cấu trúc mô cơ dưới hình thức dung môi để khuyếch tán các chất qua tế bào.</para>
+          <para id="id4305475">- Nước liên kết: Không phải là dung môi mà là ở dạng liên kết với các chất prôtit tan và các chất vô cơ, hữu cơ tan khác tạo thành các khung cấu trúc của mô cơ.</para>
+        </section>
+        <section id="id-765029133724">
+          <title>Cơ chế đóng băng trong thực phẩm khi cấp đông.</title>
+          <para id="id4305500">Nước trong thực phẩm do có hoà tan các chất tan nên nhiệt độ đóng băng thấp hơn 0oC. </para>
+          <para id="id4305520">Khi hạ nhiệt độ thực phẩm xuống thấp các dạng nước trong thực phẩm đóng băng dần dần tuỳ mức độ liên kết của chúng với tế bào.</para>
+          <para id="id4305531">Khi nhiệt độ hạ xuống thấp bằng nhiệt độ cấp đông, trước tiên các tinh thể đá xuất hiện ở gian bào (khoảng trống giữa các tế bào). Khi đến điểm đóng băng đa số nước ở gian bào kết tinh và làm tăng nồng độ chất tan lên cao hơn trong tế bào. Do đó áp suất thẩm thấu tăng lên làm cho nước trong tế bào có xu hướng ra ngoài qua gian bào, qua màn bán thấm của tế bào. Nếu tốc độ làm lạnh chậm thì nước trong tế bào ra sẽ làm các tinh thể hiện diện lớn lên mà không tạo nên tinh thể mới.</para>
+          <para id="id4305557">Nếu tốc độ làm lạnh nhanh thì tinh thể sẽ tạo ra cả ở bên ngoài lẫn bên trong tế bào, tinh thể đá sẽ nhuyễn và đều.</para>
+          <para id="id4305567">Do đó nếu hạ nhiệt chậm tế bào bị mất nước và các tinh thể đá tạo ra sẽ to và chèn ép làm rách màng tế bào, cấu tạo mô cơ bị biến dạng, giảm chất lượng sản phẩm.</para>
+          <para id="id4305582">Khi nước tự do đã đóng băng hết thì đến nước liên kết, bắt đầu từ nước có liên kết yếu đến nước có liên kết mạnh.</para>
+        </section>
+        <section id="id-984406381557">
+          <title>Tác động của sự kết tinh của nước đối với thực phẩm.</title>
+          <para id="id4305604">- Có sự phân bố lại nước trong thực phẩm không chỉ giữa gian bào và tế bào mà còn theo chiều sâu của sản phẩm.</para>
+          <para id="id4305614">- Có sự biến đổi tế bào do sự phân bố lại nước, do tạo thành lớp đá, vỡ tế bào, biến đổi cấu trúc sợi cơ. </para>
+        </section>
+        <section id="id-763454034006">
+          <title>Các yếu tố ảnh hưởng đến sự kết tinh của nước trong thực phẩm.</title>
+          <para id="id4305640">1. Nồng độ các chất hoà tan.</para>
+          <para id="id4305645">Các chất đường, chất béo, prôtêin, muối vv... trong thực phẩm hoà tan liên kết với nước tạo thành dung dịch keo.</para>
+          <para id="id4305655">Để kết tinh các phân tử nước phải tách ra khỏi sự liên kết của các chất tan. Vì vậy khi có các chất tan thì nhiệt độ của nước phải giảm để giảm động năng, tăng lực liên kết phân tử giữa các phân tử nước với nhau để kết tinh. Do đó nồng độ chất hoà tan tăng thì nhiệt độ kết tinh nước giảm. Độ giảm nhiệt độ để nước kết tinh phụ thuộc vào nồng độ chất tan như sau:</para>
+          <para id="id4305674">t = - 1,18 x n(4-1)</para>
+          <para id="id4305696">n - Nồng độ phân tử các chất tan.</para>
+          <para id="id4305702">- Khi nhiệt độ kết tinh nước giảm thì tốc độ hình thành mầm tinh thể tăng dần.</para>
+          <para id="id4305711">- Khi giảm nhiệt độ kết tinh các tinh thể nước đá hình thành sẽ có xu hướng phát triển chiều dài và giảm kích thước chiều ngang nhờ đó việc làm hỏng cấu trúc tế bào thực phẩm giảm.</para>
+          <para id="id4305724">- Kích thước ngang của các tinh thể được phân chia như sau:</para>
+          <para id="id4305732">+ Kích thước 0,2  0,6mm - tinh thể lớn</para>
+          <para id="id4305753">+ Kích thước 0,1  0,2mm - tinh thể vừa</para>
+          <para id="id4305774">+ Kích thước 0,01  0,1mm - tinh thể bé</para>
+          <para id="id4305794">Ở khoảng nhiệt độ -1-2oC các tinh thể tạo thành các kích thước lớn, ở nhiệt độ -10-20oC các tinh thể có số lượng rất nhiều và kích thước nhỏ.</para>
+          <para id="id4305844">2. Tốc độ cấp đông</para>
+          <para id="id4305850">Tốc độ làm lạnh thực phẩm là tỷ số giữa chiều dày lớp thực phẩm được cấp đông với thời gian để làm đông lớp đó:</para>
+          <para id="id4305860">Vf = X/ , m/h (4-2)</para>
+          <para id="id4305898">Tốc độ làm lạnh đông phụ thuộc nhiều yếu tố, trong đó yếu tố nhiệt độ buồng cấp đông đóng vai trò quan trọng nhất.</para>
+          <para id="id4305907">Căn cứ vào tốc độ làm đông người ta chia ra như sau:</para>
+          <para id="id4305915">- Cấp đông chậm: Khi tốc độ cấp đông dưới 0,5 cm/h và thời gian cấp đông lớn hơn 10 giờ.</para>
+          <para id="id4305931">- Cấp đông nhanh: Khi tốc độ cấp đông từ 1  3 cm/h và thời gian cấp đông từ 2 đến 6 giờ.</para>
+          <para id="id4305956">- Cấp đông cực nhanh: Khi tốc độ cấp đông lớn hơn hoặc bằng 15cm/h, thời gian cấp đông dưới 20 phút.</para>
+          <para id="id4305972">* Ảnh hưởng của tốc độ cấp đông </para>
+          <para id="id4305983">- Khi cấp đông chậm nước khuyếch tán nhiều, các tinh thể nước đá thu hút nước để tăng thể tích mà không có xu hướng tạo nên các mầm tinh thể. Kết qủa là số lượng các tinh thể ít, kích thước lớn và không đều, điều đó ảnh hưởng nhiều đến cấu trúc liên kết tế bào thực phẩm.</para>
+          <para id="id4305988">- Khi cấp đông nhanh nước ít khuyếch tán vì các mầm tinh thể hình thành đều khắp trong cấu trúc với tốc độ nhanh nhờ đó số tinh thể nhiều, kích thước nhỏ và đều. </para>
+          <para id="id5016338">- Cấp đông cực nhanh sẽ không có sự khuyếch tán nước. Các phần tử nước sẽ kết tinh ở những vị trí liên kết với các chất tan vì vậy các tinh thể có kích thước rất nhỏ, các tính chất của thực phẩm được giữ gìn như nguyên vẹn.</para>
+          <para id="id5016356">3. Chất lượng ban đầu của thực phẩm</para>
+          <para id="id5016362">- Thực phẩm tươi sống đem làm lạnh đông sẽ có chất lượng cao nhất vì cấu trúc và sự liên kết của nước với các thành phần còn nguyên tính tự nhiên.</para>
+          <para id="id5016374">- Khi các cấu trúc bị hư hỏng do va chạm hoặc do chất lượng bị giảm vì quá trình tự phân giải, thối rửa thì khả năng giữ nước giảm, tỷ lệ nước tự do tăng, tính đàn hồi của cấu trúc giảm. Tương tự như ở thịt động vật có giai đoạn co cứng, cấu trúc giảm tính đàn hồi vì khả năng giữ nước giảm.</para>
+          <para id="id5016394">Trong những trường hợp này nước kết tinh sẽ khuyếch tán nhiều, cấu trúc liên kết tế bào bị nước đá giãn nỡ sẽ rách vỡ làm cho chất lượng sản phẩm giảm.</para>
+        </section>
+      </section>
+      <section id="id-314523303727">
+        <title>Sự biến đổi của thực phẩm trong quá trình cấp đông</title>
+        <section id="id-869523894107">
+          <title>Biến đổi về nhiệt vật lý</title>
+          <para id="id5016426">a. Sự kết tinh của nước: Trong quá trình cấp đông nước tách ra và đông thành các tinh thể, làm cho sản phẩm trở nên rắn, tăng thể tích một ít. </para>
+          <para id="id5016448">Khi nước trong thực phẩm kết tinh tạo thành mạng tinh thể xen kẻ giữa các thành phần khác tạo ra cấu trúc vững chắc, nhưng khi làm tan băng, phục hồi trạng thái ban đầu thì cấu trúc thực phẩm bị mềm yếu hơn, kém đàn hồi hơn do các tinh thể làm rách cấu trúc liên kết tế bào thực phẩm.</para>
+          <para id="id5016462">b. Biến đổi màu sắc: Đồng thời với quá trình trên màu sắc thực phẩm cũng biến đổi do hiệu ứng quang học do tinh thể đá khúc xạ ánh sáng. Màu sắc thực phẩm khi nước đóng băng phụ thuộc tính chất quang ánh sáng của các tinh thể nước đá.</para>
+          <para id="id5016484">c. Bay hơi nước: Trong quá trình làm lạnh đông có hiện tượng mất nước, giảm trọng lượng sản phẩm. Đó là sự bay hơi nước vào không khí từ bề mặt thực phẩm, do chênh lêch mật độ  giữa không khí sát bề mặt và không khí xung quanh.</para>
+          <para id="id5016518">Ẩm bốc lên từ bề mặt sản phẩm vào không khí xung quanh, nếu sản phẩm nhập có bề mặt còn ướt thì khi cấp đông chúng sẽ đông lại, sau đó diễn ra quá trình thăng hoa. Nếu chênh lệch nhiệt độ bề mặt sản phẩm và không khí trong buồng cấp đông càng lớn thì ẩm bốc càng mạnh, gây hao hụt khối lượng.</para>
+          <para id="id5016535">d. Khuyếch tán nước: Khi cấp đông xảy ra hiện tượng khuyếch tán nước trong cấu trúc thực phẩm, nước khuyếch tán là do các nguyên nhân:</para>
+          <para id="id5016554">+ Sự chênh lệch nhiệt độ gây nên do chênh lệch mật độ .</para>
+          <para id="id5016574">+ Sự lớn lên của tinh thể nước đá luôn thu hút nước từ những vị trí chưa kết tinh dẫn đến, làm cho nước từ nơi có nồng độ chất tan thấp chuyển đến nơi có nồng độ chất tan cao. Sự di chuyển của nước thực hiện nhờ tính bám thấm và mao dẫn của cấu trúc thực phẩm. Động lực của quá trình khuyếch tán, làm cho nước di chuyển từ trong tế bào ra gian bào và từ trong ra ngoài, từ vị trí liên kết ra tự do. Khi nước khuyếch tán cấu trúc tế bào co rút, một số chất tan biến tính, dẫn đến khi làm tan một phần thực phẩm gần bề mặt.</para>
+          <para id="id5016599">e. Các thông số nhiệt vật lý thay đổi</para>
+          <para id="id5016606">- Biến đổi nhiệt dung: Nhiệt dung sản phẩm thay đổi là do nước trong thực phẩm đã được đóng băng. Nhiệt dung khi đó được tính:</para>
+          <para id="id5016624">CSP = CCK(1-W) + Cđ..W + Cn.(1-).W ; kJ/kg.K(4-3)</para>
+          <para id="id5016688">CSP, CCK, Cđ, Cn – Nhiệt dung riêng của sản phẩm, chất khô, nước đá và của nước, kJ/kg.K;</para>
+          <para id="id5016734">- Tỷ lệ nước đã đóng băng ở nhiệt độ tđb</para>
+          <para id="id5016752">W – Hàm lượng nước trong sản phẩm.</para>
+          <para id="id5016758">Nhiệt dung riêng sản phẩm trước khi đóng băng</para>
+          <para id="id5016765">Co = CCK(1-W) + Cn.W ; kJ/kg.K(4-4)</para>
+          <para id="id5016808">Do đó</para>
+          <para id="id5016814">CSP = Co - (Cn - Cđ)..W = Co – 2,096..W ; kJ/kg.K</para>
+          <para id="id5016874">Có thể xác định nhiệt dung riêng sản phẩm theo công thức thực nghiệm như sau:</para>
+          <para id="id5016886"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>SP</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:mfrac><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext>lg</m:mtext><m:mi>t</m:mi></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mrow><m:mi>,</m:mi><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>kCal</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">/</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>kg</m:mtext></m:mrow></m:mstyle></m:mrow><m:mtext>.</m:mtext><m:mi>K</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{ ital "SP"} } =C rSub { size 8{o} }  -  {  {A rSub { size 8{c} } }  over  {1+ {  {B rSub { size 8{c} } }  over  {"lg"t} } } } , ital "kCal"/ ital "kg" "." K} {}</m:annotation></m:semantics></m:math>(4-5)</para>
+          <para id="id5017053">Ac, Bc – Là các hằng số thực nghiệm</para>
+          <para id="id5017079">- Biến đổi hệ số dẫn nhiệt</para>
+          <para id="id5017085">Hệ số dẫn nhiệt của sản phẩm cũng thay đổi thể hiện ở công thức dưới đây:</para>
+          <para id="id5017094"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>SP</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>λ</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>λ</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext>lg</m:mtext><m:mo stretchy="false">[</m:mo><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>kt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ rSub { size 8{ ital "SP"} } =λ rSub { size 8{o} } + {  {A rSub { size 8{λ} } }  over  {1+ {  {B rSub { size 8{λ} } }  over  {"lg" \[ t+ \( 1 - t rSub { size 8{ ital "kt"} }  \)  \] } } } } } {}</m:annotation></m:semantics></m:math>(4-6)</para>
+          <para id="id5017273">SP, o – Hệ số dẫn nhiệt của sản phẩm lạnh đông và ở nhiệt độ kết tinh ( nhưng sản phẩm chưa kết tinh), W/m.K;</para>
+          <para id="id5017302">A, B - Hằng số thực nghiệm</para>
+          <para id="id5017328">t, tkt – Nhiệt độ sản phẩm cấp đông và nhiệt độ kết tinh (không kể dấu âm), oC</para>
+          <para id="id5017355">- Biến đổi hệ số dẫn nhiệt độ</para>
+          <para id="id5017362">Hệ số dẫn nhiệt độ của sản phẩm cũng thay đổi và được tính theo công thức sau đây:</para>
+          <para id="id5017373"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>SP</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext>lg</m:mtext><m:mo stretchy="false">[</m:mo><m:mrow><m:mi>t</m:mi><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>kt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a rSub { size 8{ ital "SP"} } =a rSub { size 8{o} } + {  {A rSub { size 8{a} } }  over  {1+ {  {B rSub { size 8{a} } }  over  {"lg" \[ t+ \( 1 - t rSub { size 8{ ital "kt"} }  \)  \] } } } } } {}</m:annotation></m:semantics></m:math>(4-7)</para>
+          <para id="id5017549">aSP, ao – Hệ số dẫn nhiệt độ của sản phẩm lạnh đông và ở nhiệt độ kết tinh ( nhưng sản phẩm chưa kết tinh), m2/s;</para>
+          <para id="id5017578">Aa, Ba - Hằng số thực nghiệm.</para>
+          <para id="id5017603">t, tkt – Nhiệt độ sản phẩm cấp đông và nhiệt độ kết tinh (không kể dấu âm), oC.</para>
+          <para id="id5017630">Dưới đây là bảng các thông số của một số sản phẩm</para>
+          <section id="id-62143306403">
+            <title>Bảng 4-2: Các hằng số thực nghiệm</title>
+            <table id="id5017648" summary="">
+              <tgroup cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry>Đại lượng</entry>
+                    <entry>Thịt bò</entry>
+                    <entry>Cá</entry>
+                  </row>
+                  <row>
+                    <entry>CoAcBc</entry>
+                    <entry>0,8050,3960,343</entry>
+                    <entry>0,8000,4150,369</entry>
+                  </row>
+                  <row>
+                    <entry>oAB</entry>
+                    <entry>0,3900,9380,186</entry>
+                    <entry>0,5720,6690,148</entry>
+                  </row>
+                  <row>
+                    <entry>aoAaBa</entry>
+                    <entry>0,000450,002440,445</entry>
+                    <entry>0,000450,002140,482</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </section>
+        </section>
+        <section id="id-552681025359">
+          <title>Biến đổi hoá học</title>
+          <para id="id5017949">Bản chất quá trình biến đổi hoá học của thực phẩm khi làm lạnh là sự phân giải của các chất dự trữ năng lượng do tác động của các enzim có sẵn trong thực phẩm.</para>
+          <para id="id5017964">- Mức độ biến đổi hoá học phụ thuộc vào trạng thái ban đầu của thực phẩm và phương pháp làm lạnh. Nói chung do nhiệt độ giảm nhanh thời gian làm lạnh ngắn nên các biến đổi hoá học diễn ra với tốc độ rất chậm, ít hư hỏng, chất lượng thực phẩm được đảm bảo.</para>
+          <para id="id5017984">- Các biến đổi chủ yếu là do sự ôxi hoá các sắc tố làm biến màu thực phẩm. Sự ôxi hoá phụ thuộc mức độ tiếp xúc với không khí của thực phẩm và chất lượng ban đầu.</para>
+          <para id="id5017996">- Để giảm sự ôxi hoá có thể loại bỏ các sắc tố trước khi làm lạnh, hạn chế bớt các hoạt tính của các enzim, hạn chế tiếp xúc với không khí, làm tăng tốc độ làm lạnh.</para>
+        </section>
+        <section id="id-528002984154">
+          <title>Biến đổi do vi sinh</title>
+          <para id="id5018018">Trước khi làm lạnh thực phẩm thường được rửa sạch để loại bỏ các tạp chất nơi chứa chấp nhiều loại vi sinh vật. </para>
+          <para id="id5018028">Trong quá trình làm lạnh do nhiệt độ môi trường làm lạnh có nhiệt độ không phù hợp với các vi sinh vật nên vi sinh vật ở lớp bề mặt thực phẩm bị tiêu diệt. Số còn lại bị hạn chế khả năng hoạt động. Nhưng chúng thích nghi dần với lạnh, nên thời gian bảo quản thực phẩm bị giảm.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

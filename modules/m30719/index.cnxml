@@ -1,0 +1,271 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thiết bị ngưng tụ</title>
+  <metadata>
+  <md:content-id>m30719</md:content-id><md:title>Thiết bị ngưng tụ</md:title>
+  <md:abstract>Thiết bị ngưng tụ</md:abstract>
+  <md:uuid>29b55063-cefb-4262-b248-44d0669b9813</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id-263604784969">
+      <title>Bình ngưng giải nhiệt bằng nước</title>
+      <section id="id-00534949823719">
+        <title>Bình ngưng ống chùm nằm ngang</title>
+        <para id="id6816541">Bình ngưng ống chùm nằm ngang là thiết bị ngưng tụ được sử dụng rất phổ biến cho các hệ thống máy và thiết bị lạnh hiện nay. Môi chất sử dụng có thể là amôniắc hoặc frêôn. Đối bình ngưng NH3 các ống trao đổi nhiệt là các ống thép áp lực C20 còn đối với bình ngưng frêôn thường sử dụng ống đồng có cánh về phía môi chất lạnh.</para>
+        <section id="id-594255882316">
+          <title>Bình ngưng ống chùm nằm ngang NH3</title>
+          <para id="id6855699">Trên hình 6-1 trình bày cấu tạo bình ngưng sử dụng trong các hệ thống lạnh NH3. Bình ngưng có thân hình trụ nằm ngang làm từ vật liệu thép CT3, bên trong là các ống trao đổi nhiệt bằng thép áp lực C20. Các ống trao đổi nhiệt được hàn kín hoặc núc lên hai mặt sàng hai đầu. Để có thể hàn hoặc núc các ống trao đổi nhiệt vào mặt sàng, nó phải có độ dày khá lớn từ 2030mm. Hai đầu thân bình là các nắp bình. Các nắp bình tạo thành vách phân dòng nước để nước tuần hoàn nhiều lần trong bình ngưng. Mục đích tuần hoàn nhiều lần là để tăng thời gian tiếp xúc của nước và môi chất; tăng tốc độ chuyển động của nước trong các ống trao đổi nhiệt nhằm nâng cao hệ số toả nhiệt . Cứ một lần nước chuyển động từ đầu này đến đầu kia của bình thì gọi là một pass. Ví dụ bình ngưng 4 pass, là bình có nước chuyển động qua lại 4 lần (hình 6-2). Một trong những vấn đề cần quan tâm khi chế tạo bình ngưng là bố trí số lượng ống của các pass phải đều nhau, nếu không đều thì tốc độ nước trong các pass sẽ khác nhau, tạo nên tổn thất áp lực không cần thiết.</para>
+          <figure id="id6755535">
+            <media id="id1171620951455" alt=""><image src="graphics1.wmf" mime-type="image/wmf" height="160" width="498"/></media>
+          </figure>
+          <para id="id7074702">1- Nắp bình; 2- Ống xả khí không ngưng; 3- Ống Cân bằng; 4- Ống trao đổi nhiệt; 5- Ống gas vào; 6- Ống lắp van an toàn; 7- Ống lắp áp kế ; 8- Ống xả air của nước; 9- Ống nước ra; 10- Ống nước vào; 11- Ống xả cặn; 12- Ống lỏng về bình chứa</para>
+          <section id="id-85279329258">
+            <title>Hình 6-1 : Bình ngưng ống chùm nằm ngang</title>
+            <para id="id6656283">Các trang thiết bị đi kèm theo bình ngưng gồm: van an toàn, đồng hồ áp suất với khoảng làm việc từ 0  30 kG/cm2 là hợp lý nhất, đường ống gas vào, đường cân bằng, đường xả khí không ngưng, đường lỏng về bình chứa cao áp, đường ống nước vào và ra, các van xả khí và cặn đường nước. Để gas phân bố đều trong bình trong quá trình làm việc đường ống gas vào phân thành 2 nhánh bố trí 2 đầu bình và đường ống lỏng về bình chứa nằm ở tâm bình.</para>
+            <para id="id6656315">Nguyên lý làm việc của bình như sau: Gas từ máy nén được đưa vào bình từ 2 nhánh ở 2 đầu và bao phủ lên không gian giữa các ống trao đổi nhiệt và thân bình. Bên trong bình gas quá nhiệt trao đổi nhiệt với nước lạnh chuyển động bên trong các ống trao đổi nhiệt và ngưng tụ lại thành lỏng. Lỏng ngưng tụ bao nhiêu lập tức chảy ngay về bình chứa đặt bên dưới bình ngưng. Một số hệ thống không có bình chứa cao áp mà sử dụng một phần bình ngưng làm bình chứa. Trong trường hợp này người ta không bố trí các ống trao đổi nhiệt phần dưới của bình. Để lỏng ngưng tụ chảy thuận lợi phải có ống cân bằng nối phần hơi bình ngưng với bình chứa cao áp.</para>
+            <figure id="id6686588">
+              <media id="id1171622207839" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="105" width="364"/></media>
+            </figure>
+          </section>
+          <section id="id-394912275513">
+            <title>Hình 6-2: Bố trí đường nước tuần hoàn</title>
+            <para id="id6859088">Tuỳ theo kích cỡ và công suất bình mà các ống trao đổi nhiệt có thể to hoặc nhỏ. Các ống thường được sử dụng là: 27x3, 38x3, 49x3,5, 57x3,5.</para>
+            <para id="id5203013">Từ bình ngưng người ta thường trích đường xả khí không ngưng đưa đến bình xả khí, ở đó khí không ngưng được tách ra khỏi môi chất và thải ra bên ngoài. Trong trường hợp trong bình ngưng có lọt khí không ngưng thì áp suất ngưng tụ sẽ cao hơn bình thường, kim đồng hồ thường bị rung.</para>
+            <para id="id6933524">Các nắp bình được gắn vào thân bằng bu lông. Khi lắp đặt cần lưu ý 2 đầu bình ngưng có khoảng hở cần thiết để vệ sinh bề mặt bên trong các ống trao đổi nhiệt. Làm kín phía nước bằng roăn cao su, đường ống nối vào nắp bình bằng bích để có thể tháo khi cần vệ sinh và sửa chữa.</para>
+            <para id="id6699312">Trong quá trình sử dụng bình ngưng cần lưu ý:</para>
+            <para id="id6699318">- Định kỳ vệ sinh bình để nâng cao hiệu quả làm việc. Do quá trình bay hơi nước ở tháp giải nhiệt rất mạnh nên tạp chất tích tụ ngày một nhiều, khi hệ thống hoạt động các tạp chất đi theo nước vào bình và bám lên các bề mặt trao đổi nhiệt làm giảm hiệu quả trao đổi nhiệt. Vệ sinh bình có thể thực hiện bằng nhiều cách: ngâm Na2CO3 hoặc NaOH để tẩy rửa, sau đó cho nước tuần hoàn nhiều lần để vệ sinh. Tuy nhiên cách này hiệu quả không cao, đặc biệt đối với các loại cáu cặn bám chặt lên bề mặt ống. Có thể vệ sinh bằng cơ khí như buộc các giẻ lau vào dây và hai người đứng hai phía bình kéo qua lại nhiều lần. Khi lau phải cẩn thận, tránh làm xây xước bề mặt bên trong bình, vì như vậy cặn bẫn lần sau dễ dàng bám hơn.</para>
+            <para id="id6699345">- Xả khi không ngưng.</para>
+            <para id="id6763783">Khí không ngưng lọt vào hệ thống làm tăng áp suất ngưng tụ do đó cần thường xuyên kiểm tra và tiến hành xả khí không ngưng bình.</para>
+          </section>
+        </section>
+        <section id="id-84166961856">
+          <title>Bình ngưng môi chất Frêôn</title>
+          <para id="id6763788">Bình ngưng có ống trao đổi nhiệt bằng thép có thể sử dụng cho hệ thống frêôn, nhưng cần lưu ý là các chất frêôn có tính tẩy rửa mạnh nên phải vệ sinh bên trong đường ống rất sạch sẽ và hệ thống phải trang bị bộ lọc cơ khí. </para>
+          <para id="id7074955">Đối với frêôn an toàn và hiệu quả nhất là sử dụng bình ngưng ống đồng, vừa loại trừ vấn đề tắc bẩn, vừa có khả năng trao đổi nhiệt tốt hơn, nên kích thước bình gọn. </para>
+          <para id="id6661596">Trên hình 6-3 giới thiệu các loại bình ngưng ống đồng có cánh sử dụng cho môi chất frêôn. Các cánh được làm về phía môi chất frêôn.</para>
+        </section>
+        <section id="id-45768686097">
+          <title>Ưu nhược điểm và phạm vi sử dụng của bình ngưng ống chùm nằm ngang</title>
+          <figure id="id6661618">
+            <media id="id2855601" alt=""><image src="../../media/graphics3-6b13.jpg" mime-type="image/jpeg" height="246" width="437"/></media>
+          </figure>
+          <para id="id6864006">1- Nắp bình, 2,6- Mặt sàng; 3- ống TĐN; 4- Lỏng ra; 5- Không gian giứa các ống</para>
+          <para id="id6864013">Hình 6-3a: Bình ngưng frêôn</para>
+          <figure id="id6864022">
+            <media id="id5972590" alt=""><image src="../../media/graphics4-9ea2.jpg" mime-type="image/jpeg" height="398" width="448"/></media>
+          </figure>
+          <para id="id7072447">a): Kiểu mặt bích: 1- Vỏ; 2- Mặt sàng; 3- Nắp; 4- Bầu gom lỏng; 5-Van lấy lỏng; 6- Nút an toàn. b) Kiểu hàn : 1- ống trao đổi nhiệt có cánh; 2- Cánh tản nhiệt; 3- Vỏ; 4- Vỏ hàn vào ống xoắn; 5- Lỏng frêôn ra; 6- Hơi frêôn vào</para>
+          <para id="id7072463">Hình 6-3b: Bình ngưng frêôn</para>
+          <figure id="id6922960">
+            <media id="id6084991" alt=""><image src="../../media/graphics5-827b.jpg" mime-type="image/jpeg" height="215" width="494"/></media>
+          </figure>
+          <para id="id6922983">Hình 6-3c: Bình ngưng frêôn</para>
+          <para id="id6746840">* Ưu điểm</para>
+          <para id="id6746845">- Bình ngưng ống chùm nằm ngang, giải nhiệt bằng nước nên hiệu quả giải nhiệt cao, mật độ dòng nhiệt khá lớn q = 3000  6000 W/m2, k= 8001000 W/m2.K, độ chênh nhiệt độ trung bình t = 56 K. Dễ dàng thay đổi tốc độ nước trong bình để có tốc độ thích hợp nhằm nâng cao hiệu quả trao đổi nhiệt, bằng cách tăng số pass tuần hoàn nước.</para>
+          <para id="id6648358">- Hiệu quả trao đổi nhiệt khá ổn định, ít phụ thuộc vào nhiệt độ môi trường.</para>
+          <para id="id6648366">- Cấu tạo chắc chắn, gọn và rất tiện lợi trong việc lắp đặt trong nhà, có suất tiêu hao kim loại nhỏ, khoảng 4045 kg/m2 diện tích bề mặt trao đổi nhiệt, hình dạng đẹp phù hợp với yêu cầu thẩm mỹ công nghiệp.</para>
+          <para id="id6547694">- Dễ chế tạo, lắp đặt, vệ sinh, bảo dưỡng và vận hành. </para>
+          <para id="id6547702">- Có thể sử dụng một phần của bình để làm bình chứa, đặc biệt tiện lợi trong các hệ thống lạnh nhỏ, ví dụ như hệ thống kho lạnh.</para>
+          <para id="id6678528">- Ít hư hỏng và tuổi thọ cao: Đối với các loại dàn ngưng tụ kiểu khác, các ống sắt thường xuyên phải tiếp xúc môi trường nước và không khí nên tốc độ ăn mòn ống trao đổi nhiệt khá nhanh. Đối với bình ngưng, do thường xuyên chứa nước nên bề mặt trao đổi nhiệt hầu như luôn luôn ngập trong nước mà không tiếp xúc với không khí. Vì vậy tốc độ ăn mòn diễn ra chậm hơn nhiều.</para>
+          <para id="id6678550">* Nhược điểm</para>
+          <para id="id6678555">- Đối với hệ thống lớn sử dụng bình ngưng không thích hợp vì khi đó đường kính bình quá lớn, không đảm bảo an toàn. Nếu tăng độ dày thân bình sẽ rất khó gia công chế tạo. Vì vậy các nhà máy công suất lớn, ít khi sử dụng bình ngưng.</para>
+          <para id="id6479561">- Khi sử dụng bình ngưng, bắt buộc trang bị thêm hệ thống nước giải nhiệt gồm: Tháp giải nhiệt, bơm nước giải nhiệt, hệ thống đường ống nước, thiết bị phụ đường nước vv… nên tăng chi phí đầu tư và vận hành. Ngoài buồng máy, yêu cầu phải có không gian thoáng bên ngoài để đặt tháp giải nhiệt. Quá trình làm việc của tháp luôn luôn kéo theo bay hơi nước đáng kể, nên chi phí nước giải nhiệt khá lớn, nước thường làm ẩm ướt khu lân cận, vì thế nên bố trí xa các công trình.</para>
+          <para id="id6479580">- Kích thước bình tuy gọn, nhưng khi lắp đặt bắt buộc phải để dành khoảng không gian cần thiết hai đầu bình để vệ sinh và sửa chữa khi cần thiết.</para>
+          <para id="id7075717">- Quá trình bám bẩn trên bề mặt đường ống tương đối nhanh, đặc biệt khi chất lượng nguồn nước kém.</para>
+          <para id="id7075728">Khi sử dụng bình ngưng ống vỏ nằm ngang cần quan tâm chú ý hiện tượng bám bẩn bề mặt bên trong các ống trao đổi nhiệt, trong trường hợp này cần vệ sinh bằng hoá chất hoặc cơ khí. Thường xuyên xả cặn bẩn đọng lại ở tháp giải nhiệt và bổ sung nước mới. Xả khí và cặn đường nước.</para>
+        </section>
+      </section>
+      <section id="id-91374475386">
+        <title>Bình ngưng ống vỏ thẳng đứng</title>
+        <section id="id-977240006615">
+          <title> Cấu tạo và nguyên lý làm việc</title>
+          <para id="id6715724">Để tiết kiệm diện tích lắp đặt người ta sử dụng bình ngưng ống vỏ đặt đứng. Cấu tạo tương tự bình ngưng ống chùm nằm ngang, gồm có: vỏ bình hình trụ thường được chế tạo từ thép CT3, bên trong là các ống trao đổi nhiệt thép áp lực C20, kích cỡ57x3,5, bố trí đều, được hàn hoặc núc vào các mặt sàng. Nước được bơm bơm lên máng phân phối nước ở trên cùng và chảy vào bên trong các ống trao đổi nhiệt. Để nước chảy theo thành ống trao đổi nhiệt, ở phía trên các ống trao đổi nhiệt có đặt các ống hình côn. Phía dưới bình có máng hứng nước. Nước sau khi giải nhiệt xong thường được xả bỏ. Hơi quá nhiệt sau máy nén đi vào bình từ phía trên. Lỏng ngưng tụ chảy xuống phần dưới của bình giữa các ống trao đổi nhiệt và chảy ra bình chứa cao áp. Bình ngưng có trang bị van an toàn, đồng hồ áp suất, van xả khí, kính quan sát mức lỏng. </para>
+          <para id="id6750789">Trong quá trình sử dụng bình ngưng ống vỏ thẳng đứng cần lưu ý những hư hỏng có thể xảy ra như sự bám bẩn bên trong các ống trao đổi nhiệt, các cửa nước vào các ống trao đổi nhiệt khá hẹp nên dễ bị tắc, cần định kỳ kiểm tra sửa chữa. Việc vệ sinh bình ngưng tương đối phức tạp. Ngoài ra khi lọt khí không ngưng vào bình thì hiệu quả làm việc giảm, áp suất ngưng tụ tăng vì vậy phải tiến hành xả khí không ngưng thường xuyên. Bình ngưng ống vỏ thẳng đứng ít sử dụng ở nước ta do có một số nhược điểm quan trọng.</para>
+          <para id="id6475723"/>
+        </section>
+        <section id="id-313955613039">
+          <title>Ưu nhược điểm và phạm vi sử dụng</title>
+          <para id="id6475735">* Ưu điểm</para>
+          <para id="id7021193">- Hiệu quả trao đổi nhiệt khá lớn, phụ tải nhiệt của bình đạt 4500 W/m2 ở độ chênh nhiệt độ 45K, tương ứng hệ số truyền nhiệt k = 8001000 W/m2.K</para>
+          <para id="id6513807">- Thích hợp cho hệ thống công suất trung bình và lớn, không gian lắp đặt chật hẹp, phải bố trí bình ngưng ở ngoài trời.</para>
+          <para id="id6513816">- Do các ống trao đổi nhiệt đặt thẳng đứng nên khả năng bám bẩn ít hơn so với bình ngưng ống chùm nằm ngang, do đó không yêu cầu chất lượng nguồn nước cao lắm.</para>
+          <para id="id6513830">- Do kết cấu thẳng đứng nên lỏng môi chất và dầu chảy ra ngoài khá thuận lợi , việc thu hồi dầu cũng dễ dàng. Vì vậy bề mặt trao đổi nhiệt nhanh chóng được giải phóng để cho môi chất làm mát.</para>
+          <figure id="id6796143">
+            <media id="id3485976" alt=""><image src="graphics6.wmf" mime-type="image/wmf" height="367" width="365"/></media>
+          </figure>
+          <para id="id6927654">1- Ống cân bằng, 2- Xả khí không ngưng, 3- Bộ phân phối nước, 4- Van an toàn; 5- Ống TĐN, 6- áp kế, 7- Ống thuỷ, 8- Bể nước, 9- Bình chứa cao áp</para>
+          <para id="id6927664">Hình 6-4 : Bình ngưng ống vỏ thẳng đứng</para>
+          <para id="id6927670">* Nhược điểm</para>
+          <para id="id6927676">- Vận chuyển, lắp đặt, chế tạo, vận hành tương đối phức tạp.</para>
+          <para id="id6787795">- Lượng nước tiêu thụ khá lớn nên chỉ thích hợp những nơi có nguồn nước dồi dào và rẻ tiền.</para>
+          <para id="id6787803">- Đối với hệ thống rất lớn sử dụng bình ngưng kiểu này không thích hợp, do kích thước cồng kềnh, đường kính bình quá lớn không đảm bảo an toàn.</para>
+        </section>
+      </section>
+      <section id="id-750966278602">
+        <title>Thiết bị ngưng tụ kiểu ống lồng ống</title>
+        <section id="id-0631764412093">
+          <title>Cấu tạo và nguyên lý làm việc</title>
+          <para id="id6857769">Thiết bị ngưng tụ kiểu ống lồng ống cũng là dạng thiết bị ngưng tụ giải nhiệt bằng nước, chúng được sử dụng rất rộng rãi trong các máy lạnh nhỏ, đặc biệt trong các máy điều hoà không khí công suất trung bình.</para>
+          <para id="id6857790">Thiết bị gồm 02 ống lồng vào nhau và thường được cuộn lại cho gọn. Nước chuyển động ở ống bên trong, môi chất lạnh chuyển động ngược lại ở phần không gian giữa các ống. Ống thường sử dụng là ống đồng (hệ thống frêôn) và có thể sử dụng ống thép.</para>
+          <figure id="id5053091">
+            <media id="id3393546" alt=""><image src="../../media/graphics7-564a.jpg" mime-type="image/jpeg" height="186" width="381"/></media>
+          </figure>
+          <para id="id5053114">Hình 6-5: Thiết bị ngưng tụ kiểu ống lồng ống</para>
+        </section>
+        <section id="id-627570734468">
+          <title>Ưu điểm và nhược điểm</title>
+          <para id="id6781482">Có hiệu quả trao đổi nhiệt khá lớn, gọn . Tuy nhiên chế tạo tương đối khó khăn, các ống lồng vào nhau sau đó được cuộn lại cho gọn, nếu không có các biện pháp chế tạo đặc biệt, các ống dễ bị móp, nhất là ống lớn ở ngoài, dẫn đến tiết diện bị co thắt, ảnh hưởng đến sự lưu chuyển của môi chất bên trong. Do môi chất chỉ chuyển động vào ra một ống duy nhất nên lưu lượng nhỏ, thiết bị ngưng tụ kiểu ống lồng ống chỉ thích hợp đối với hệ thống nhỏ và trung bình.</para>
+        </section>
+      </section>
+      <section id="id-245350533486">
+        <title>Thiết bị ngưng tụ kiểu tấm bản</title>
+        <figure id="id7005513">
+          <media id="id1171622128595" alt=""><image src="../../media/graphics8-be5c.jpg" mime-type="image/jpeg" height="576" width="530"/></media>
+        </figure>
+        <para id="id7005536">Hình 6-6: Thiết bị ngưng tụ kiểu tấm bản</para>
+        <section id="id-59307850131">
+          <title>Cấu tạo và nguyên lý làm việc</title>
+          <para id="id7073350">Thiết bị ngưng tụ kiểu tấm bản được ghép từ nhiều tấm kim loại ép chặt với nhau nhờ hai nắp kim loại có độ bề cao. Các tấm được dập gợn sóng. Môi chất lạnh và nước giải nhiệt được bố trí đi xen kẻ nhau. Cấu tạo gợn sóng có tác dụng làm rối dòng chuyển động của môi chất và tăng hệ số truyền nhiệt đồng thời tăng độ bền của nó. Các tấm bản có chiều dày khá mỏng nên nhiệt trở dẫn nhiệt bé, trong khi diện tích trao đổi nhiệt rất lớn. Thường cứ 02 tấm được hàn ghép với nhau thành một panel. Môi chất chuyển động bên trong, nước chuyển động ở khoảng hở giữa các panel khi lắp đặt. </para>
+          <para id="id7073377">Trong quá trình sử dụng cần lưu ý hiện tượng bám bẩn ở bề mặt ngoài các panel (phía đường nước) nên cần định kỳ mở ra vệ sinh hoặc sử dụng nguồn nước có chất lượng cao. Có thể vệ sinh cáu bẩn bên trong bằng hoá chất, sau khi rửa hoá chất cần trung hoà và rửa sạch để không gây ăn mòn làm hỏng các panel.</para>
+        </section>
+        <section id="id-761542063231">
+          <title>Ưu điểm và nhược điểm</title>
+          <para id="id6960996">* Ưu điểm:</para>
+          <para id="id7073383">- Do được ghép từ các tấm bản mỏng nên diện tích trao đổi nhiệt khá lớn, cấu tạo gọn.</para>
+          <para id="id6723366">- Dễ dàng tháo lắp để vệ sinh sửa chữa và thay thế. Có thể thêm bớt một số panel để thay đổi công suất giải nhiệt một cách dễ dàng.</para>
+          <para id="id6723377">- Hiệu quả trao đổi nhiệt cao, tương đương bình ngưng ống vỏ amôniắc,</para>
+          <para id="id6723384">* Nhược điểm:</para>
+          <para id="id6723388">- Chế tạo khó khăn. Cho đến nay chỉ có các hãng nước ngoài là có khả năng chế tạo các dàn ngưng kiểu tấm bản. Do đó thiếu các phụ tùng có sẵn để thay thế sửa chữa.</para>
+          <para id="id6961219">- Khả năng rò rỉ đường nước khá lớn do số đệm kín nhiều. </para>
+        </section>
+      </section>
+    </section>
+    <section id="id-360875766319">
+      <title>Thiết bị ngưng tụ giải nhiệt bằng nước và không khí</title>
+      <para id="id6961241">Thiết bị ngưng tụ làm mát kết hợp giữa nước và không khí tiểu biểu nhất là thiết bị ngưng tụ kiểu bay hơi và thiết bị ngưng tụ kiểu tưới. </para>
+      <para id="id6893938">Khác với thiết bị ngưng tụ làm mát bằng nước phải trang bị thêm các tháp giải nhiệt, bơm nước và hệ thống ống dẫn nước giải nhiệt, thiết bị ngưng tụ giải nhiệt bằng nước và không khí kết hợp không cần trang bị các thiết bị đó, nước ở đây đã được không khí làm nguội trực tiếp trong quá trình trao đổi nhiệt với môi chất lạnh.</para>
+      <section id="id-272619137474">
+        <title>Thiết bị ngưng tụ kiểu bay hơi</title>
+        <section id="id-0649072068343">
+          <title> Cấu tạo và nguyên lý làm việc</title>
+          <para id="id6893965">Trên hình 6-7 trình bày cấu tạo của dàn ngưng tụ bay hơi. Dàn ngưng gồm một cụm ống trao đổi nhiệt ống thép áp lực C20. Kích cỡ ống thường được sử dụng là 38x3,5; 49x3,5 và 57x3,5. Toàn bộ cụm ống được đặt trên khung thép U vững chắc, phía dưới là bể nước tuần hoàn để giải nhiệt, phía trên là dàn phun nước, bộ chắn nước và quạt hút gió. Để chống ăn mòn, các ống trao đổi nhiệt được nhúng kẽm nóng bề mặt bên ngoài.</para>
+          <para id="id6664469">Hơi môi chất đi vào ống góp hơi ở phía trên vào dàn ống trao đổi nhiệt và ngưng tụ rồi chảy về bình chứa cao áp ở phía dưới. Thiết bị được làm mát nhờ hệ thống nước phun từ các vòi phun được phân bố đều ở ngay phía trên cụm ống trao đổi nhiệt. Nước sau khi trao đổi nhiệt với môi chất lạnh, nóng lên và được giải nhiệt nhờ không khí chuyển động ngược lại từ dưới lên, do vậy nhiệt độ của nước hầu như không đổi. Toàn bộ nhiệt Qk của môi chất đã được không khí mang thải ra ngoài. Không khí chuyển động cưỡng bức nhờ các quạt đặt phía trên hoặc phía dưới. Đặt quạt phía dưới (quạt thổi), thì trong quá trình làm việc không sợ quạt bị nước làm ướt, trong khi đặt phía trên (quạt hút) dễ bị nước cuốn theo làm ướt và giảm tuổi thọ. Tuy nhiên đặt phía trên gọn và dễ chế tạo hơn nên thường được sử dụng. Trong quá trình trao đổi nhiệt một lượng khá lớn nước bốc hơi và bị cuốn theo không khí, do vậy phải thường xuyên cấp nước bổ sung cho bể. Phương pháp cấp nước là hoàn toàn tự động nhờ van phao. Bộ chắn nước có tác dụng chắn các giọt nước bị cuốn theo không khí ra ngoài, nhờ vậy tiết kiệm nước và tránh làm ướt quạt. Bộ chắn nước được làm bằng tôn mỏng và được gập theo đường dích dắc, không khí khi qua bộ chắn va đập vào các tấm chắn và đồng thời rẽ dòng liên tục nên các hạt nước mất quá tính và rơi xuống lại phía dưới.</para>
+          <para id="id7072615">Sau khi tuần hoàn khoảng 2/3 dàn ống trao đổi nhiệt, một phần lớn gas đã được hoá lỏng, để nâng cao hiệu quả trao đổi nhiệt cần tách lượng lỏng này trước, giải phóng bề mặt trao đổi nhiệt phía sau cho lượng hơi chưa ngưng còn lại. Vì vậy ở vị trí này người ta bố trí ống góp lỏng trung gian, để gom dịch lỏng cho chảy thẳng về ống góp lỏng phía dưới và trực tiếp ra bình chứa, phần hơi còn lại tiếp tục luân chuyển theo 1/3 cụm ống còn lại.</para>
+          <para id="id7072640">Toàn bộ phía ngoài dàn ống và cụm dàn phun đều có vỏ bao che bằng tôn tráng kẽm. </para>
+          <para id="id6836642">Ống góp lỏng trung gian cũng được sử dụng làm nơi đặt ống cân bằng.</para>
+          <para id="id6836649">Trước đây ở nhiều xí nghiệp đông lạnh nước ta thường hay sử dụng các dàn ngưng tụ bay hơi sử dụng quạt ly tâm đặt phía dưới. Tuy nhiên chúng tôi nhận thấy các quạt này có công suất mô tơ khá lớn, rất tốn kém.</para>
+          <figure id="id6836666">
+            <media id="id5279717" alt=""><image src="graphics9.wmf" mime-type="image/wmf" height="271" width="492"/></media>
+          </figure>
+          <para id="id6728716">1- Ống trao đổi nhiệt; 2- Dàn phun nước; 3- Lồng quạt; 4- Mô tơ quạt; 5- Bộ chắn nước;6-Ống gas vào; 7-Ống góp; 8-Ống cân bằng; 9-Đồng hồ áp suất; 10- Ống lỏng ra; 11- Bơm nước; 12-Máng hứng nước; 13- Xả đáy bể nước; 14- Xả tràn</para>
+          <para id="id6852449">Hình 6-7: Thiết bị ngưng tụ bay hơi</para>
+          <para id="id6852455">Năng suất nhiệt riêng của dàn ngưng kiểu tưới không cao lắm, khoảng 19002300 W/m2, hệ số truyền nhiệt k =450600 W/m2.K.</para>
+          <para id="id6704992">Trong quá trình sử dụng cần lưu ý, các mũi phun có kích thước nhỏ nên dễ bị tắc bẩn. Khi một số mũi bị tắc thì một số vùng của cụm ống trao đổi nhiệt không được làm mát tốt, hiệu quả trao đổi nhiệt giảm rỏ rệt, áp suất ngưng tụ sẽ lớn bất thường. Vì vậy phải luôn luôn kiểm tra, vệ sinh hoặc thay thế các vòi phun bị hỏng. Cũng như bình ngưng, mặt ngoài các cụm ống trao đổi nhiệt sau một thời gian làm việc cũng có hiện tượng bám bẩn, ăn mòn nên phải định kỳ vệ sinh và sửa chữa thay thế. </para>
+        </section>
+        <section id="id-764934867569">
+          <title>Ưu điểm và nhược điểm</title>
+          <para id="id6587253">* Ưu điểm </para>
+          <para id="id6587258">- Do cấu tạo dạng dàn ống nên công suất của nó có thể thiết kế đạt rất lớn mà không bị hạn chế vì bất cứ lý do gì. Hiện nay nhiều xí nghiệp chế biến thuỷ sản nước ta sử dụng dàn ngưng tụ bay hơi công suất đạt từ 6001000 kW. </para>
+          <para id="id6982762">- So với các thiết bị ngưng tụ kiểu khác, dàn ngưng tụ bay hơi ít tiêu tốn nước hơn, vì nước sử dụng theo kiểu tuần hoàn.</para>
+          <para id="id6982772">- Các dàn ống kích cỡ nhỏ nên làm việc an toàn.</para>
+          <para id="id6982778">- Dễ dàng chế tạo, vận hành và sửa chữa.</para>
+          <para id="id6982784">* Nhược điểm</para>
+          <para id="id6770927">- Do năng suất lạnh riêng bé nên suất tiêu hao vật liệu khá lớn.</para>
+          <para id="id6770934">- Các cụm ống trao đổi nhiệt thường xuyên tiếp xúc với nước và không khí, đó là môi trường ăn mòn mạnh, nên chóng bị hỏng. Do đó bắt buộc phải nhúng kẽm nóng để chống ăn mòn.</para>
+          <para id="id6770946">- Nhiệt độ ngưng tụ phụ thuộc vào trạng thái khí tượng và thay đổi theo mùa trong năm.</para>
+          <para id="id6770954">- Chỉ thích hợp lắp đặt ngoài trời, trong quá trình làm việc, khu vực nền và không gian xung quanh thường bị ẩm ướt, vì vậy cần lắp đặt ở vị trí riêng biệt tách hẳn các công trình.</para>
+        </section>
+      </section>
+      <section id="id-747041002877">
+        <title>Dàn ngưng kiểu tưới</title>
+        <section id="id-428018023821">
+          <title>Cấu tạo và nguyên lý làm việc</title>
+          <para id="id6893914">Trên hình 6-8 trình bày cấu tạo dàn ngưng kiểu tưới. Dàn gồm một cụm ống trao đổi nhiệt ống thép nhúng kẽm nóng để trần, không có vỏ bao che, có rất nhiều ống góp ở hai đầu. Phía trên dàn là một máng phân phối nước hoặc dàn ống phun, phun nước xuống. Dàn ống thường được đặt ngay phía trên một bể chứa nước. Nước được bơm bơm từ bể lên máng phân phối nước trên cùng. Máng phân phối nước được làm bằng thép và có đục rất nhiều lổ hoặc có dạng răng cưa. Nước sẽ chảy tự do theo các lổ và xối lên dàn ống trao đổi nhiệt. Nước sau khi trao đổi nhiệt được không khí đối lưu tự nhiên giải nhiệt trực tiếp ngay trên dàn. Để tăng cường giải nhiệt cho nước ở nắp bể người ta đặt lưới hoặc các tấm tre đan. </para>
+          <para id="id6089721">Gas quá nhiệt đi vào dàn ống từ phía trên, ngưng tụ dần và chảy ra ống góp lỏng phía dưới, sau đó được dẫn ra bình chứa cao áp. Ở trên cùng của dàn ngưng có lắp đặt van an toàn, đồng hồ áp suất và van xả khí không ngưng.</para>
+          <para id="id6893930">Dàn ngưng tụ kiểu tưới cũng có các ống trích lỏng trung gian để giải phóng bề mặt trao đổi nhiệt phía dưới , tăng hiệu quả trao đổi nhiệt.</para>
+          <figure id="id5979613">
+            <media id="id1171622236052" alt=""><image src="../../media/graphics10-4233.jpg" mime-type="image/jpeg" height="275" width="398"/></media>
+          </figure>
+          <para id="id6766893">6-8: Dàn ngưng kiểu tưới</para>
+          <para id="id6766898"/>
+          <para id="id6766903">Trong quá trình hoạt động cần lưu ý các hư hỏng có thể xảy ra đối với dàn ngưng kiểu tưới như sau: </para>
+          <para id="id6766914">- Hiện tượng bám bẩn và ăn mòn bề mặt.</para>
+          <para id="id6766920">- Cặn bẩn đọng lại trong bể hứng nước cần phải xả bỏ và vệ sinh bể thường xuyên.</para>
+          <para id="id5956760">- Các lổ phun bị tắc bẩn cần phải kiểm tra và vệ sinh. </para>
+          <para id="id5956769">- Nhiệt độ nước trong bể tăng cao, ảnh hưởng đến quá trình trao đổi nhiệt, nên luôn luôn xả bỏ một phần và bổ sung nước mới lạnh hơn. </para>
+        </section>
+        <section id="id-559105661247">
+          <title>Ưu điểm và nhược điểm</title>
+          <para id="id5956786">* Ưu điểm </para>
+          <para id="id5956791">- Hiệu quả trao đổi nhiệt cao, hệ số truyền nhiệt đạt 700  900 W/m2.K. Mặt khác do cấu tạo, ngoài dàn ống trao đổi nhiệt ra, các thiết bị phụ khác như khung đỡ, bao che hầu như không có nên suất tiêu hao kim loại nhỏ, giá thành rẻ.</para>
+          <para id="id5979704">- Cấu tạo đơn giản, chắc chắn, dễ chế tạo và có khả năng sử dụng cả nguồn nước bẩn vì dàn ống để trần rất dễ vệ sinh. Vì vậy dàn ngưng kiểu tưới rất thích hợp khu vực nông thôn, nơi có nguồn nước phong phú, nhưng chất lượng không cao. </para>
+          <para id="id5957107">- So với bình ngưng ống vỏ, lượng nước tiêu thụ không lớn. Nước rơi tự do trên dàn ống để trần hoàn toàn nên nhả nhiệt cho không khí phần lớn, nhiệt độ nước ở bể tăng không đáng kể, vì vậy lượng nước bổ sung chỉ chiếm khoảng 30% lượng nước tuần hoàn.</para>
+          <para id="id5957122">* Nhược điểm</para>
+          <para id="id5957126">- Trong quá trình làm việc, nước bắn tung toé xung quanh, nên dàn chỉ có thể lắp đặt bên ngoài trời, xa hẳn khu nhà xưởng.</para>
+          <para id="id6656330">- Cùng với bình ngưng ống vỏ, dàn ngưng kiểu tưới tiêu thụ nước khá nhiều do phải thường xuyên xả bỏ nước.</para>
+          <para id="id6656343">- Do tiếp xúc thường xuyên với nước và không khí, trong môi trưởng ẩm như vậy nên quá trình ăn mòn diễn ra rất nhanh, nếu dàn ống không được nhúng kẽm nóng sẽ rất nhanh chóng bị bục, hư hỏng.</para>
+          <para id="id7028270">- Hiệu quả giải nhiệt chịu ảnh hưởng của môi trường khí hậu.</para>
+        </section>
+      </section>
+      <section id="id-849880818806">
+        <title>Dàn ngưng giải nhiệt bằng không khí</title>
+        <section id="id-902819994913">
+          <title>Cấu tạo và nguyên lý làm việc</title>
+          <para id="id7028300">Dàn ngưng không khí được chia ra làm 02 loại : đối lưu tự nhiên và đối lưu cưỡng bức. </para>
+          <para id="id7028100">* Dàn ngưng đối lưu tự nhiên </para>
+          <para id="id7028105">Loại dàn ngưng đối lưu tự nhiên chỉ sử dụng trong các hệ thống rất nhỏ, ví dụ như tủ lạnh gia đình, tủ lạnh thương nghiệp. Các dàn này có cấu tạo khá đa dạng. </para>
+          <para id="id7028116">- Dạng ống xoắn có cánh là các sợi dây thép hàn vuông góc với các ống xoắn. Môi chất chuyển động trong ống xoắn và trao đổi nhiệt với không khí bên ngoài. Loại này hiệu quả không cao và hay sử dụng trong các tủ lạnh gia đình trước đây.</para>
+          <para id="id7028133">- Dạng tấm: Gồm tấm kim loại sử dụng làm cánh tản nhiệt, trên đó có hàn đính ống xoắn bằng đồng .</para>
+          <para id="id6933469">- Dạng panel: Nó gồm 02 tấm nhôm dày khoảng 1,5mm, được tạo rãnh cho môi chất chuyển động tuần hoàn. Khi chế tạo, người ta cán nóng hai tấm lại với nhau, ở khoảng tạo rãnh, người ta bôi môi chất đặc biệt để 02 tấm không dính vào nhau, sau đó thổi nước hoặc không khí áp lực cao (khoảng 40100 bar) trong các khuôn đặc biệt, hai tấm sẽ phồng lên thành rãnh. </para>
+          <figure id="id6642401">
+            <media id="id1171616613882" alt=""><image src="../../media/graphics11-6957.jpg" mime-type="image/jpeg" height="279" width="305"/></media>
+          </figure>
+          <section id="id-203051097232">
+            <title>Hình 6-9 : Dàn ngưng không khí đối lưu tự nhiên</title>
+            <para id="id6711004">Hệ số truyền nhiệt của thiết bị ngưng tụ đối lưu gió tự nhiên khoảng 67 W/m2.K.</para>
+            <para id="id6711034">* Dàn ngưng đối lưu cưỡng bức </para>
+            <para id="id6912994">Dàn ngưng tụ không khí đối lưu cưỡng bức được sử dụng rất rộng rãi trong đời sống và công nghiệp. Cấu tạo gồm một dàn ống trao đổi nhiệt bằng ống thép hoặc ống đồng có cánh nhôm hoặc cánh sắt bên ngoài, bước cánh nằm trong khoảng 310mm. Không khí được quạt thổi, chuyển động ngang bên ngoài qua dàn ống với tốc độ khá lớn. Quạt dàn ngưng thường là quạt kiểu hướng trục. Mật độ dòng nhiệt của dàn ngưng không khí đạt khoảng 180  340 W/m2 , hệ số truyền nhiệt k = 30  35 W/m2.K, hiệu nhiệt độ t = 78oC</para>
+            <para id="id6770905">Trong quá trình sử dụng cần lưu ý: Dàn ngưng thường bụi bám bụi bẩn, giảm hiệu quả trao đổi nhiệt nên thường xuyên vệ sinh bằng chổi hoặc nước. Khi khí không ngưng lọt vào bên trong dàn sẽ làm tăng áp suất ngưng tụ. Cần che chắn nắng cho dàn ngưng, tránh đặt vị trí chịu nhiều bức xạ mặt trời ảnh hưởng đến hiệu quả trao đổi nhiệt.</para>
+            <table id="id3752164" summary="">
+              <tgroup cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c2"><media id="id1171618507764" alt=""><image src="../../media/graphics12-c8b3.jpg" mime-type="image/jpeg"/></media>1- ống trao đổi nhiệt; 2- Vỏ dàn; 3- ống lắp quạt; 4- Hơi ra</entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <media id="id1171621055178" alt=""><image src="../../media/graphics13-b591.jpg" mime-type="image/jpeg"/></media>
+                    </entry>
+                    <entry>
+                      <media id="id1171620414070" alt=""><image src="../../media/graphics14-9006.jpg" mime-type="image/jpeg"/></media>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </section>
+          <section id="id-143684427754">
+            <title>Hình 6-10 : Dàn ngưng không khí đối cưỡng bức</title>
+            <para id="id6790658">
+              <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+            </para>
+          </section>
+        </section>
+        <section id="id-0408074198614">
+          <title>Ưu điểm và nhược điểm</title>
+          <para id="id6686931">* Ưu điểm </para>
+          <para id="id6686935">- Không sử dụng nước nên chi phí vận hành giảm. Điều này rất phù hợp ở những nơi thiếu nước như khu vực thành phố và khu dân cư đông đúc.</para>
+          <para id="id6686946">- Không sử dụng hệ thống bơm, tháp giải nhiệt, vừa tốn kém lại gây ẩm ướt khu vực nhà xưởng. Dàn ngưng không khí ít gây ảnh hưởng đến xung quanh và có thể lắp đặt ở nhiều vị trí trong công trình như treo tường, đặt trên nóc nhà vv . . .</para>
+          <para id="id6735654">- Hệ thống sử dụng dàn ngưng không khí có trang thiết bị đơn giản hơn và dễ sử dụng.</para>
+          <para id="id6735666">- So với các thiết bị ngưng tụ giải nhiệt bằng nước, dàn ngưng không khí ít hư hỏng và ít bị ăn mòn.</para>
+          <para id="id6735676">* Nhược điểm</para>
+          <para id="id6735680">- Mật độ dòng nhiệt thấp, nên kết cấu khá cồng kềnh và chỉ thích hợp cho hệ thống công suất nhỏ và trung bình.</para>
+          <para id="id6735690">- Hiệu quả giải nhiệt phụ thuộc nhiều vào điều kiện khí hậu. Những ngày nhiệt độ cao áp suất ngưng tụ lên rất cao Ví dụ, hệ thống sử dụng R22, ở miền Trung, những ngày hè nhiệt độ không khí ngoài trời có thể đạt 40oC, tương ứng nhiệt độ ngưng tụ có thể đạt 48oC, áp suất ngưng tụ tương ứng là 18,5 bar, bằng giá trị đặt của rơ le áp suất cao. Nếu trong những ngày này không có những biện pháp đặc biệt thì hệ thống không thể hoạt động được do rơ le HP tác động. Đối với dàn ngưng trao đổi nhiệt đối lưu tự nhiên hiệu quả còn thấp nữa.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

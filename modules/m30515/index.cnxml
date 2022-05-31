@@ -1,0 +1,2185 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hệ thống lạnh máy đá</title>
+  <metadata>
+  <md:content-id>m30515</md:content-id><md:title>Hệ thống lạnh máy đá</md:title>
+  <md:abstract>Hệ thống lạnh máy đá</md:abstract>
+  <md:uuid>be261c03-7887-4689-a883-2ffcf7f90ff1</md:uuid>
+</metadata>
+
+<content>
+    <para id="id4012902">MỘT SỐ VẤN ĐỀ CẦN QUAN TÂM KHI SẢN XUẤT NƯỚC ĐÁ</para>
+    <section id="id-151741755195">
+      <title>Nồng độ tạp chất cho phép</title>
+      <para id="id4012916">Nước đá có vai trò rất quan trọng trong đời sống và trong công nghiệp. Trong công nghiệp người ta sử dụng nước đá để ướp lạnh bảo quản thực phẩm, rau quả chống hư hỏng. Trong đời sống vai trò nước đá càng quan trọng hơn như phục vụ giải khát, giải trí. Nước đá còn có vai trò quan trọng như tạo sân băng trượt băng nghệ thuật.</para>
+      <para id="id4012932">Trong công nghiệp chế biến thực phẩm nước đá thường được sử dụng dưới nhiều dạng dạng: đá cây, đá vảy, đá tấm, vv... Chúng đều được sử dụng để ướp đá thực phẩm trong quá trình chế biến.</para>
+      <para id="id4012948">Chất lượng nước đá chịu tác động của rất nhiều yếu tố: Các thành phần trong nước, phương pháp làm lạnh. Thông thường nước đá được lấy từ mạng nước thuỷ cục, các tạp chất và vi sinh vật trong nước không được vượt quá các giá trị qui định ở các bảng dưới đây.</para>
+      <section id="id-259275149678">
+        <title>Bảng 3-1: Hàm lượng tạp chất trong nước đá công nghiệp</title>
+        <table id="id4012977" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>TT</entry>
+                <entry>Tạp chất</entry>
+                <entry>Hàm lượng</entry>
+              </row>
+              <row>
+                <entry>1234567</entry>
+                <entry>- Số lượng vi khuẩn - Vi khuẩn đường ruột- Chất khô- Độ cứng chung của nước- Độ đục (theo hàm lượng chất lơ lửng)- Hàm lượng sắt- Độ pH</entry>
+                <entry>100 con/ml3 con/l01 g/l7 mg/l1,5mg/l0,3mg/l6,5-9,5</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-19219933499">
+      <title>Ảnh hưởng của tạp chất đến chất lượng nước đá </title>
+      <para id="id4013152">Tạp chất hoà tan trong nước làm cho chất lượng và thẩm mỹ của đá bị biến đổi. Các tạp chất có thể tạo ra màu sắc, màu đục không trong suốt. Một số tạp chất làm cho đá dễ bị nứt nẻ. Một số tạp chất tách ra được khi đông đá tạo thành cặn bẫn nằm ở đáy, nhưng một số tạp chất lại không tách ra được trong quá trình đóng băng, có tạp chất khi hoà tan trong nước làm cho đá khó đông hơn, do nhiệt độ đóng băng giảm. Dưới đây là ảnh hưởng của một số tạp chất đến chất lượng đá.</para>
+      <para id="id4013188">Bảng 3-2: Ảnh hưởng của tạp chất đến chất lượng nước đá</para>
+      <table id="id4013195" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>TT</entry>
+              <entry>Tạp chất</entry>
+              <entry>Ảnh hưởng</entry>
+              <entry>Kết quả sau chế biến</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>Cacbonat canxi CaCO3</entry>
+              <entry>- Tạo thành chất lắng bẫn ở dưới hoặc ở giữa cây</entry>
+              <entry>Tách ra được</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>Cacbonat magiê MgCO3</entry>
+              <entry>- Tạo thành chất lắng bẫn và bọt khí, làm nứt đá ở nhiệt độ thấp</entry>
+              <entry>Tách ra được</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>Ôxit sắt</entry>
+              <entry>- Tạo chất lắng màu vàng hay nâu và nhuộm màu chất lắng canxi và magiê</entry>
+              <entry>Tách ra được</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>Ôxit silic và ôxit nhôm</entry>
+              <entry>- Tạo chất lắng bẫn</entry>
+              <entry>Tách ra được</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>Chất lơ lửng</entry>
+              <entry>- Tạo cặn bẫn</entry>
+              <entry>Tách ra được</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>Sunfat natri clorua va sunfat canxi</entry>
+              <entry>- Tạo các vết trắng ở lõi, làm đục lõi và tăng thời gian đóng băng. Không tạo chất lắng</entry>
+              <entry>Không thay đổi</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>Clorua canxi và sunfat magiê</entry>
+              <entry>- Tạo chất lắng xanh nhạt hay xám nhạt ở lõi, kéo dài thời gian đông và tạo lõi không trong suốt.</entry>
+              <entry>Biến đổi thành sunfua canxi</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>Clorua magiê</entry>
+              <entry>- Tạo vết trắng, không có cặn</entry>
+              <entry>Biến đổi thành clorua canxi</entry>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry>Cacbonat natri</entry>
+              <entry>- Chỉ cần một lượng nhỏ cũng làm nứt đá ở nhiệt độ dưới -9oC. Tạo vết màu trắng ở lõi, kéo dài thời gian đóng băng. Tạo đục cao và không có cặn</entry>
+              <entry>Biến đổi thành cacbonat natri</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-163886215946">
+      <title>Phân loại nước đá </title>
+      <para id="id4185794">Có rất nhiều loại nước đá khác nhau tuỳ thuộc vào màu sắc, nguồn nước, hình dáng và mục đích của chúng.</para>
+      <section id="id-110828600987">
+        <title>Phân loại theo màu sắc </title>
+        <para id="id4185815">Theo màu sắc người ta phân ra 03 loại đá: đá đục, đá trong và đá pha lê.</para>
+        <para id="id4185823">a) Nước đá đục</para>
+        <para id="id4185829">Nước đá đục là nước đá có màu đục, không trong suốt, màu sắc như vậy là do có tạp chất ở bên trong. Về chất lượng, nước đá đục không thể sử dụng vào mọi mục đích được mà chỉ sử dụng trong kỹ thuật, công nghiệp nên gọi là nước đá kỹ thuật. Các tạp chất trong nước đá đục có thể ở dạng rắn, lỏng hoặc khí</para>
+        <para id="id4185851">- Các chất khí: ở nhiệt độ 0oC và áp suất khí quyển, nước có khả năng hoà tan khí với hàm lượng đến 29,2 mg/l, tức cỡ 0,03% thể tích. Khi đóng băng các chất khí tách ra tạo thành bọt khí và bị ngậm ở giữa tinh thể đá. Dưới ánh nắng, các bọt khí phản xạ toàn phần nên nhìn không trong suốt và có màu trắng đục.</para>
+        <para id="id4185885">- Các chất tan và chất rắn: Trong nước thường chứa các muối hoà tan, như muối canxi và muối magiê. Ngoài các muối hoà tan còn có các chất rắn lơ lửng như cát, bùn, đất, chúng lơ lửng ở trong nước. Trong quá trình kết tinh nước đá có xu hướng đẩy các chất tan, tạp chất, cặn bẫn và không khí ra. Quá trình kết tinh thực hiện từ ngoài vào trong nên càng vào trong tạp chất càng nhiều. Sau khi toàn bộ khối đã được kết tinh, các tạp chất, cặn bẫn thường bị ngậm lại ở tâm của khối đá. Các tạp chất này làm cho cây đá không trong suốt mà có màu trắng đục.</para>
+        <para id="id4185919">b) Nước đá trong</para>
+        <para id="id4185924">Nước đá trong là nước đá trong suốt, dưới tác dụng của các tia sáng phản xạ màu xanh phớt. Để có nước trong suốt cần loại bỏ các chất tan, huyền phù và khí trong nước. Vì vậy khi tan không để lại chất lắng.</para>
+        <para id="id4185944">Có thể loại bỏ các tạp chất ngay trong quá trình kết tinh của đá bằng cách vớt bỏ tạp chất nổi trên bề mặt đá khi kết tinh, tránh cho không bị ngậm giữa các lớp tinh thể.</para>
+        <para id="id4185956">Để sản xuất đá trong bắt buộc phải sử dụng nguồn nước chất lượng tốt thoả mãn các điều kiện nêu trong bảng 3-3.</para>
+        <para id="id4185968">Khi chất lượng nước không tốt, để tạo ra đá trong có thể thực hiện bằng cách:</para>
+        <para id="id4185975">- Cho nước luân chuyển mạnh, nâng cao nhiệt độ đóng băng lên -6-8oC, có thể thực hiện làm sạch bằng cách kết tinh chậm ở -2 -4oC.</para>
+        <para id="id4186006">- Làm mềm nước: tách cacbônat canxi, magiê, sắt, nhôm bằng vôi sống. Ví dụ tách Ca+ như sau:</para>
+        <para id="id4186022">Ca(OH)2 + Ca(CHO3)2 = 2CaCO3 + 2H2O</para>
+        <para id="id4186057">Trong quá trình tách các thành phần này các chất hữu cơ lơ lửng trong nước cũng đọng lại với các hợp chất cacbônat. Quá trình tách các hợp chất cacbônat kết tủa có thể thực hiện bằng cách lọc.</para>
+        <para id="id4186070">Bảng 3-3: Hàm lượng cho phép của các chất trong nước </para>
+        <table id="id4186077" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>TT</entry>
+                <entry>Tạp chất</entry>
+                <entry>Hàm lượng tối đa</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>- Hàm lượng muối chung</entry>
+                <entry>250 mg/l</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>- Sunfat + 0,75 clorua + 1,25 natri cacbonat </entry>
+                <entry>170 mg/l</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>- Muối cứng tạm thời</entry>
+                <entry>70 mg/l</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>- Hàm lượng sắt</entry>
+                <entry>0,04 mg/l</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>- Tính ôxi hoá O2</entry>
+                <entry>3 mg/l</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>- Độ pH</entry>
+                <entry>7</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4186329">Sử dụng vôi sống không khử được iôn sắt nên thường cho ngậm khí trước lúc lọc, iôn sắt kết hợp CO2 tạo kết tủa dễ dàng lọc để loại bỏ.</para>
+        <para id="id4186345">Có thể lọc nước bằng cát thạch anh hay bằng nhôm sunfat. Phương pháp này không những đảm bảo làm mềm nước, tích tụ các hợp chất hữu cơ và vôi mà còn chuyển hoá bicacbonat thành sunfat, làm giảm độ dòn của đá. Vì thế có thể hạ nhiệt độ cây đá xuống thấp mà không sợ bị nứt.</para>
+        <para id="id4186360">c) Nước đá pha lê</para>
+        <para id="id4186365">Khi nước được sử dụng để làm đá được khử muối và khí hoàn toàn thì đá tạo ra là đá pha lê. Đá pha lê trong suốt từ ngoài vào tâm và khi tan không để lại cặn bẫn. Nước đá pha lê có thể được sản xuất từ nước cất, nhưng như vậy giá thành sản phẩm quá cao. Nước đá pha lê khi xay nhỏ ít bị dính nên rất được ưa chuộng. </para>
+        <para id="id4186395">Nước đá pha lê có thể sản xuất ở các máy sản xuất đá nhỏ nhưng phải đảm bảo tốc độ trên bề mặt đóng băng lớn và khử muối sạch.</para>
+        <para id="id4186405">Khối lượng riêng của đá pha lê cỡ 910 đến 920 kg/m3.</para>
+      </section>
+      <section id="id-101528348403">
+        <title>Phân loại theo hình dạng </title>
+        <para id="id4186427">Theo hình dạng có thể phân ra nhiều loại đá khác nhau như sau:</para>
+        <para id="id4186434">- Máy đá cây: đá cây có dạng khối hộp, để thuận lợi cho việc lấy cây đá ra khỏi khuôn ít khi người ta sản xuất dưới dạng khối hộp chữ nhật mà dưới dạng chóp phía đáy thường nhỏ hơn phía miệng. Đá cây được kết đông trong các khuôn đá thường có các cỡ sau: 5; 12,5 ; 24; 50 ; 100; 150 ; 200; 300 kg. Khi rót nước vào khuôn, chỉ nên duy trì nước chiếm khoảng 90% dung tích khuôn, như vậy dung tích thực sự của khuôn lớn hơn dung tích danh định khoảng 10%. Sở dỉ như vậy là vì khuôn phải dự phòng cho sự giãn nở của đá khi đông và nước trong khuôn phải đảm bảo chìm hoàn toàn trong nước muối. Máy đá cây có thời gian đông đá tương đối dài vì khi đông đá, các lớp đá mới tạo thành là lớp dẫn nhiệt kém nên hạn chế truyền nhiệt vào bên trong. Ví dụ máy đá với khuôn 50 kg có thời gian đông đá khoảng 18 giờ.</para>
+        <para id="id4186485">Đá cây được sử dụng trong sinh hoạt để phục vụ giải khát, trong công nghiệp và đời sống để bảo quản thực phẩm. Hiện nay một số lượng lớn đá cây được sử dụng cho ngư dân bảo quản cá khi đánh bắt xa bờ và lâu ngày. Hiện nay ở nước ta người dân vẫn quen sử dụng đá cây để cho giải khát với số lượng khá lớn.</para>
+        <para id="id4186515">- Máy đá tấm: Có dạng hình tấm được sản xuất bằng cách phun nước lên bề mặt dàn lạnh dạng tấm. Kích cỡ của đá tấm: dài từ 3  6 m, cao 2  3 m, dày 250300mm. Khối lượng từ 1,5 đến 2,5 tấn.</para>
+        <para id="id4186555">- Máy đá vảy: Máy đá vảy có dạng không tiêu chuẩn, được cắt tách ra khỏi bề mặt tạo đá của các thiết bị và gảy vỡ dước dạng các mãnh vỡ nhỏ. </para>
+        <para id="id4186573">Máy đá vảy được sản xuất nhờ các cối đá dạng hình trụ tròn. Nước được phun lên bên trong hình trụ và được làm lạnh và đóng băng trên bề mặt trụ. Trụ tạo băng có 2 lớp, ở giữa là môi chất lạnh.</para>
+        <para id="id4186590">Đá vảy được sử dụng phổ biến trong các nhà máy chế biến, đặc biệt ở các nhà máy chế biến thực phẩm và thuỷ sản. Chúng được sử dụng để bảo quản thực phẩm khi nhập hàng và trong quá trình chế biến. Ngày nay nó đã trở thành thiết bị tiêu chuẩn, bắt buộc phải có ở các xí nghiệp đông lạnh, vì chỉ có sử dụng đá vảy mới đảm bảo yêu cầu vệ sinh. Ngoài ra đá vảy cũng có rất nhiều ưu điểm khác như giá thành rẻ, chi phí vận hành, đầu tư nhỏ. </para>
+        <para id="id4186618">Nước đá vảy có chiều dày rất khác nhau từ 0,5 đến 5mm tuỳ thuộc vào thời gian làm đá. Độ dày này có thể điều chỉnh được nhờ thay đổi tốc độ quay của cối đá hoặc dao cắt đá. </para>
+        <para id="id4186631">- Máy đá viên (máy đá dạng ống): Nước đá có dạng các đoạn hình trụ rỗng được sản xuất trong các ống 57 x 3,5 và 38 x 3mm, nên đường kính của viên đá là 50 và 32. Khi sản xuất đá tạo thành trụ dài, nhưng được cắt nhỏ thành những đoạn từ 30100mm nhờ dao cắt đá. Máy đá viên được sử dụng khá phổ biến trong đời sống, hiện nay nhiều quán giải khát, quán cà phê có sử dụng đá viên.</para>
+        <para id="id4186694">- Máy đá tuyết: Đá sản xuất ra có dạng xốp như tuyết.</para>
+        <para id="id4186707">Đá tuyết có thể được ép lại thành viên kích thước phù hợp yêu cầu sử dụng.</para>
+      </section>
+      <section id="id-806957881222">
+        <title>Phân loại theo nguồn nước sản xuất đá</title>
+        <para id="id4186723">Theo nguồn nước sử dụng làm đá thì có hai loại máy: Làm đá từ nước ngọt và nước mặn</para>
+        <para id="id4186734">- Đá nước ngọt được sử dụng trong nhiều mục ích khác nhau: Bảo quản thực phẩm, giải khát, sinh hoạt.</para>
+        <para id="id4186744">- Đá nước mặn sử dụng bảo quản thực phẩm, đặc biệt sử dụng bảo quản cá khi đánh bắt xa bờ. Nguyên liệu sản xuất đá là nước biển có độ mặn cao. Nhiệt độ đông đặc khá thấp nên chất lượng bảo quản tốt và thời gian bảo quản có thể kéo dài hơn. Để sản xuất đá mặn nhất thiết phải sử dụng phương pháp làm lạnh trực tiếp, vì thế hạn chế tổn thất nhiệt năng. </para>
+        <para id="id4186767">Dưới đây chúng tôi xin giới thiệu một số hệ thống lạnh máy đá được sử dụng phổ biến trong đời sống và công nghiệp.</para>
+      </section>
+    </section>
+    <section id="id-929941484772">
+      <title>HỆ THỐNG MÁY ĐÁ CÂY</title>
+      <para id="id4186787">Phương pháp sản xuất đá cây là một trong những phương pháp cổ điển nhất. Đá cây được sản xuất trong các Bú dung dịch muối lạnh, có nhiệt độ khoảng –10oC. Nước được đặt trong các khuôn có kích thước nhất định, theo yêu cầu sử dụng. Khối lượng thường gặp nhất của các cây đá là 12,5; 25; 50 kg. Ưu điểm của phương pháp sản xuất đá cây là đơn giản, Dụ thực hiện, đá có khối lượng lớn nên vận chuyển bảo quản được lâu ngày, đặc biệt dùng cho việc bảo quản cá, thực phẩm khi vận chuyển đi xa. Ngoài ra đá cây cũng được sử dụng làm đá sinh hoạt và giải khát của nhân dân.</para>
+      <para id="id4186818">Tuy nhiên, đá cây có một số nhược điểm quan trọng như: chi phí đầu tư, vận hành lớn, các chỉ tiêu Vũ Vử sinh không cao do có nhiều khâu không đảm bảo Vử sinh, tính chủ động trong sản xuất thấp do thời gian đông đá lâu. Đi kèm theo Hử thống máy đá cây phải trang Bỵ thêm nhiều Hử thống thiết Bỵ khác như: Hử thống cẩu chuyển, Hử thống cấp nước khuôn đá, Bú nhúng đá, bàn lật đá, kho chứa đá, máy xay đá. Vì vậy ngày nay trong kỹ thuật chế biến thực phẩm người ta ít sử dụng đá cây. Nếu có trang Bỵ cũng chỉ nhằm bán cho tàu thuyền đánh cá để bảo quản lâu ngày.</para>
+      <para id="id4186843">Do khối đá lớn nên sản xuất đá cây thường có thời gian làm đá khá lâu từ 17 đến 20 tiếng, vì vậy để giảm thời gian làm đá người ta có các biện pháp sau:</para>
+      <para id="id4186857">- Làm lạnh sơ bộ nước trước khi cho vào khuôn đá.</para>
+      <para id="id4186866">- Bỏ phần lỏi chưa đóng băng, phần nước có nhiều muối hoà tan. Với phương pháp này thời gian làm đông đá giảm 40-50%.</para>
+      <para id="id4186878">- Giảm nhiệt độ nước muối xuống –15oC, thời gian giảm 25%, nhưng chi phí điện năng lớn.</para>
+      <para id="id4186891">Một trong những điểm khác của sản xuất đá cây, là để lấy đá ra khỏi khuôn cần phải nhúng trong Bú nước cho tan một phần đá mới có thể lấy ra được. Để làm tan đá có thể lấy nước nóng từ thiết Bỵ ngưng tụ. Do phải làm tan đá nên có tổn thất một phần lạnh nhất định.</para>
+      <para id="id4186918">Thiết Bỵ quan trọng nhất của Hử thống máy đá cây là Bú muối. Thông thường Bú muối được xây dựng từ gạch thẻ và có lớp cách nhiệt dày 200mm, bên trong Bú là Hử thống khung đỡ các linh đá, dàn lạnh. Đại bộ phận các thiết Bỵ trong Bú đá là thép nên quá trình ăn mòn tương đối mạnh, sau một thời gian làm việc nhất định nước muối đã nhuộm màu vàng của Rứ sắt, chất lượng Vử sinh không cao.</para>
+      <para id="id4186947">Trong khi sản xuất nhớ chú ý nước vào khuôn chỉ chiếm khoảng 9/10 thể tích, để khi làm lạnh nước giãn nở và không thể tràn ra Bú, làm giảm nồng độ muối, ảnh hưởng tới nhiệt độ đông đặc của nước đá trong Bú.</para>
+      <para id="id4186967">Sản xuất đá cây không thể thực hiện liên tục và tự động hoá cao được, do các khâu ra đá, cấp nước cho các khuôn đá, chiếm thời gian khá lâu và khó tự động. Hệ thống còn có nhiều khâu phải làm bằng tay như vào nước, ra đá, vận chuyển, bốc xếp đá, xay đá.</para>
+      <section id="id-762177110905">
+        <title>Sơ đồ nguyên lý hệ thống máy đá cây</title>
+        <para id="id4187001">Trên hình 3-1 là sơ đồ nguyên lý của Hử thống lạnh máy đá cây được sử dụng phổ biến nhất hiện nay. Hệ thống có các thiết Bỵ chính sau:</para>
+        <list id="id4187013" list-type="enumerated">
+          <item>Máy nén: Máy nén 1 cấp, sử dụng môi chất NH3 hoặc R22.</item>
+        </list>
+        <para id="id4187034">2. Bình chứa cao áp.</para>
+        <para id="id4187039">3. Dàn ngưng: Có thể sử dụng dàn ngưng tụ bay hơi, bình ngưng, dàn ngưng tụ kiểu tưới và có thể sử dụng dàn ngưng không khí.</para>
+        <para id="id4187048">4. Bình tách dầu. </para>
+        <para id="id4187053">5. Bình tách khí không ngưng.</para>
+        <para id="id4187059">6. Bình thu hồi dầu (sử dụng trong hệ thống NH3).</para>
+        <para id="id4187065">7. Bình tách lỏng.</para>
+        <para id="id4187070">8. Bình giữ mức- tách lỏng.</para>
+        <para id="id4187076">9. Bể nước muối làm đá, cùng bộ cánh khuấy và dàn lạnh kiểu xương cá.</para>
+        <para id="id4187085">Trong hệ thống lạnh máy đá có 2 thiết bị có thể coi là đặc thù của hệ thống. Đó là dàn lạnh xương cá và bình giữ mức – tách lỏng.</para>
+        <para id="id4187098">Đặc điểm hệ thống máy đá cây</para>
+        <para id="id4187103">Ưu điểm: </para>
+        <para id="id4187108">- Vì có dạng khối lớn nên có khả năng tích trữ lâu, rất tiện lớn cho việc vận chuyển đi xa và dùng bảo quản thực phẩm lâu ngày.</para>
+        <para id="id4187122">- Dễ dàng chế tạo, các thiết bị của hệ thống có thể chế tạo trong nước, không đòi hỏi phải có thiết bị đặc biệt.</para>
+        <para id="id4187134">Nhược điểm:</para>
+        <para id="id4187139">- Chi phí vận hành lớn: Chi phí nhân công vận hành, vào nước, ra đá, vận chuyển đá, xay đá, chi phí điện năng (mô tơ khuấy, cẩu đá, máy xay đá)</para>
+        <para id="id4187152">- Chi phí đầu tư lớn: Bể đá, cẩu đá, bể nhúng nước, bàn lật, hệ thống cấp vào nước khuôn đá, kho bảo quản đá, máy xay đá vv...</para>
+        <para id="id4187162">- Thời gian làm đá lâu nên không chủ động sản xuất và chế biến.</para>
+        <para id="id4187169">- Khi xuất đá thì đá ra hàng loạt nên cần kho bảo quản.</para>
+        <para id="id4187179">- Không bảo đảm vệ sinh: Bể muối và khâu xay đá.</para>
+        <para id="id4187188">- Tổn thất nhiệt lớn: Quá trình từ sản xuất đên sử dụng qua rất nhiều khâu nên tổn thất nhiệt lớn, ngoài ra khi xay đá và nhúng khuôn đá còn gây ra mất mát cơ học.</para>
+        <para id="id4187200">Do có nhiều nhược điểm như vậy nên hiện nay người ta ít sử dụng máy đá cây trong để chế biến thực phẩm, mà chủ yếu sản xuất để bán cho ngư dân đánh cá và cho sinh hoạt. Đối với các xí nghiệp chế biến thuỷ sản một trong những điều kiện để được cấp code EU nhập hàng vào các nước E.U thì phải sử dụng đá vảy để chế biến. </para>
+        <figure id="id4187217">
+          <media id="id1168806899480" alt=""><image src="graphics1.wmf" mime-type="image/wmf" height="670" width="388"/></media>
+        </figure>
+        <para id="id4187241">Hình 3-1: Sơ đồ nguyên lý hệ thống máy đá cây</para>
+        <para id="id4187248">3.2.2 Kết cấu bể đá </para>
+        <para id="id4187253">Hình 3-5 giới thiệu kết cấu của một bể đá. Bể đá được chia thành 2 hoặc 3 ngăn, trong đó có 01 ngăn để đặt dàn lạnh, các ngăn còn lại đặt các khuôn đá. Bể có 01 bộ cánh khuấy, bố trí thẳng đứng hay nằm ngang tuỳ ý. Bố trí thẳng đứng tiện lợi hơn, tránh rò rỉ nước muối ra bên ngoài nên hay được lựa chọn. Các khuôn đá được ghép lại thành các linh đá. Mỗi linh đá có từ 5 đến 7 khuôn đá hoặc lớn hơn. Có nhiều cách bố trí linh đá, các linh đá bố trí cố định hoặc có thể di chuyển dồn đến hai đầu nhờ hệ thống xích. Khi bố trí như vậy rất tiện lợi khi cẩu linh đá ra ngoài.</para>
+        <para id="id4187291">Bên trên bể đá có bố trí hệ thống cần trục và cẩu để cẩu các linh đá lên khỏi bể, đem nhúng vào bể nước để tách đá, sau đó đặt lên bàn để lật đá xuống sàn. Trên bể nhúng người ta bố trí hệ thống vòi cung cấp nước để nạp nước vào các khuôn sau khi đã ra đá. Việc cung cấp nước cho các khuôn đã được định lượng trước để khi cấp nước chỉ chiếm khoảng 90% thể tích khuôn.</para>
+        <para id="id4187306">Nước muối thường sử dụng là Nacl hoặc CaCl2 và đôi khi người ta sử dụng cả MgCl2. </para>
+        <para id="id4187325">Bể muối được xây bằng gạch thẻ và bên trong người ta tiến hành bọc cách nhiệt và trong cùng là lớp thép tấm. Cấu tạo cách nhiệt bể muối được dẫn ra ở các bảng dưới đây: </para>
+        <para id="id4187340">3.2.2.1. Kết cấu cách nhiệt tường</para>
+        <para id="id4187346">Trên hình 3-2 mô tả kết cấu của tường bể đá, đặc điểm các lớp mô tả trên bảng 3-4. </para>
+        <para id="id4187355">Bảng 3-4: Các lớp cách nhiệt bể đá cây</para>
+        <table id="id4187361" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>TT</entry>
+                <entry>Lớp vật liệu</entry>
+                <entry>Chiều dày(mm)</entry>
+                <entry>Hệ số dẫn nhiệt, (W/m.K)</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Lớp vữa xi măng</entry>
+                <entry>1020</entry>
+                <entry>0,78</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Lớp gạch thẻ</entry>
+                <entry>110220</entry>
+                <entry>0,23  0,29</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>Lớp vữa xi măng</entry>
+                <entry>1020</entry>
+                <entry>0,78</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>Lớp hắc ín quét liên tục</entry>
+                <entry>0,1</entry>
+                <entry>0,70</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>Lớp giấy dầu chống thấm</entry>
+                <entry>12</entry>
+                <entry>0,175</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>Lớp cách nhiệt</entry>
+                <entry>100200</entry>
+                <entry>0,018  0,020</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>Lớp giấy dầu chống thấm</entry>
+                <entry>12</entry>
+                <entry>0,175</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>Lớp thép tấm</entry>
+                <entry>56</entry>
+                <entry>45,3</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id4187830">
+          <media id="id1168807727392" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="228" width="409"/></media>
+        </figure>
+        <section id="id-574967699722">
+          <title>Hình 3-2: Kết cấu cách nhiệt tường bể đá</title>
+          <para id="id4187863">3.2.2.2. Kết cấu cách nhiệt nền </para>
+          <para id="id4187870">Trên hình 3-3 mô tả kết cấu chi tiết các lớp kết cấu của nền bể đá, đặc điểm của các lớp chỉ ra trên bảng 3-5.</para>
+          <figure id="id4187882">
+            <media id="id1168807962823" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="326" width="339"/></media>
+          </figure>
+        </section>
+        <section id="id-182552210369">
+          <title>Hình 3-3: Kết cấu cách nhiệt nền bể đá</title>
+          <para id="id4187915">Bảng 3-5: Các lớp cách nhiệt nền bể đá</para>
+          <table id="id4187921" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>TT</entry>
+                  <entry>Lớp vật liệu</entry>
+                  <entry>Chiều dày(mm)</entry>
+                  <entry>Hệ số dẫn nhiệt, (W/m.K)</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>Lớp thép tấm</entry>
+                  <entry>56</entry>
+                  <entry>45,3</entry>
+                </row>
+                <row>
+                  <entry>2</entry>
+                  <entry>Lớp cát lót mỏng</entry>
+                  <entry>1015</entry>
+                  <entry>0,19</entry>
+                </row>
+                <row>
+                  <entry>3</entry>
+                  <entry>Lớp bê tông cốt thép </entry>
+                  <entry>60100</entry>
+                  <entry>1,28</entry>
+                </row>
+                <row>
+                  <entry>4</entry>
+                  <entry>Lớp giấy dầu chống thấm</entry>
+                  <entry>12</entry>
+                  <entry>0,175</entry>
+                </row>
+                <row>
+                  <entry>5</entry>
+                  <entry>Lớp cách nhiệt </entry>
+                  <entry>100200</entry>
+                  <entry>0,018  0,020</entry>
+                </row>
+                <row>
+                  <entry>6</entry>
+                  <entry>Lớp giấy dầu chống thấm</entry>
+                  <entry>12</entry>
+                  <entry>0,175</entry>
+                </row>
+                <row>
+                  <entry>7</entry>
+                  <entry>Lớp hắc ín quét liên tục</entry>
+                  <entry>0,1</entry>
+                  <entry>0,7</entry>
+                </row>
+                <row>
+                  <entry>8</entry>
+                  <entry>Lớp bê tông đá dăm M200</entry>
+                  <entry>150200</entry>
+                  <entry>1,28</entry>
+                </row>
+                <row>
+                  <entry>9</entry>
+                  <entry>Lớp đá làm nền và đất đầm kỹ</entry>
+                  <entry>-</entry>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4188423">3.2.2.3. Kết cấu nắp bể đá</para>
+          <para id="id4188428">Để tiện lợi cho việc ra vào đá, nắp bể đá được đậy bằng các tấm đanh gỗ dày 30mm, =0,2 W/m.K, trên cùng phủ thêm lớp vải bạt. Do đó tổn thất nhiệt ở nắp bể khá lớn. </para>
+          <para id="id4188445">3.2.2.4. Xác định chiều dày cách nhiệt và kiểm tra đọng sương tường bể đá </para>
+          <para id="id4188453">1. Chiều dày cách nhiệt bể đá</para>
+          <para id="id4188458">Chiều dày của lớp cách nhiệt được xác định theo phương trình: </para>
+          <para id="id4188466"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CN</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext>.</m:mtext><m:mfenced open="[" close="]"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>k</m:mi></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ rSub { size 8{ ital "CN"} } =λ rSub { size 8{ ital "CN"} }  "."  left [ {  {1}  over  {k} }  -  {  {1}  over  {α rSub { size 8{1} } } }  -  {  {1}  over  {α rSub { size 8{2} } } }  -  Sum { {  {δ rSub { size 8{i} } }  over  {λ rSub { size 8{i} } } } }  right ]} {}</m:annotation></m:semantics></m:math>, m(3-1)</para>
+          <para id="id4188652">k - Hệ số truyền nhiệt của bể đá, W/m2.K. Hệ số truyền nhiệt k được xác định trên cơ sở tính toán kinh kế - kỹ thuật. Có thể lấy hệ số truyền nhiệt k tương đương hệ số truyền k của kho lạnh.</para>
+          <para id="id4188673">1 - Hệ số toả nhiệt bên ngoài bể đá, từ không khí lên tường bể muối, W/m2.K</para>
+          <para id="id4188694">2 - Hệ số toả nhiệt bên trong bể đá, toả nhiệt khi nước muối chuyển động ngang qua vách đứng, W/m2.K</para>
+          <para id="id4188720">i - Chiều dày của các lớp còn lại của tường bể đá, mm(xem bảng 3-4).</para>
+          <para id="id4188736">i – Hệ số dẫn nhiệt của các lớp còn lại, W/m.K.</para>
+          <para id="id4188751">2. Kiểm tra điều kiện đọng sương </para>
+          <para id="id4188757">Sau khi xác định được chiều dày cách nhiệt, tiến hành chọn chiều dày theo các kích cỡ tiêu chuẩn. Chiều dày tiêu chuẩn của các lớp cách nhiệt là 25, 50, 75, 100, 125, 150, 175 và 200mm. </para>
+          <para id="id4188769">Sau khi chọn chiều dày cách nhiệt theo các bề dày tiêu chuần, phải xác định hệ số truyền nhiệt thực của tường theo kích thước lựa chọn để từ đó xác định xem có khả năng đọng sương không và làm cơ sở tính toán tổn thất do truyền nhiệt:</para>
+          <para id="id4188789"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k= {  {1}  over  { {  {1}  over  {α rSub { size 8{1} } } } + Sum { {  {δ rSub { size 8{i} } }  over  {λ rSub { size 8{i} } } } } + {  {1}  over  {α rSub { size 8{2} } } } } } } {}</m:annotation></m:semantics></m:math> (3-2)</para>
+          <para id="id4188924">Để không đọng sương trên bề mặt bên ngoài bể đá, hệ số truyền nhiệt thực phải thoả mãn điều kiện sau:</para>
+          <para id="id4188937"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mrow><m:mi/><m:mo stretchy="false">≤</m:mo><m:mi/></m:mrow><m:mn>0,</m:mn><m:mtext>95</m:mtext><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mfrac><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k`` &lt;= ``0,"95"α rSub { size 8{1} }  {  {t rSub { size 8{1} } ` - `t rSub { size 8{s} } }  over  {t rSub { size 8{1} } ` - `t rSub { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> (3-3)</para>
+          <para id="id4189078">trong đó:</para>
+          <para id="id4189083">t1 - Nhiệt độ không khí bên ngoài tường. oC</para>
+          <para id="id4189100">t2- Nhiệt độ nước muối trong bể, oC</para>
+          <para id="id4189116">tS - Nhiệt độ đọng sương ứng với trạng thái không khí bên ngoài tường, oC</para>
+          <para id="id4189138">3.2.3 Xác định kích thước bể đá</para>
+          <para id="id4189143">Để xác định kích thước bể đá phải căn cứ vào số lượng, kích thước của cây đá, linh đá (tổ hợp từ 57 khuôn đá), dàn lạnh và cách bố trí dàn lạnh, loại khuôn đá, hệ thống tuần hoàn nước muối bên trong bể.</para>
+          <para id="id4189167">3.2.3.1 Xác định số lượng và kích thước khuôn đá</para>
+          <para id="id4189174">Số lượng khuôn đá được xác định dựa vào năng suất bể đá và khối lượng cây đá:</para>
+          <para id="id4189184"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>N</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>M</m:mi><m:mi>m</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N= {  {M}  over  {m} } } {}</m:annotation></m:semantics></m:math> (3-4)</para>
+          <para id="id4189254">trong đó:</para>
+          <para id="id4189259">M – Khối lượng đá trong bể ứng với một mẻ, kg</para>
+          <para id="id4189269">Khối lượng đá trong bể đúng bằng năng suất của bể đá trong một ngày. Vì trong một ngày người ta chỉ chạy được 01 mẻ (hết 18 giờ), thời gian còn lại dành cho việc ra đá và nạp nước mới cho các khuôn đá.</para>
+          <para id="id4189284">m - Khối lượng mỗi cây đá, kg</para>
+          <para id="id4189291">* Cần lưu ý khi tỷ số E/m là số nguyên ta lấy N= E/m, khi tỷ số đó không phải là số nguyên thì lấy phần nguyên của tỷ số đó cộng 1.</para>
+          <para id="id4189309">Đá cây thường được sản xuất với các loại khuôn và kích thước chuẩn sau đây:</para>
+          <para id="id4189316">Bảng 3-6: Kích thước khuôn đá</para>
+          <table id="id4189322" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Khối lượng cây đá( kg )</entry>
+                  <entry>Khối lượng khuôn ( kg )</entry>
+                  <entrytbl cols="3">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c3">Kích thước khuôn, mm</entry>
+                      </row>
+                      <row>
+                        <entry>Chiều cao( mm )</entry>
+                        <entry>Đáy lớn( mm )</entry>
+                        <entry>Đáy bé( mm )</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                  <entry>Thời gian đông đá( Giờ )</entry>
+                  <entry>Thời gian nhúng ( Phút )</entry>
+                </row>
+                <row>
+                  <entrytbl namest="c1" nameend="c4" cols="6">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <colspec colnum="6" colname="c6"/>
+                    <tbody>
+                      <row>
+                        <entry>3,5</entry>
+                        <entry>3,0</entry>
+                        <entry>300</entry>
+                        <entry>340x60</entry>
+                        <entry>320x40</entry>
+                        <entry>4</entry>
+                      </row>
+                      <row>
+                        <entry>12,5 </entry>
+                        <entry>8,6</entry>
+                        <entry>1115</entry>
+                        <entry>190x110</entry>
+                        <entry>160x80</entry>
+                        <entry>8</entry>
+                      </row>
+                      <row>
+                        <entry>25</entry>
+                        <entry>11,5</entry>
+                        <entry>1115</entry>
+                        <entry>260x130</entry>
+                        <entry>280x110</entry>
+                        <entry>12</entry>
+                      </row>
+                      <row>
+                        <entry>50</entry>
+                        <entry>27,2</entry>
+                        <entry>1115</entry>
+                        <entry>380x190</entry>
+                        <entry>340x160</entry>
+                        <entry>16</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                  <entry>2 - 4</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4189776">3.2.3.2 Xác định số lượng và kích thước linh đá</para>
+          <para id="id4189782">Đối với đại đa số các máy đá công suất lớn từ 5 Tấn/ngày trở lên đều sử dụng khuôn loại 50 kg. Các khuôn đá được bố trí thành các linh đá, mỗi linh đá có từ 5  9 khuôn. Trên hình (3-4) biểu thị cách lắp đặt của một linh đá có 7 khuôn đá, một kiểu hay được sử dụng. </para>
+          <figure id="id4189803">
+            <media id="id5462615" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="172" width="456"/></media>
+          </figure>
+        </section>
+      </section>
+      <section id="id-324298034871">
+        <title>Hình 3-4: Linh đá cây 50 kg </title>
+        <para id="id4189839">- Số lượng linh đá được xác định</para>
+        <para id="id4189845"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>N</m:mi><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m rSub { size 8{1} } = {  {N}  over  {n rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math>(3-5)</para>
+        <para id="id4189937">N - Số khuôn đá,</para>
+        <para id="id4189946">n1 - Số khuôn đá trên 01 linh đá</para>
+        <para id="id4189958">Khoảng cách giữa các khuôn đá trong linh đá là 225mm, 02 khuôn hai đầu cách nhau 40mm để móc cẩu. Khoảng hở hai đầu còn lại là 75mm</para>
+        <para id="id4189970">Vì vậy chiều dài mỗi linh đá được xác định như sau</para>
+        <para id="id4189979">l = n1 x 225 + 2x75 + 2x40= n1 x 225 + 230</para>
+        <para id="id4189995">Ví dụ:</para>
+        <para id="id4190000">- Linh đá có 5 khuôn: l = 1355 mm</para>
+        <para id="id4190006">- Linh đá có 6 khuôn: l = 1580 mm</para>
+        <para id="id4190013">- Linh đá có 7 khuôn: l = 1805 mm</para>
+        <para id="id4190019">- Linh đá có 8 khuôn: l = 2030 mm</para>
+        <para id="id4190026">- Linh đá có 9 khuôn: l = 2255 mm</para>
+        <para id="id4190032">Chiều rộng của linh đá là 425mm, chiều cao linh đá là 1150mm</para>
+        <para id="id4190043">3.2.3.3 Xác định kích thước bên trong bể đá</para>
+        <para id="id4190049">Kích thước bể đá phải đủ để bố trí các khuôn đá, dàn lạnh, bộ cánh khuấy và các khe hở cần thiết để nước muối chuyển động tuần hoàn.</para>
+        <para id="id4190060">Có 2 cách bố trí dàn lạnh: Bố trí dàn lạnh ở giữa, hai bên có 02 dãy khuôn đá và bố trí dàn lạnh một bên, khuôn đá một bên. Cách bố trí dàn lạnh ở giữa, hai bên có 02 dãy khuôn đá có ưu điểm là hiệu quả truyền nhiệt cao và tốc độ nước muối chuyển động trên toàn bể đồng đều hơn, vì vậy hay được lựa chọn. </para>
+        <para id="id4190083">1) Xác định chiều rộng bể đá:</para>
+        <para id="id4190093">W = 2.l + 4 + A(3-6)</para>
+        <para id="id4190113">trong đó </para>
+        <para id="id4190117">l - Chiều dài của 01 linh đá</para>
+        <para id="id4190124"> - Khe hở giữa linh đá và vách trong bể đá  = 25mm</para>
+        <para id="id4190142">A - Chiều rộng cần thiết để lắp dàn lạnh xương cá: A = 600  900mm</para>
+        <para id="id4190156">Ví dụ: Bề rộng của bể được xác định tuỳ thuộc vào số khuôn đá trên 01 linh đá cụ thể như sau:</para>
+        <para id="id4190171">- Linh đá có 5 khuôn: W = 2810 + A mm</para>
+        <para id="id4190178">- Linh đá có 6 khuôn: W = 3260 + A mm</para>
+        <para id="id4190186">- Linh đá có 7 khuôn: W = 3710 + A mm</para>
+        <para id="id4190194">- Linh đá có 8 khuôn: W = 4160 + Amm</para>
+        <para id="id4190202">- Linh đá có 9 khuôn: W = 4610 + Amm</para>
+        <figure id="id4190212">
+          <media id="id4062793" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="320" width="448"/></media>
+        </figure>
+        <para id="id4190236">Hình 3-5: Bế trí bể đá với linh đá 7 khuôn đá</para>
+        <para id="id4190242">2) Xác định chiều dài bể đá </para>
+        <para id="id4190252">Chiều dài bể đá được xác định theo công thức:</para>
+        <para id="id4190259">L = B + C + m2.b (3-7)</para>
+        <para id="id4190277">B - Chiều rộng các đoạn hở lắp đặt bộ cánh khuấy và tuần hoàn nước: B = 600mm</para>
+        <para id="id4190288">C - Chiều rộng đoạn hở cuối bể: C = 500mm</para>
+        <para id="id4190295">b - khoảng cách giữa các linh đá, được xác định trên cơ sở độ rộng của linh đá và khoảng hở giữa chúng b = 425 + 50mm = 475mm </para>
+        <para id="id4190308">m2 - Số linh đá dọc theo chiều dài (trên một dãy)</para>
+        <para id="id4190321">Như vậy:</para>
+        <para id="id4190325">L = m2.475 + 1100 mm </para>
+        <para id="id4190335">Ví dụ: Máy đá 10 Tấn, sử dụng linh đá 7 khuôn</para>
+        <para id="id4190349">- Số khuôn đá:</para>
+        <para id="id4190355">N = 10.000/50 = 200 khuôn</para>
+        <para id="id4190360">- Số linh đá  :</para>
+        <para id="id4190368">m1 = N/7 = 200/7  29 linh đá</para>
+        <para id="id4190385">- Bố trí dàn lạnh ở giữa, các linh đá bố trí thành 02 dãy 2 bên. Vậy số linh đá trên một dãy:</para>
+        <para id="id4190394">m2 = 15 linh đá</para>
+        <para id="id4190404">- Chiều dài bể đá:</para>
+        <para id="id4190411">L = 15 x 475 + 1100 = 8.225mm</para>
+        <para id="id4190415">3) Xác định chiều cao của bể đá</para>
+        <para id="id4190422">Chiều cao của bể đá phải đủ lớn để có khoảng hở cần thiết giữa đáy khuôn đá và bể. Mặt khác phía trên linh đá là một khoảng hở cỡ 100mm, sau đó là lớp gỗ dày 30mm </para>
+        <para id="id4190441">Tổng chiều cao của bể là h = 1250mm</para>
+        <para id="id4190447">Dưới đây là kích thước bể đá sử dụng khuôn đá 50 kg, linh đá 7 khuôn, dàn lạnh xương cá đặt ở giữa, các linh đá bố trí thành 02 dãi 2 bên, chiều rộng đặt dàn lạnh xương cá A khác nhau dùng tham khảo</para>
+        <para id="id4190460">Bảng 3-7: Thông số bể đá</para>
+        <table id="id4190466" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Bể đá</entry>
+                <entry>Số khuôn đá, N</entry>
+                <entry>Tổng linh đá, m1</entry>
+                <entry>Số linh đá trên một dãi. m2</entry>
+                <entry>Bề rộng A, mm</entry>
+                <entry>Dài (mm)</entry>
+                <entry>Rộng (mm)</entry>
+                <entry>Cao (mm)</entry>
+              </row>
+              <row>
+                <entry>- Bể 5 Tấn</entry>
+                <entry>100</entry>
+                <entry>15</entry>
+                <entry>8</entry>
+                <entry>660</entry>
+                <entry>4.900</entry>
+                <entry>4.370</entry>
+                <entry>1.250</entry>
+              </row>
+              <row>
+                <entry>- Bể 10 Tấn</entry>
+                <entry>200</entry>
+                <entry>29</entry>
+                <entry>15</entry>
+                <entry>700</entry>
+                <entry>8.225</entry>
+                <entry>4.410</entry>
+                <entry>1.250</entry>
+              </row>
+              <row>
+                <entry>- Bể 15 Tấn</entry>
+                <entry>300</entry>
+                <entry>43</entry>
+                <entry>22</entry>
+                <entry>800</entry>
+                <entry>11.550</entry>
+                <entry>4.510</entry>
+                <entry>1.250</entry>
+              </row>
+              <row>
+                <entry>- Bể 20 Tấn</entry>
+                <entry>400</entry>
+                <entry>58</entry>
+                <entry>29</entry>
+                <entry>860</entry>
+                <entry>14.875</entry>
+                <entry>4.570</entry>
+                <entry>1.250</entry>
+              </row>
+              <row>
+                <entry>- Bể 25 Tấn</entry>
+                <entry>500</entry>
+                <entry>72</entry>
+                <entry>36</entry>
+                <entry>900</entry>
+                <entry>18.200</entry>
+                <entry>4.610</entry>
+                <entry>1.250</entry>
+              </row>
+              <row>
+                <entry>- Bể 30 Tấn</entry>
+                <entry>600</entry>
+                <entry>86</entry>
+                <entry>43</entry>
+                <entry>900</entry>
+                <entry>21.525</entry>
+                <entry>4.610</entry>
+                <entry>1.250</entry>
+              </row>
+              <row>
+                <entry>- Bể 35 Tấn</entry>
+                <entry>700</entry>
+                <entry>100</entry>
+                <entry>50</entry>
+                <entry>1000</entry>
+                <entry>24.850</entry>
+                <entry>4.710</entry>
+                <entry>1.250</entry>
+              </row>
+              <row>
+                <entry>- Bể 40 Tấn</entry>
+                <entry>800</entry>
+                <entry>115</entry>
+                <entry>58</entry>
+                <entry>1000</entry>
+                <entry>28.650</entry>
+                <entry>4.710</entry>
+                <entry>1.250</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4191258">Kích thước của bể xác định trên đây là kích thước bên trong, muốn xác định kích thước bên ngoài phải cộng thêm chiều dày kết cấu cách nhiệt.</para>
+        <para id="id4191270">3.2.4 Thời gian làm đá</para>
+        <para id="id4191275">Thời gian làm đá phụ thuộc rất nhiều yếu tố, trong đó chủ yếu các yếu tố sau:</para>
+        <para id="id4191284">- Khối lượng và kích thước cây đá. Cây đá có kích thước và khối lượng càng nhỏ thì thời gian làm đá càng nhanh và ngược lại.</para>
+        <para id="id4191294">- Nhiệt độ nước muối. Nhiệt độ nước muối khoảng –10oC. Khi giảm nhiệt độ nước muối thì thời gian giảm đáng kể. Tuy nhiên khi nhiệt độ quá thấp thì tiêu tốn điện năng và tổn thất nhiệt tăng.</para>
+        <para id="id4191318">- Tốc độ tuần hoàn của nước muối. Thường tốc độ này không lớn lắm, do tiết diện ngang bể lớn, tốc độ tuần hoàn khoảng 12 m/s.</para>
+        <para id="id4191340">Có rất nhiều phương pháp xác định thời gian làm lạnh, theo công thức thực nghiệm của Plank thời gian làm lạnh đá cây được xác định theo công thức: </para>
+        <para id="id4191352"> = A.bo.(bo+B)/tm(3-8)</para>
+        <para id="id4191420"> – Thời gian làm đá, giờ</para>
+        <para id="id4191432">tm- Nhiệt độ nước muối trung bình trong bể, oC</para>
+        <para id="id4191458">bo - Chiều rộng khuôn, m (Lấy cạnh ngắn của tiết diện lớn nhất của khuôn).</para>
+        <para id="id4191477">A,B – Là các hằng số phụ thuộc vào tỷ số n = ao/bo là tỷ số giữa cạnh dài trên cạnh ngắn của tiết diện lớn nhất.</para>
+        <para id="id4191506">Nếu khuôn có n = 1. A = 3120 và B = 0,036</para>
+        <para id="id4191513">Nếu n = 2 thì A = 4540 và B = 0,026</para>
+        <para id="id4191520">Nhiệt độ trung bình nước muối trong bể lấy như sau:</para>
+        <para id="id4191527">- Nước đá đục: tm = -10oC</para>
+        <para id="id4191558">- Nước đá trong suốt: tm = - 5 đến –7oC</para>
+        <para id="id4191588">- Nước đá pha lê : tm = - 4 đến –6oC</para>
+        <para id="id4191618">3.2.5 Tính nhiệt bể đá</para>
+        <para id="id4191624">3.2.4.1 Nhiệt truyền qua kết cấu bao che bể đá </para>
+        <para id="id4191630">Các bể đá thường được đặt bên trong nhà xưởng nên khả năng bị bức xạ trực tiếp rất ít. Vì vậy nhiệt truyền qua kết cấu bao che bể đá chỉ do độ chênh nhiệt độ giữa nước muối bên trong và không khí bên ngoài, gồm 3 thành phần:</para>
+        <para id="id4191644">- Nhiệt truyền qua tường bể đá Q11</para>
+        <para id="id4191655">- Nhiệt truyền qua nắp bể đá Q12</para>
+        <para id="id4191666">- Nhiệt truyền qua nền bể đá Q13</para>
+        <para id="id4191677">Q1 = Q11 + Q12 + Q13(3-9)</para>
+        <para id="id4191710">1) Nhiệt truyền qua tường bể đá</para>
+        <para id="id4191717">Q11 = kt.Ft.tt(3-10)</para>
+        <para id="id4191759">Ft - Diện tích tường bể đá, m2. Diện tích tường được xác định từ chiều cao và chu vi của bể. Chiều cao tính từ mặt nền ngoài bể đến thành bể. Chu vi được tính theo kích thước bên ngoài của bể.</para>
+        <para id="id4191785">tt - Độ chênh nhiệt độ bên ngoài và bên trong bể, tt = tKKN – tm </para>
+        <para id="id4191832">tKKN - Nhiệt độ không khí bên ngoài bể đá. Nhiệt độ này là nhiệt độ trong nhà, nên có thể lấy thấp hơn nhiệt độ tính toán ngoài trời 45OC. </para>
+        <para id="id4191865">tm - Nhiệt độ nước muối trong bể đá: tb = -8  -15oC</para>
+        <para id="id4191894">kt - Hệ số truyền nhiệt của tường bể đá, W/m2.K</para>
+        <para id="id4107780"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k rSub { size 8{t} } = {  {1}  over  { {  {1}  over  {α rSub { size 8{1} } } } + Sum { {  {δ rSub { size 8{i} } }  over  {λ rSub { size 8{i} } } } } + {  {1}  over  {α rSub { size 8{2} } } } } } } {}</m:annotation></m:semantics></m:math>, W/m2.K(3-11)</para>
+        <para id="id4107924">1 - Hệ số toả nhiệt đối lưu tự nhiên của không khí bên ngoài tường bể đá, W/m2.K</para>
+        <para id="id4107946">2 - Hệ số toả nhiệt đối lưu cưỡng bức của nước muối chuyển động ngang qua tường bên trong bể nước muối, W/m2.K</para>
+        <para id="id4107974">i, i - Chiều dày và hệ số dẫn nhiệt của các lớp vật liệu tường bể.</para>
+        <para id="id4108000">Có thể lấy theo kinh nghiệm như sau:</para>
+        <list id="id4108005" list-type="bulleted">
+          <item>Đối với nền và tường : k = 0,58 W/m2.K</item>
+          <item>Đối với nắp : k = 0,23 W/m2.K</item>
+        </list>
+        <para id="id4108043">2) Nhiệt truyền qua nắp bể đá</para>
+        <para id="id4108048">Q12 = kn.Fn.tn(3-12)</para>
+        <para id="id4108095">Fn - Diện tích nắp bể đá được xác định theo kích thước chiều rộng và chiều dài bên trong bể đá, m2 .</para>
+        <para id="id4108115">tn = tKKN - tKKT </para>
+        <para id="id4108149">tKKN - Nhiệt độ không khí bên ngoài bể đá, oC</para>
+        <para id="id4108173">tKKT - Nhiệt độ lớp không khí trong bể ở bên dưới nắp bể đá. Nhiệt độ lớp không khí này chênh lệch so với nước muối vài độ, tức khoảng -100oC</para>
+        <para id="id4108215">kn - Hệ số truyền nhiệt ở nắp bể đá, W/m2.K</para>
+        <para id="id4108232"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>δ</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>α</m:mi><m:msub><m:mi>'</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k rSub { size 8{n} } = {  {1}  over  { {  {1}  over  {α rSub { size 8{1} } } } + {  {δ}  over  {λ} } + {  {1}  over  {α' rSub { size 8{2} } } } } } } {}</m:annotation></m:semantics></m:math>(3-13)</para>
+        <para id="id4108354">1 - Hệ số toả nhiệt bên ngoài từ không khí trong phòng bể đá lên nắp của nó, W/m2.K;</para>
+        <para id="id4108381">’2 - Hệ số toả nhiệt bên trong từ nắp bể đá ra lớp không khí bên dưới nắp bể , W/m2.K;</para>
+        <para id="id4108404"> - Chiều dày nắp gỗ: =30mm;</para>
+        <para id="id4108419"> - Hệ số dẫn nhiệt của gỗ, có thể tham khảo theo phụ lục 11 ở cuối sách này, hoặc lấy khoảng 0,5 kCal/m2.h.K</para>
+        <para id="id4108440">3) Nhiệt truyền qua nền bể đá</para>
+        <para id="id4108448">Có thể tính tổn thất nhiệt qua nền bể đá theo như tính cho nền kho lạnh, cụ thể phân nền bể đá ra 4 vùng, và tổn thất nhiệt qua nền là:</para>
+        <para id="id4108465"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>13</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KK</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mi>m</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"13"} } = Sum {k rSub { size 8{i} }  "." F rSub { size 8{i} }  "."  \( t rSub { size 8{ ital "KK"}   rSup { size 8{N} } }  - t rSub { size 8{m} }  \) }  "." m} {}</m:annotation></m:semantics></m:math> (3-14)</para>
+        <para id="id4108618">ki – Hệ số truyền nhiệt của các vùng từ 1 đến 4, W/m2.K;</para>
+        <para id="id4108636">Fi – Diện tích tương ứng của các vùng, m2 .</para>
+        <para id="id4108653">Để tính toán dòng nhiệt vào qua sàn, người ta chia sàn ra các vùng khác nhau có chiều rộng 2m mỗi vùng tính từ bề mặt tường bao vào giữa buồng.</para>
+        <para id="id4108662">Giá trị của hệ số truyền nhiệt quy ước kq,W/m2K, lấy theo từng vùng là:</para>
+        <para id="id4108680">- Vùng rộng 2m dọc theo chu vi tường bao : </para>
+        <para id="id4108686">kI= 0,47 W/m2.K, FI =4(a+b)</para>
+        <para id="id4108709">- Vùng rộng 2m tiếp theo về phía tâm buồng: </para>
+        <para id="id4108715">kII = 0,23 W/m2.K, FII =4(a+b)-48</para>
+        <para id="id4108738">- Vùng rộng 2m tiếp theo: </para>
+        <para id="id4108743">kIII = 0,12 W/m2.K, FIII =4(a+b)-80</para>
+        <para id="id4108764">- Vùng còn lại ở giữa buồng lạnh: :</para>
+        <para id="id4108775">kIV = 0,07 W/m2.K, FIV =(a-12)(b-12)</para>
+        <para id="id4108798">Hệ số m đặc trưng cho sự tăng trở nhiệt của nền khi có lớp cách nhiệt:</para>
+        <para id="id4108811"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mn>1,</m:mn></m:mrow><m:mtext>25</m:mtext><m:mfenced open="" close=""><m:mrow><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m= {  {1}  over  {1+1,"25" left ( {  {δ rSub { size 8{1} } }  over  {λ rSub { size 8{1} } } } + {  {δ rSub { size 8{2} } }  over  {λ rSub { size 8{2} } } } + "."  "."  "." + {  {δ rSub { size 8{n} } }  over  {λ rSub { size 8{n} } } }  right )} } } {}</m:annotation></m:semantics></m:math>(3-15)</para>
+        <para id="id4108983">i - Chiều dày của từng lớp của kết cấu nền, m;</para>
+        <para id="id4108998">i - Hệ số dẫn nhiệt của vật liệu, W/m.K;</para>
+        <para id="id4109013">Nếu nền không có cách nhiệt thì m = 1.</para>
+        <para id="id4109021">3.2.4.2 Nhiệt để đông đá và làm lạnh khuôn đá </para>
+        <para id="id4109032">Nhiệt đông đá và làm lạnh khuôn đá được tính như sau:</para>
+        <para id="id4109040">Q2 = Q21 + Q22(3-16)</para>
+        <para id="id4109072">Q21 - Nhiệt làm lạnh nước đá </para>
+        <para id="id4109084">Q22 - Nhiệt làm lạnh khuôn đá </para>
+        <list id="id4109096" list-type="enumerated">
+          <item>Nhiệt làm lạnh nước đá</item>
+        </list>
+        <para id="id4109105"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>21</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mi>E</m:mi></m:mrow><m:mtext>.</m:mtext><m:mfrac><m:msub><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mi>τ</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"21"} } =E "."  {  {q rSub { size 8{o} } }  over  {τ} } } {}</m:annotation></m:semantics></m:math>, W(3-17)</para>
+        <para id="id4109204">E - Năng suất bể đá, kg/mẻ</para>
+        <para id="id4109213"> - Thời gian đông đá cho một mẻ, Giây. Thời gian đông đá phụ thuộc vào nhiệt độ bể muối và kích thước khuôn đá, có thể tra theo bảng 3-6 hoặc tính toán theo công thức (3-8).</para>
+        <para id="id4109235">qo - Nhiệt lượng cần làm lạnh 1 kg nước từ nhiệt độ ban đầu đến khi đông đá hoàn toàn, J/kg.</para>
+        <para id="id4109250">Nhiệt làm lạnh 1 kg nước từ nhiệt độ ban đầu đến khi đông đá hoàn toàn qo được xác định theo công thức:</para>
+        <para id="id4109265">qo = Cpn.t1 + r + Cpđ.t2 (3-18)</para>
+        <para id="id4109317">Cpn - Nhiệt dung riêng của nước : Cpn = 4186 J/kg.K;</para>
+        <para id="id4109336">r - Nhiệt đông đặc : r = 333600 J/kg (80 Kcal/kg);</para>
+        <para id="id4109354">Cpđ - Nhiệt dung riêng của đá: Cpđ = 2090 J/kg.K (0,5 kCal/kg.K);</para>
+        <para id="id4109374">t1 - Nhiệt độ nước đầu vào, có thể lấy t1= 30oC;</para>
+        <para id="id4109396">t2 - Nhiệt độ cây đá: t2 = -5  -10oC.</para>
+        <para id="id4109425">Thay vào ta có:</para>
+        <para id="id4109430">qo = 4186.t1 + 333600 + 2090.t2, J/kg(3-19)</para>
+        <para id="id4109469">2) Nhiệt làm lạnh khuôn đá</para>
+        <para id="id4109476"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>22</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mi>M</m:mi></m:mrow><m:mtext>.</m:mtext><m:mfrac><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>pK</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">k1</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">k2</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mi>τ</m:mi></m:mfrac><m:mi>,</m:mi><m:mi>W</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"22"} } =M "."  {  {C rSub { size 8{ ital "pK"} }  "."  \( t rSub { size 8{k1} }  - t rSub { size 8{k2} }  \) }  over  {τ} } ,W} {}</m:annotation></m:semantics></m:math>(3-20)</para>
+        <para id="id4109618">M - Tổng khối lượng khuôn đá, kg.</para>
+        <para id="id4109624">Tổng khối lượng khuôn bằng số lượng khuôn nhân với khối lượng một khuôn đá. Khối lượng khuôn đá tham khảo bảng 3-6. Khối lượng khuôn 50 kg là 27,2 kg.</para>
+        <para id="id4109637">Cpk - Nhiệt dung riêng của khuôn, Khuôn làm bằn tôn tráng kẽm. </para>
+        <para id="id4109650">tK1, tK2 - Nhiệt độ khuôn ban đầu và khi đá đã hoàn thiện. Nhiệt độ khuôn ban đầu có thể lấy tương đương nhiệt độ nước, nhưng nhiệt độ khuôn khi kết thúc đông đá nhỏ hơn nhiệt độ trung bình của cây đá khoảng 23oC.</para>
+        <para id="id4109690">3.2.4.3 Nhiệt do bộ cánh khuấy gây ra </para>
+        <para id="id4109696">Bộ cánh khuấy được bố trí bên ngoài bể muối. Vì vậy nhiệt năng do bộ cánh khuấy tạo được xác định theo công thức sau đây:</para>
+        <para id="id4109707">Q3 = 1000..N, W (3-21)</para>
+        <para id="id4109738">- Hiệu suất của động cơ điện.</para>
+        <para id="id4109748">N – Công suất mô tơ cánh khuấy (kW), có thể tham khảo công suất mô tơ của các bộ cánh khuấy của MYCOM (Nhật) cho ở bảng 3-8 dưới đây</para>
+        <para id="id4109765">Bảng 3-8: Đặc tính kỹ thuật các bộ cánh khuấy MYCOM (Nhật)</para>
+        <table id="id4109772" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Model</entry>
+                <entry>Tốc độ, (v/phút)</entry>
+                <entry>Lưu lượng(m3/phút)</entry>
+                <entry>Công suất(kW)</entry>
+                <entry>Năng suấtbể đá</entry>
+              </row>
+              <row>
+                <entry>180 VGM230 VGM250 VGM300 VGM350 VGM400 VGM</entry>
+                <entry>1000 v/phút</entry>
+                <entry>7,512,817,022,534,040,0</entry>
+                <entry>1,51,52,23,75,57,5</entry>
+                <entry>5  910  1415 v 1920 v 2425 v 2930  35</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4110024">3.2.4.4 Nhiệt do nhúng cây đá </para>
+        <para id="id4110031">Tổn thất nhiệt do làm tan đá được coi là tổng công suất cần thiết để làm lạnh khối đá đã bị làm tan nhằm rút đá ra khỏi khuôn.</para>
+        <para id="id4110043"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mi>n</m:mi></m:mrow><m:mtext>.</m:mtext><m:mi>g</m:mi><m:mtext>.</m:mtext><m:mrow><m:mfrac><m:msub><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mi>τ</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>n</m:mi></m:mrow><m:mtext>.</m:mtext><m:mi>f</m:mi><m:mtext>.</m:mtext><m:mi>δ</m:mi><m:mtext>.</m:mtext><m:mi>ρ</m:mi><m:mtext>.</m:mtext><m:mfrac><m:msub><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mi>τ</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{4} } =n "." g "."  {  {q rSub { size 8{o} } }  over  {τ} } =n "." f "." δ "." ρ "."  {  {q rSub { size 8{o} } }  over  {τ} } } {}</m:annotation></m:semantics></m:math>, W(3-22)</para>
+        <para id="id4110170">n – Số khuôn đá;</para>
+        <para id="id4110175">g – Khối lượng phần đá đã tan, kg;</para>
+        <para id="id4110183">qo – Nhiệt lượng cần thiết để làm lạnh 01 kg đá từ nhiệt độ ban đầu đến nhiệt độ cây đá, J/kg;</para>
+        <para id="id4110197">f – Diện tích bề mặt cây đá. Đối với loại 25kg f=0,75m2, đối với loại 50 kg f =1,25m2;</para>
+        <para id="id4110218"> - Chiều dày phần đá đã tan khi nhúng, m. Để có thể rút đá ra khỏi khuôn cần làm tan đá một lớp dày  = 0,001m. Tuy nhiên cần lưu ý, khi thời gian sử dụng lâu, các khuôn đá có thể bị móp méo, thì độ dày yêu cầu có thể cao hơn.</para>
+        <para id="id4110243">- Khối lượng riêng của đá: = 900 kg/m3 ;</para>
+        <para id="id4110264">- Thời gian đông đá, Giây. </para>
+        <para id="id4110274">3.2.4.5 Tổn thất nhiệt ở phòng bảo quản đá </para>
+        <para id="id4110280">Nếu hệ thống có sử dụng kho bảo quản đá cùng chung máy lạnh thì cần phải xác định thêm tổn thất nhiệt ở kho bảo quản đá. Trường hợp kho bảo quản đá có hệ thống lạnh riêng, thì mọi tính toán sẽ được tiến hành như tính kho lạnh. Các tổn thất ở kho bảo quản đá bao gồm các tổn thất giống như kho lạnh, cụ thể như sau:</para>
+        <para id="id4110298">- Tổn thất do truyền nhiệt qua kết cấu bao che.</para>
+        <para id="id4110304">- Tổn thất mô tơ quạt dàn lạnh</para>
+        <para id="id4110310">- Tổn thất do đèn chiếu sáng</para>
+        <para id="id4110315">- Tổn thất do vào ra nhập và xuất đá (tổn thất mở cửa).</para>
+        <para id="id4110326">- Tổn thất do người vận hành.</para>
+        <para id="id4110332">- Tổn thất do xả băng dàn lạnh.</para>
+        <para id="id4110339">* Diện tích phòng bảo quản đá:</para>
+        <para id="id4110344">F = G / (g..H)  (3-23)</para>
+        <para id="id4110367">G – Sức chứa yêu cầu của kho đá, tấn;</para>
+        <para id="id4110373">g – Hệ số chất tải đá: g = 0,8 tấn/m3;</para>
+        <para id="id4110385">- Hệ số đầy  = 0,85;</para>
+        <para id="id4110400">H – Chiều cao kho chứa đá, m.</para>
+        <para id="id4110408">3.2.6 Các thiết bị phụ máy đá cây</para>
+        <para id="id4110413">3.2.5.1 Dàn lạnh bể đá</para>
+        <para id="id4110421">Dàn lạnh trong hệ thống máy đá cây được đặt chìm bên trong bể muối. Các dàn lạnh được cung cấp dịch lỏng theo kiểu ngập, nước muối chuyển động cưỡng bức qua dàn nhờ bộ cánh khuấy.</para>
+        <para id="id4110436">Dàn lạnh bể đá thường được sử dụng có các dạng chủ yếu sau đây:</para>
+        <para id="id4110448">- Dàn lạnh kiểu panel</para>
+        <para id="id4110453">- Dàn lạnh kiểu xương cá </para>
+        <para id="id4110458">- Dàn lạnh ống đồng (sử dụng trong hệ thống lạnh môi chất frêôn)</para>
+        <para id="id4110465">1) Dàn lạnh kiểu panel</para>
+        <para id="id4110470">Dàn lạnh kiểu bay hơi được sử dụng tương đối nhiều tại Liên Xô (cũ) để làm lạnh nước muối. </para>
+        <para id="id4110479">Dàn gồm các ống góp trên và ống góp dưới. Các ống trao đổi nhiệt có dạng ống thẳng đứng nối giữa 2 ống góp. Dàn lạnh kiểu panel có ưu điểm là dễ chế tạo, nhưng chiếm thể tích tương đối lớn làm cho kích cỡ bể đá lớn làm tăng chi phí đầu tư và vận hành.</para>
+        <para id="id4110497">Các thông số kỹ thuật của dàn lạnh pênl làm lạnh nước muối như sau:</para>
+        <para id="id4110509">- Tốc độ nước muối trong bể (qua dàn): 0,50,8 m/s.</para>
+        <para id="id4110521">- Hệ số truyền nhiệt : k = 460  580 W/m2.K.</para>
+        <para id="id4110539">- Độ chênh nhiệt độ: 5  6 oK.</para>
+        <para id="id4110557">- Mật độ dòng nhiệt: qkf = 2900  3500 W/m2.</para>
+        <para id="id4110583">- Diện tích dàn : 20  320 m2.</para>
+        <figure id="id4110607">
+          <media id="id7030944" alt=""><image src="../../media/graphics6-b837.jpg" mime-type="image/jpeg" height="351" width="438"/></media>
+        </figure>
+        <para id="id4110631">1- Bình giữ mức-tách lỏng; 2- Hơi về MN; 3- Ống góp hơi; 4- Ống góp lỏng; 5- Lỏng vào; 6- Xả tràn; 7- Tháo nước; 8- Xả cạn; 9- Lớp cách nhiệt; 10- Xả dầu; 11- Van AT</para>
+        <para id="id4110642">Hình 3-6: Dàn lạnh panel</para>
+        <para id="id4110647">2) Dàn lạnh xương cá</para>
+        <para id="id4110652">Trên hình 3-7 là cấu tạo dàn lạnh xương cá được sử dụng rất rộng rãi để làm lạnh chất lỏng. Dàn lạnh gồm các ống góp trên và dưới, các ống trao đổi nhiệt nối giữa các ống góp có dạng uốn cong giống như xương cá. Với việc uốn cong ống trao đổi nhiệt như vậy nên hạn chế được chiều cao của bể nhưng vẫn đảm bảo đường đi của môi chất đủ lớn để tăng thời gian tiếp xúc. </para>
+        <para id="id4110675">Đối với hầu hết các dàn lạnh xương cá, phương pháp cấp dịch là kiểu ngập lỏng. Dịch lỏng cấp cho dàn lạnh được cấp từ bình giữ mức và luôn duy trì ngập trong dàn lạnh.</para>
+        <para id="id4110685">Dàn lạnh xương cá có nhược điểm là chế tạo tương đối khó so với những kiểu khác nhất là các khâu uốn ống và hàn các ống vào ống góp. Tuy nhiên cấu tạo dàn lạnh xương cá gọn nên được sử dụng rất phổ biến.</para>
+        <para id="id4110700">Dàn lạnh xương cá được chế tạo theo từng mô đun nên có thể dễ dàng tăng công suất của dàn. Mỗi mô đun gồm 01 ống góp trên và 01 ống góp dưới, các ống trao đổi nhiệt có thể bố trí từ 35 dãy.</para>
+        <figure id="id4110722">
+          <media id="id7004450" alt=""><image src="graphics7.wmf" mime-type="image/wmf" height="353" width="467"/></media>
+        </figure>
+        <section id="id-581482571922">
+          <title>Hình 3-7: Cấu tạo dàn lạnh xương cá</title>
+          <para id="id4110755">3.2.5.2 Bình giữ mức - tách lỏng</para>
+          <para id="id4110760">Trên hình 3-8 trình bày bản vẽ cấu tạo bình giữ mức - tách lỏng thường hay được sử dụng cho máy đá cây, bình này còn gọi là bình giữ mức tách lỏng kiểu đuôi chuột vì có phần chân đế giống đuôi chuột. Nhiệm vụ của bình trong hệ thống máy đá là:</para>
+          <para id="id4110786">- Chứa, cấp và duy trì dịch lỏng luôn ngập đầy trong dàn lạnh bể đá.</para>
+          <para id="id4110796">- Tách lỏng cho môi chất hút về máy nén. </para>
+          <para id="id4110804">Mức dịch trong dàn lạnh được khống chế bằng van phao. Các tấm chắn được làm từ tôn dày 3mm, trên các tấm chắn có khoan các lổ 68mm, cách đều 20mm, có tác dụng chắn lỏng, làm cho các hạt lỏng không thể theo hơi hút về máy nén.</para>
+          <para id="id4110834">Bình giữ mức tách lỏng có trang bị van phao, van an toàn, đồng hồ áp suất và đường ống vào ra. </para>
+          <figure id="id4110847">
+            <media id="id3194968" alt=""><image src="graphics8.wmf" mime-type="image/wmf" height="402" width="200"/></media>
+          </figure>
+          <para id="id4110871">A- ống hút về máy nén; B- ống lắp van an toàn và đồng hồ áp suất; C- ống môi chất về dàn lạnh; D- ống cấp dịch vào; E- ống lỏng vào dàn lạnh; F- ống hồi dầu; G,H- ống bắt van phao.</para>
+          <para id="id4110883">Hình 3-8: Bình tách giữ mức – tách lỏng</para>
+          <para id="id4110891">3.2.7 Chọn máy nén lạnh </para>
+          <para id="id4110896">Máy lạnh MYCOM được sử dụng rất nhiều để trong kỹ thuật lạnh Việt Nam. Dưới đây chúng xin giới thiệu các thông số kỹ thuật của máy lạnh MYCOM.</para>
+          <para id="id4110909">Trên bảng 3-9 là công suất nhiệt và công nén đoạn nhiệt của máy nén MYCOM (Nhật). một trong những chủng loại máy được sử dụng rất rộng rãi ở nước ta. Máy nén MYCOM có đặc điểm bền, đẹp và rất gọn. </para>
+          <para id="id4110922">Đối với các hệ thống lớn thường sử dụng máy nén trục vít của YORK - FRICK (Mỹ)</para>
+          <figure id="id4110932">
+            <media id="id7791793" alt=""><image src="../../media/graphics9-6abd.jpg" mime-type="image/jpeg" height="256" width="485"/></media>
+          </figure>
+        </section>
+        <section id="id-76087220207">
+          <title>Hình 3-9: Máy nén lạnh MYCOM</title>
+          <table id="id4110964" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Bảng 3-9: Năng suất nén và công suất trên trục của máy lạnh MYCOM 1 cấp</entry>
+                  <entrytbl cols="5">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <tbody>
+                      <row>
+                        <entry>Ne, kW</entry>
+                        <entrytbl namest="c2" nameend="c5" cols="4">
+                          <colspec colnum="1" colname="c1"/>
+                          <colspec colnum="2" colname="c2"/>
+                          <colspec colnum="3" colname="c3"/>
+                          <colspec colnum="4" colname="c4"/>
+                          <tbody>
+                            <row>
+                              <entry>00C </entry>
+                              <entry>11,630,645,861,062,393,4124,5155,7</entry>
+                              <entry>11,931,747,563,368,4102,6136,8171,1</entry>
+                              <entry>12,533,550,366,973,4110,1146,8183,5</entry>
+                            </row>
+                            <row>
+                              <entry>-5</entry>
+                              <entry>11,329,744,659,460,690,9121,2151,5</entry>
+                              <entry>11,530,746,061,465,398,0130,7163,3</entry>
+                              <entry>12,232,648,965,170,3105,5140,7175,8</entry>
+                            </row>
+                            <row>
+                              <entry>-10</entry>
+                              <entry>10,728,342,456,457,686,4115,2144,0</entry>
+                              <entry>10,9,02 29,143,758,461,291,8122,4153,0</entry>
+                              <entry>11,731,146,662,266,299,3132,4165,4</entry>
+                            </row>
+                            <row>
+                              <entry>-15</entry>
+                              <entry>10,026,239,452,653,680,4107,1133,9</entry>
+                              <entry>10,227,240,754,456,384,4112,5140,7</entry>
+                              <entry>10,9 29,143,658,161,191,7122,2152,8</entry>
+                            </row>
+                            <row>
+                              <entry>-20</entry>
+                              <entry>9,123,935,947,848,873,297,6122,1</entry>
+                              <entry>9,324,937,249,750,776,0101,3126,7</entry>
+                              <entry>10,026,740,053,355,383,0110,6138,3</entry>
+                            </row>
+                            <row>
+                              <entry>-25</entry>
+                              <entry>8,121,432,042,843,665,487,2109,0</entry>
+                              <entry>8,422,233,444,544,666,889,111,4</entry>
+                              <entry>9,023,935,947,849,073,497,9122,4</entry>
+                            </row>
+                          </tbody>
+                        </entrytbl>
+                      </row>
+                      <row>
+                        <entry>Qo, kW</entry>
+                        <entrytbl namest="c2" nameend="c5" cols="4">
+                          <colspec colnum="1" colname="c1"/>
+                          <colspec colnum="2" colname="c2"/>
+                          <colspec colnum="3" colname="c3"/>
+                          <colspec colnum="4" colname="c4"/>
+                          <tbody>
+                            <row>
+                              <entry>00C </entry>
+                              <entry>61,3161,6242,3323,1329,4494,1658,7823,4</entry>
+                              <entry>62,1163,9245,8327,7334,2501,2688,3835,4</entry>
+                              <entry>63,1166,3249,4332,7339,1508,7678,3847,8</entry>
+                            </row>
+                            <row>
+                              <entry>-5</entry>
+                              <entry>49,5130,4195,6260,9265,9398,9531,9664,8</entry>
+                              <entry>50,9134,1201,2268,2274,7412,1549,4686,8</entry>
+                              <entry>51,6136,1204,0272,0278,5417,7557,0696,3</entry>
+                            </row>
+                            <row>
+                              <entry>-10</entry>
+                              <entry>39,3103,7155,5207,4211,4317,1422,7528,4</entry>
+                              <entry>41,1108,3162,6216,7223,1334,6446,2557,8</entry>
+                              <entry>41,6109,7164,7219,6225,9338,9451,9564,8</entry>
+                            </row>
+                            <row>
+                              <entry>-15</entry>
+                              <entry>30,780,8121,3161,7164,9247,3329,7412,2</entry>
+                              <entry>32,686,0129,1172,2178,5267,8357,1446,3</entry>
+                              <entry>33,187,1130,7174,4180,7271,0361,4451,8</entry>
+                            </row>
+                            <row>
+                              <entry>-20</entry>
+                              <entry>23,461,692,3123,1125,6188,4251,2313,9</entry>
+                              <entry>25,467,1100,5134,0140,3210,5280,6350,8</entry>
+                              <entry>25,767,9101,7135,7142,0213,0284,0354,9</entry>
+                            </row>
+                            <row>
+                              <entry>-25</entry>
+                              <entry>17,345,468,391,092,8139,1185,5231,9</entry>
+                              <entry>19,350,776,1101,6107,8161,7215,6269,4</entry>
+                              <entry>19,551,577,2103,0109,1163,6218,2272,8</entry>
+                            </row>
+                          </tbody>
+                        </entrytbl>
+                      </row>
+                      <row>
+                        <entry namest="c1" nameend="c2">Thể tích quét, m3/h</entry>
+                        <entry>71,0187,2280,7374,2381,0572,6764,1954,3</entry>
+                        <entry>71,0187,2280,7374,2381,0572,6764,1954,3</entry>
+                        <entry>71,0187,2280,7374,2381,0572,6764,1954,3</entry>
+                      </row>
+                      <row>
+                        <entry namest="c1" nameend="c2">Ký hiệu</entry>
+                        <entry>N2WAN4WAN6WAN2WBN4WBN6WBN8WBN12WB</entry>
+                        <entry>F2WA2 F4WA2F6WA2F2WB2F4WB2F6WB2F8WB2F12WB2</entry>
+                        <entry>F2WA5 F4WA5F6WA5F2WB5F4WB5F6WB5F8WB5F12WB5</entry>
+                      </row>
+                      <row>
+                        <entry namest="c1" nameend="c2">Môi chất</entry>
+                        <entry>R717</entry>
+                        <entry>R22</entry>
+                        <entry>R502</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table id="id4113058" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Bảng 3-10: Thông số kỹ thuật của máy nén MYCOM</entry>
+                  <entrytbl cols="6">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <colspec colnum="6" colname="c6"/>
+                    <tbody>
+                      <row>
+                        <entrytbl cols="1">
+                          <colspec colnum="1" colname="c1"/>
+                          <tbody>
+                            <row>
+                              <entry>124WB</entry>
+                            </row>
+                            <row>
+                              <entry>62WB</entry>
+                            </row>
+                            <row>
+                              <entry>42WB</entry>
+                            </row>
+                            <row>
+                              <entry>62WA</entry>
+                            </row>
+                            <row>
+                              <entry>42WA</entry>
+                            </row>
+                            <row>
+                              <entry>12WB</entry>
+                            </row>
+                            <row>
+                              <entry>8WB</entry>
+                            </row>
+                            <row>
+                              <entry>6WB</entry>
+                            </row>
+                            <row>
+                              <entry>4WB</entry>
+                            </row>
+                            <row>
+                              <entry>8WA(J)</entry>
+                            </row>
+                            <row>
+                              <entry>6WA(J)</entry>
+                            </row>
+                            <row>
+                              <entry>4WWA(J)</entry>
+                            </row>
+                            <row>
+                              <entry>2WA</entry>
+                            </row>
+                          </tbody>
+                        </entrytbl>
+                        <entry>NH3, R22, R502, R12, PROPANE</entry>
+                        <entry>MÁY NÉN PISTON, KIỂU HỞ</entry>
+                        <entrytbl cols="5">
+                          <colspec colnum="1" colname="c1"/>
+                          <colspec colnum="2" colname="c2"/>
+                          <colspec colnum="3" colname="c3"/>
+                          <colspec colnum="4" colname="c4"/>
+                          <colspec colnum="5" colname="c5"/>
+                          <tbody>
+                            <row>
+                              <entrytbl cols="1">
+                                <colspec colnum="1" colname="c1"/>
+                                <tbody>
+                                  <row>
+                                    <entry>L12 / H4</entry>
+                                  </row>
+                                  <row>
+                                    <entry>L6 / H2</entry>
+                                  </row>
+                                  <row>
+                                    <entry>L4/ H-2</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                              <entry>130</entry>
+                              <entry>100</entry>
+                              <entry>1200</entry>
+                              <entrytbl cols="2">
+                                <colspec colnum="1" colname="c1"/>
+                                <colspec colnum="2" colname="c2"/>
+                                <tbody>
+                                  <row>
+                                    <entry>1145</entry>
+                                    <entry>381</entry>
+                                  </row>
+                                  <row>
+                                    <entry>573</entry>
+                                    <entry>191</entry>
+                                  </row>
+                                  <row>
+                                    <entry>381</entry>
+                                    <entry>191</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                            </row>
+                            <row>
+                              <entrytbl cols="1">
+                                <colspec colnum="1" colname="c1"/>
+                                <tbody>
+                                  <row>
+                                    <entry>L-6/H-2</entry>
+                                  </row>
+                                  <row>
+                                    <entry>L-4/H-2</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                              <entry>95</entry>
+                              <entry>76</entry>
+                              <entry>1450</entry>
+                              <entrytbl cols="2">
+                                <colspec colnum="1" colname="c1"/>
+                                <colspec colnum="2" colname="c2"/>
+                                <tbody>
+                                  <row>
+                                    <entry>281</entry>
+                                    <entry>94</entry>
+                                  </row>
+                                  <row>
+                                    <entry>187</entry>
+                                    <entry>94</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                            </row>
+                            <row>
+                              <entrytbl cols="1">
+                                <colspec colnum="1" colname="c1"/>
+                                <tbody>
+                                  <row>
+                                    <entry>12</entry>
+                                  </row>
+                                  <row>
+                                    <entry>8</entry>
+                                  </row>
+                                  <row>
+                                    <entry>6</entry>
+                                  </row>
+                                  <row>
+                                    <entry>4</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                              <entry>130</entry>
+                              <entry>100</entry>
+                              <entry>1200</entry>
+                              <entrytbl cols="1">
+                                <colspec colnum="1" colname="c1"/>
+                                <tbody>
+                                  <row>
+                                    <entry>1.145</entry>
+                                  </row>
+                                  <row>
+                                    <entry>764</entry>
+                                  </row>
+                                  <row>
+                                    <entry>573</entry>
+                                  </row>
+                                  <row>
+                                    <entry>381</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                            </row>
+                            <row>
+                              <entrytbl cols="1">
+                                <colspec colnum="1" colname="c1"/>
+                                <tbody>
+                                  <row>
+                                    <entry>8</entry>
+                                  </row>
+                                  <row>
+                                    <entry>6</entry>
+                                  </row>
+                                  <row>
+                                    <entry>4</entry>
+                                  </row>
+                                  <row>
+                                    <entry>2</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                              <entry>95</entry>
+                              <entry>76</entry>
+                              <entrytbl namest="c4" nameend="c5" cols="2">
+                                <colspec colnum="1" colname="c1"/>
+                                <colspec colnum="2" colname="c2"/>
+                                <tbody>
+                                  <row>
+                                    <entry>1450</entry>
+                                    <entrytbl cols="1">
+                                      <colspec colnum="1" colname="c1"/>
+                                      <tbody>
+                                        <row>
+                                          <entry>374</entry>
+                                        </row>
+                                        <row>
+                                          <entry>281</entry>
+                                        </row>
+                                        <row>
+                                          <entry>187</entry>
+                                        </row>
+                                      </tbody>
+                                    </entrytbl>
+                                  </row>
+                                  <row>
+                                    <entry>1100100</entry>
+                                    <entry>71</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                            </row>
+                          </tbody>
+                        </entrytbl>
+                        <entry>TRUYỀN ĐỘNG BẰNG ĐAI HOẶC TRỰC TIẾP</entry>
+                        <entrytbl cols="3">
+                          <colspec colnum="1" colname="c1"/>
+                          <colspec colnum="2" colname="c2"/>
+                          <colspec colnum="3" colname="c3"/>
+                          <tbody>
+                            <row>
+                              <entrytbl cols="1">
+                                <colspec colnum="1" colname="c1"/>
+                                <tbody>
+                                  <row>
+                                    <entry>100,66,33</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 66,33</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 50</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 66,33</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 50</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                              <entry>ISO VG68 HOẶC TƯƠNG ĐƯƠNG</entry>
+                              <entrytbl cols="10">
+                                <colspec colnum="1" colname="c1"/>
+                                <colspec colnum="2" colname="c2"/>
+                                <colspec colnum="3" colname="c3"/>
+                                <colspec colnum="4" colname="c4"/>
+                                <colspec colnum="5" colname="c5"/>
+                                <colspec colnum="6" colname="c6"/>
+                                <colspec colnum="7" colname="c7"/>
+                                <colspec colnum="8" colname="c8"/>
+                                <colspec colnum="9" colname="c9"/>
+                                <colspec colnum="10" colname="c10"/>
+                                <tbody>
+                                  <row>
+                                    <entry>55</entry>
+                                    <entry>125A</entry>
+                                    <entry>80A</entry>
+                                    <entry>125A</entry>
+                                    <entry>80A</entry>
+                                    <entry>2x80A</entry>
+                                    <entry>2x50A</entry>
+                                    <entry>2x80A</entry>
+                                    <entry>2x50A</entry>
+                                    <entry>3.100</entry>
+                                  </row>
+                                  <row>
+                                    <entry>26,5</entry>
+                                    <entry>100A</entry>
+                                    <entry>65A</entry>
+                                    <entry>90A</entry>
+                                    <entry>65A</entry>
+                                    <entry>65A</entry>
+                                    <entry>50A</entry>
+                                    <entry>65A</entry>
+                                    <entry>50A</entry>
+                                    <entry>1.500</entry>
+                                  </row>
+                                  <row>
+                                    <entry>25</entry>
+                                    <entry>80A</entry>
+                                    <entry>65A</entry>
+                                    <entry>80A</entry>
+                                    <entry>65A</entry>
+                                    <entry>65A</entry>
+                                    <entry>50A</entry>
+                                    <entry>65A</entry>
+                                    <entry>50A</entry>
+                                    <entry>1.440</entry>
+                                  </row>
+                                  <row>
+                                    <entry>17</entry>
+                                    <entry>65A</entry>
+                                    <entry>40A</entry>
+                                    <entry>65A</entry>
+                                    <entry>40A</entry>
+                                    <entry>50A</entry>
+                                    <entry>40A</entry>
+                                    <entry>50A</entry>
+                                    <entry>40A</entry>
+                                    <entry>840</entry>
+                                  </row>
+                                  <row>
+                                    <entry>14</entry>
+                                    <entry>50A</entry>
+                                    <entry>40A</entry>
+                                    <entry>50A</entry>
+                                    <entry>40A</entry>
+                                    <entry>50A</entry>
+                                    <entry>40A</entry>
+                                    <entry>50A</entry>
+                                    <entry>40A</entry>
+                                    <entry>720</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                            </row>
+                            <row>
+                              <entrytbl cols="1">
+                                <colspec colnum="1" colname="c1"/>
+                                <tbody>
+                                  <row>
+                                    <entry>100, 66, 33</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 7550, 25</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 66, 33</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 50</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 7550, 25</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100,66,33</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100, 50</entry>
+                                  </row>
+                                  <row>
+                                    <entry>100</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                              <entry/>
+                              <entrytbl cols="7">
+                                <colspec colnum="1" colname="c1"/>
+                                <colspec colnum="2" colname="c2"/>
+                                <colspec colnum="3" colname="c3"/>
+                                <colspec colnum="4" colname="c4"/>
+                                <colspec colnum="5" colname="c5"/>
+                                <colspec colnum="6" colname="c6"/>
+                                <colspec colnum="7" colname="c7"/>
+                                <tbody>
+                                  <row>
+                                    <entry>52</entry>
+                                    <entry namest="c2" nameend="c3">125A</entry>
+                                    <entry namest="c4" nameend="c5">2 x 80A</entry>
+                                    <entry namest="c6" nameend="c7">2500</entry>
+                                  </row>
+                                  <row>
+                                    <entry>26</entry>
+                                    <entry>100A</entry>
+                                    <entry>125A</entry>
+                                    <entry>90A</entry>
+                                    <entry>100A</entry>
+                                    <entry namest="c6" nameend="c7">1150</entry>
+                                  </row>
+                                  <row>
+                                    <entry>25</entry>
+                                    <entry>90A</entry>
+                                    <entry>100A</entry>
+                                    <entry>80A</entry>
+                                    <entry>90A</entry>
+                                    <entry namest="c6" nameend="c7">1410</entry>
+                                  </row>
+                                  <row>
+                                    <entry>20</entry>
+                                    <entry namest="c2" nameend="c3">90A</entry>
+                                    <entry namest="c4" nameend="c5">80A</entry>
+                                    <entry namest="c6" nameend="c7">1100</entry>
+                                  </row>
+                                  <row>
+                                    <entry>17</entry>
+                                    <entry>80A</entry>
+                                    <entry>90A</entry>
+                                    <entry>65A</entry>
+                                    <entry>80A</entry>
+                                    <entry>820</entry>
+                                    <entry>650</entry>
+                                  </row>
+                                  <row>
+                                    <entry>14</entry>
+                                    <entry>65A</entry>
+                                    <entry>80A</entry>
+                                    <entry namest="c4" nameend="c5">65A</entry>
+                                    <entry>700</entry>
+                                    <entry>560</entry>
+                                  </row>
+                                  <row>
+                                    <entry>12</entry>
+                                    <entry>50A</entry>
+                                    <entry>65A</entry>
+                                    <entry namest="c4" nameend="c5">50A</entry>
+                                    <entry>580</entry>
+                                    <entry>500</entry>
+                                  </row>
+                                  <row>
+                                    <entry>5</entry>
+                                    <entry namest="c2" nameend="c3">40A</entry>
+                                    <entry namest="c4" nameend="c5">40A</entry>
+                                    <entry namest="c6" nameend="c7">370</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                            </row>
+                          </tbody>
+                        </entrytbl>
+                      </row>
+                      <row>
+                        <entry>ĐẠC TÍNH</entry>
+                        <entrytbl namest="c2" nameend="c6" cols="16">
+                          <colspec colnum="1" colname="c1"/>
+                          <colspec colnum="2" colname="c2"/>
+                          <colspec colnum="3" colname="c3"/>
+                          <colspec colnum="4" colname="c4"/>
+                          <colspec colnum="5" colname="c5"/>
+                          <colspec colnum="6" colname="c6"/>
+                          <colspec colnum="7" colname="c7"/>
+                          <colspec colnum="8" colname="c8"/>
+                          <colspec colnum="9" colname="c9"/>
+                          <colspec colnum="10" colname="c10"/>
+                          <colspec colnum="11" colname="c11"/>
+                          <colspec colnum="12" colname="c12"/>
+                          <colspec colnum="13" colname="c13"/>
+                          <colspec colnum="14" colname="c14"/>
+                          <colspec colnum="15" colname="c15"/>
+                          <colspec colnum="16" colname="c16"/>
+                          <tbody>
+                            <row>
+                              <entry>-</entry>
+                              <entry>-</entry>
+                              <entry>-</entry>
+                              <entry>Mm</entry>
+                              <entry>mm</entry>
+                              <entry>V/phút</entry>
+                              <entry>m3/h</entry>
+                              <entry>-</entry>
+                              <entry>%</entry>
+                              <entry>-</entry>
+                              <entry>Lit</entry>
+                              <entry>NH3</entry>
+                              <entry>R22, R502</entry>
+                              <entry>NH3</entry>
+                              <entry>R22, R502</entry>
+                              <entry>kg</entry>
+                            </row>
+                            <row>
+                              <entry>MÔI CHẤT</entry>
+                              <entry>DẠNG</entry>
+                              <entry>SỐ XI LANH</entry>
+                              <entry>ĐƯỜNG KÍNH</entry>
+                              <entry>HÀNH TRÌNH</entry>
+                              <entry>TỐC ĐỘ MAX</entry>
+                              <entry>LƯU LƯỢNG Ở nmax</entry>
+                              <entry>DẪN ĐỘNG</entry>
+                              <entry>MỨC GIẢM TẢI</entry>
+                              <entry>DẦU LẠNH</entry>
+                              <entry>SỐ LƯỢNG DẦU</entry>
+                              <entrytbl namest="c12" nameend="c16" cols="4">
+                                <colspec colnum="1" colname="c1"/>
+                                <colspec colnum="2" colname="c2"/>
+                                <colspec colnum="3" colname="c3"/>
+                                <colspec colnum="4" colname="c4"/>
+                                <tbody>
+                                  <row>
+                                    <entry>ỐNGHÚT</entry>
+                                    <entry>ỐNGĐẨY</entry>
+                                    <entry>A</entry>
+                                    <entry>J</entry>
+                                  </row>
+                                  <row>
+                                    <entry namest="c1" nameend="c2">ĐƯỜNG ỐNG VÀO RA</entry>
+                                    <entry namest="c3" nameend="c4">KHỐI LƯỢNG</entry>
+                                  </row>
+                                </tbody>
+                              </entrytbl>
+                            </row>
+                          </tbody>
+                        </entrytbl>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4097591">3.3 HỆ THỐNG MÁY ĐÁ VẢY</para>
+          <para id="id4097596">3.3.1 Nguyên lý làm việc của máy đá vảy</para>
+          <para id="id4097602">Do máy đá cây có nhiều nhược điểm và không đảm bảo yêu cầu vệ sinh thực phẩm, nên hiện nay hầu hết các xí nghiệp chế biến thực phẩm đều sử dụng máy đá vảy để sản xuất đá phục vụ chế biến thực phẩm, đặc biệt trong các xí nghiệp chế biến thuỷ sản, yêu cầu về đá chế biến rất lớn.</para>
+          <para id="id4097617">Máy đá vảy là máy tạo ra đá có dạng là các mảnh nhỏ. Quá trình tạo đá được thực hiện bên trong một ống trụ có 2 lớp, ở giữa là môi chất lạnh lỏng bay hơi, đó là cối đá. </para>
+          <para id="id4097629">Cối đá có dạng hình trụ tròn được chế tạo từ vật liệu inox, có 2 lớp. Ở giữa 2 lớp là môi chất lạnh lỏng bão hoà. Nước được bơm tuần hoàn bơm từ bể chứa nước đặt ở phía dưới bơm lên khay chứa nước phía trên. Nước từ khay chảy qua hệ thống ống và phun lên bề mặt bên trong của trụ và được làm lạnh, một phần đông lại thành đá ở bề mặt bên trong, phần dư chảy về bể và tiếp tục được bơm lên.</para>
+          <para id="id4097663">Khi đá đông đủ độ dày thì được hệ thống dao cắt cắt rơi đá xuống phía dưới. Phía dưới cối đá là kho chứa đá. Người sử dụng chỉ việc mở cửa xúc đá ra sử dụng. Trong các nhà máy chế biến thuỷ sản, kho và cối đá đặt ngay ở khu chế biến.</para>
+          <para id="id4097682">Có 02 phương pháp cắt đá: Phương pháp cắt bằng hệ thống dao quay và phương pháp cắt nhờ dao cắt kiểu xoắn cố định.</para>
+          <para id="id4097692">Dao cắt quay được gắn trên trục quay đồng trục với cối đá và được xoay nhờ mô tơ đặt phía trên. Tốc độ quay có thể điều chỉnh được, do vậy đá cắt ra sẽ có kích thước khác nhau tuỳ thuộc vào tốc độ quay. Khi cắt dao tỳ lên bề mặt đá để cắt nên ma sát lớn. Tốc độ quay của trục tương đối chậm nhờ hộp giảm tốc.</para>
+          <para id="id4097707">Đối với cối đá có dao cắt cố định, dao cắt có dạng trục vít. Khi trục trung tâm quay dao gạt đá lăn trên bề mặt trống vừa ép vỡ đá tạo trên bề mặt cối đá rơi xuống kho. Do dao lăn trên bề mặt nên ma sát giảm xuống đáng kể, tăng độ bền của cối, giảm mô men quay. </para>
+          <para id="id4097727">Cấu tạo cối đá vảy được giới thiệu trên hình 3-10.</para>
+          <table id="id4097735" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id1944314" alt=""><image src="../../media/graphics10-45b6.jpg" mime-type="image/jpeg"/></media>
+                  </entry>
+                  <entry>
+                    <media id="id1168813377377" alt=""><image src="../../media/graphics11-83fe.png" mime-type="image/png"/></media>
+                  </entry>
+                </row>
+                <row>
+                  <entry>1- Dao cắt đá; 2- Vách 2 lớp; 3- Hộp nước inox; 4- Tấm gạt nước; 5- Vành chống tràn nước; 6- Lớp cách nhiệt</entry>
+                  <entry>1- Bể nước tuần hoàn; 2- Bơm nước; 3- Cối đá; 4- Máng phân phối nước; 5- Bề mặt tạo đá; 6- Vách 2 lớp; 7- Dao cắt đá; 8- Hộp giảm tốc</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-546016654704">
+          <title>Hình 3-10: Cấu tạo bên trong cối đá vảy</title>
+          <para id="id4097856"/>
+          <para id="id4097860">3.3.2 Sơ đồ nguyên lý hệ thống lạnh máy đá vảy</para>
+          <para id="id4097867">Sơ đồ nguyên lý hệ thống lạnh máy đá vảy được trình bày trên hình 3-11, bao gồm các thiết bị chính sau đây:</para>
+          <para id="id4097877">- Máy nén lạnh: Có thể sử dụng máy nén 1 cấp, đặc biệt trong trường hợp sử dụng môi chất Frêôn. Nếu sử dụng môi chất NH3 thì nhiệt độ cuối tầm nén khá cao nên hiện nay người ta thường sử dụng máy nén 2 cấp, cho cối đá vảy trong hệ thống NH3.</para>
+          <para id="id4097915">- Bình giữ mức tách lỏng: Bình giữ mức tách lỏng có vai trò giống bình giữ mức tách lỏng của máy đá cây là vừa được sử dụng để duy trì mức dịch luôn ngập trong cối đá và tách lỏng môi chất hút về máy nén. Mức dịch trong bình giữa mức tách lỏng được khống chế nhờ van phao và được duy trì ở một mức nhất định đảm bảo trong cối đá luôn luôn ngập dịch.</para>
+          <figure id="id4097952">
+            <media id="id1168813460301" alt=""><image src="graphics12.wmf" mime-type="image/wmf" height="330" width="479"/></media>
+          </figure>
+        </section>
+        <section id="id-582469741327">
+          <title>1- Máy nén; 2- Bình chứa CA; dàn ngưng; 4- Bình tách dầu; 5- Cối đá vảy; 6- Bình giữ mức- tách lỏng; 7- Bơm nước tuần hoàn; 8- Kho đá vảy</title>
+          <para id="id4097977">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-536348388443">
+          <title>Hình 3-11: Sơ đồ nguyên lý hệ thống lạnh máy đá vảy</title>
+          <para id="id4097999">Dịch lỏng từ bình chứa cao áp được tiết lưu vào bình tách lỏng-giữ mức. Trong bình hơi bão hoà được hút về máy nén, còn lỏng bão hoà chảy vào cối đá và làm lạnh nước, do vậy hiệu quả trao đổi nhiệt bên trong cối đá khá cao. Hệ thống sử dụng van tiết lưu tay. </para>
+          <para id="id4098018">- Kho chứa đá: Kho chứa đá đặt ngay dưới cối đá, thường được lắp ghép từ các tấm polyurethan dày 100mm. Riêng bề mặt đáy được lót thêm 01 lớp inox bảo vệ panel.</para>
+          <para id="id4098035">Hiện nay ở nước ta chưa có tiêu chuẩn để tính toán dung tích kho chứa đá vảy. Dung tích kho chứa đá lớn nhỏ còn phụ thuộc vào hình thức vận hành và sử dụng của nhà sản xuất. Nếu không cần dự trữ nhiều đá có thể sử dụng kho có dung tích nhỏ, vì thời gian tạo đá khá nhanh, không nhất thiết dự trữ nhiều đá trong kho. Dưới đây là kích cỡ của một số kho bảo quản đá thường được sử dụng tại Việt Nam.</para>
+          <para id="id4098057">+ Đối với cối đá 5 - 10 Tấn ngày kích cỡ kho đá là: 2400W x 4000D x 3000H (mm)</para>
+          <para id="id4098068">+ Đối với cối đá 15-20 Tấn/ngày kích cỡ kho đá là 3600Wx600D x 3000H (mm)</para>
+          <para id="id4098080">Kho chứa đá có 01 cửa kích cỡ 1980H x 980W x 100T (mm)</para>
+          <para id="id4098086">- Thiết bị ngưng tụ: Trong trường hợp sử dụng môi chất R22 thì có thể sử dụng dàn ngưng không khí ống đồng cánh nhôm. Khi sử dụng NH3 nên sử dụng thiết bị ngưng tụ giải nhiệt bằng nước: dàn ngưng bay hơi, kiểu tưới hoặc bình ngưng, để giảm nhiệt độ đầu đẩy máy nén.</para>
+          <para id="id4098120">- Bình chứa: Nói chung hệ thống máy đá vảy không cần bình chứa kích thước lớn vì thực tế hệ thống sử dụng số lượng môi chất không nhiều.</para>
+          <para id="id4098139">* Đặc điểm hệ thống máy đá vảy</para>
+          <para id="id4098145">Ưu điểm: </para>
+          <para id="id4098150">- Chi phí đầu tư khá nhỏ. Hệ thống máy đá vảy không cần trang bị bể muối, hệ thống cẩu chuyển, bể nhúng, bàn lật, kho chứa đá và máy xay đá nên giá thành khá thấp so với máy đá cây.</para>
+          <para id="id4098166">- Chi phí vận hành nhỏ: Chi phí vận hành bao gồm chi phí nhân công, điện và nước. Do hệ thống máy đá vảy rất đơn giản, ít trang thiết bị hơn máy đá cây rất nhiều nên chi phí vận hành cũng thấp.</para>
+          <para id="id4098186">- Thời gian làm đá ngắn, thường sau khoảng chưa đầy 1 giờ đã có thể có đá sử dụng. </para>
+          <para id="id4098194">- Đảm bảo vệ sinh và chủ động trong sản xuất. Các khâu sản xuất và bảo quản đá điều được tiến hành rất đảm bảo yêu cầu vệ sinh, nên chất lượng đá rất tốt.</para>
+          <para id="id4098208">- Tổn thất năng lượng nhỏ.</para>
+          <para id="id4098216">Ngày nay sử dụng đá vảy để chế biến thuỷ sản là điều bắt buộc đối với các xí nghiệp chế biến thuỷ sản muốn được cấp code E.U để nhập hàng vào thị trường E.U</para>
+          <para id="id4098229">Nhược điểm:</para>
+          <para id="id4098234">- Vì có dạng vảy, kích cỡ nhỏ nên chỉ được sử dụng tại chổ là chủ yếu, khó vận chuyển đi xa và bảo quản lâu ngày.</para>
+          <para id="id4098246">- Cối tạo đá vảy là thiết bị khó chế tạo, giá tương đối cao.</para>
+          <para id="id4098258">- Phạm vi sử dụng: chủ yếu dùng bảo quản thực phẩm trong dây chuyền công nghệ tại các xí nghiệp chế biến thực phẩm.</para>
+          <para id="id4098269">3.3.2 Cấu tạo, kích thước và cách nhiệt cối đá vảy</para>
+          <para id="id4098276">3.3.2.1 Cấu tạo cối đá vảy </para>
+          <table id="id4098283" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id6623936" alt=""><image src="../../media/graphics13-dd92.jpg" mime-type="image/jpeg"/></media>
+                  </entry>
+                  <entry>
+                    <media id="id8276076" alt=""><image src="../../media/graphics14-0ab5.jpg" mime-type="image/jpeg"/></media>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4098364">Hình 3-12: Cối đá vảy</para>
+          <para id="id4098369">Trên hình 3-12 giới thiệu máy đá vảy của hãng Geneglace (Pháp). Cối đá có 02 dạng loại rời và loại kèm hệ thống lạnh hoàn chỉnh. Cối đá Genglace thường sử dụng dao cắt đá dạng trục vít.</para>
+          <para id="id4098382">3.3.2.2 Xác định kích thước cối đá vảy</para>
+          <para id="id4098388">Kích thước cối đá vảy được xác định theo diện tích yêu cầu của nó. Diện tích trao đổi nhiệt yêu cầu của cối đá được xác định theo năng suất của cối và có thể tham khảo theo dữ liệu cối đá vãy Fuji (Nhật) như sau:</para>
+          <para id="id4098404">Bảng 3-11: Diện tích yêu cầu của các cối đá</para>
+          <table id="id4098410" summary="">
+            <tgroup cols="13">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <colspec colnum="12" colname="c12"/>
+              <colspec colnum="13" colname="c13"/>
+              <tbody>
+                <row>
+                  <entry>Năng suất, t</entry>
+                  <entry>0,3</entry>
+                  <entry>0,5</entry>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>3,5</entry>
+                  <entry>5</entry>
+                  <entry>7,5</entry>
+                  <entry>10</entry>
+                  <entry>15</entry>
+                  <entry>20</entry>
+                  <entry>25</entry>
+                  <entry>33</entry>
+                </row>
+                <row>
+                  <entry>Diện tích, m2</entry>
+                  <entry>0,1 </entry>
+                  <entry>0,15</entry>
+                  <entry>0,3</entry>
+                  <entry>0,435</entry>
+                  <entry>0,737</entry>
+                  <entry>1,5</entry>
+                  <entry>2,13</entry>
+                  <entry>2,88</entry>
+                  <entry>4,2</entry>
+                  <entry>5,55</entry>
+                  <entry>7</entry>
+                  <entry>9,42</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4098725">Diện tích trao đổi nhiệt của cối đá được xác định:</para>
+          <para id="id4098731">F = .Dt.ht(3-24)</para>
+          <para id="id4098762">Dt - Đường kính trong cối đá, m;</para>
+          <para id="id4098773">ht- Chiều cao bên trong cối đá, m;</para>
+          <para id="id4098784">Chọn một trong 2 kích thước Dt, ht ta xác định được kích thước còn lại</para>
+          <para id="id4098801">3.3.2.3 Kết cấu cách nhiệt </para>
+          <para id="id4098808">Kết cấu vách của cối đá vảy được trình bày trên hình 3-13. Tổn thất lạnh của môi chất đang sôi diễn ra về cả 2 phía bên trong và bên ngoài cối đá. Tuy nhiên, không khí bên trong cối đá sau một thời gian làm việc nhất định cũng giảm xuống đáng kể nên có thể bỏ qua tổn thất này.</para>
+          <figure id="id4098831">
+            <media id="id8315617" alt=""><image src="graphics15.wmf" mime-type="image/wmf" height="278" width="453"/></media>
+          </figure>
+        </section>
+        <section id="id-15190022537">
+          <title>Hình 3-13: Cách nhiệt cối đá vảy</title>
+          <para id="id4098864">Phía nắp của cối đá không có bề mặt tạo đá nên chỉ có 3 lớp đầu giống như vách trụ của cối. Quá trình trao đổi nhiệt ở phía nắp cối đá là từ không khí bên ngoài vào không khí bên trong cối đá.</para>
+          <para id="id4098879">Phía đáy cối đá là bể nước tuần hoàn, quá trình trao đổi nhiệt giữa nước và cối đá nói chung là có ích nên không tính.</para>
+          <para id="id4098893">Bể nước tuần hoàn làm từ vật liệu inox, bên ngoài bọc mút cách nhiệt. Chiều dày lớp mút khoảng 3050mm. Nhiệt độ nước trong bể tuần hoàn tuỳ thuộc vào thời điểm làm việc, giai đoạn đầu khi mới khởi động nhiệt độ còn cao, sau khi hệ thống đi vào ổn định, nhiệt độ nước trong bể khá thấp, vì vậy khi tính toán có thể lấy trung bình trong khoảng 35oC. </para>
+          <para id="id4098929">3.3.3 Tính nhiệt hệ thống cối đá vảy</para>
+          <para id="id4098935">Trong hệ thống lạnh cối đá vảy có các tổn thất nhiệt sau đây</para>
+          <para id="id4098943">- Tổn thất nhiệt do truyền nhiệt ở cối đá vảy và bình giữ mức tách lỏng Q1</para>
+          <para id="id4098956">+ Tổn thất nhiệt qua kết cấu bao che cối đá vảy</para>
+          <para id="id4098964">+ Tổn thất nhiệt qua kết cấu bao che bể nước tuần hoàn</para>
+          <para id="id4098972">+ Tổn thất qua kết cấu bao che bình giữ mức tách lỏng</para>
+          <para id="id4098981">- Tổn thất nhiệt do làm lạnh nước đá Q2</para>
+          <para id="id4098992">- Tổn thất nhiệt do mô tơ dao cắt đá tạo ra Q3</para>
+          <para id="id4099003">- Tổn thất ở kho chứa đá Q4</para>
+          <para id="id4099013">Ngoài ra phía nắp của cối đá của một số hãng là hở nên có sự rò rỉ không khí vào bên trong cối đá, gây ra tổn thất nhiệt.</para>
+          <para id="id4099031">3.3.3.1 Tổn thất nhiệt do truyền nhiệt</para>
+          <para id="id4099038">Tổn thất nhiệt do truyền nhiệt được xác định theo công thức sau:</para>
+          <para id="id4099046">Q1 = Q11 + Q12 + Q13(3-25)</para>
+          <para id="id4099078">Q11- Tổn thất nhiệt qua kết cấu bao che cối đá, W;</para>
+          <para id="id4099091">Q12 - Tổn thất nhiệt qua kết cấu bao che bể nước tuần hoàn, W ;</para>
+          <para id="id4099108">Q13 - Tổn thất qua kết cấu bao che bình giữ mức tách lỏng, W.</para>
+          <para id="id4099122">1) Tổn thất nhiệt qua kết cấu bao che cối đá Q11</para>
+          <para id="id4099136">Tổn thất nhiệt qua kết cấu bao che cối đá gồm tổn thất qua vách và nắp cối đá. Quá trình truyền nhiệt ở đây rất khác nhau, cụ thể như sau:</para>
+          <para id="id4099153">Ở vách đứng, nhiệt truyền từ môi trường không khí bên ngoài vào môi chất lạnh sôi bên trong cối đá.</para>
+          <para id="id4099161">Ở nắp: nhiệt truyền từ không khí bên ngoài vào không khí bên trong cối đá.</para>
+          <para id="id4099171">* Nhiệt truyền qua vách cối đá:</para>
+          <para id="id4099179">Q11T = kT.t.h(3-26)</para>
+          <para id="id4099216">t = tKKN – to </para>
+          <para id="id4099240">tKKN - Nhiệt độ không khí bên ngoài, oC ;</para>
+          <para id="id4099262">to - Nhiệt độ sôi của môi chất lạnh bên trong, lấy to = -20oC;</para>
+          <para id="id4099287">h – Chiều cao thân cối đá, m;</para>
+          <para id="id4099294">kT - Hệ số truyền nhiệt vách đứng của cối đá:</para>
+          <para id="id4099306"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mtext>.</m:mtext><m:mtext>ln</m:mtext><m:mfrac><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow><m:mi>;</m:mi><m:mrow><m:mi>W</m:mi><m:mo stretchy="false">/</m:mo><m:mi>m</m:mi></m:mrow><m:mtext>.</m:mtext><m:mi>K</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k rSub { size 8{T} } = {  {1}  over  { {  {1}  over  {π "." d rSub { size 8{1} }  "." α rSub { size 8{1} } } } + Sum { {  {1}  over  {2 "." π "." λ rSub { size 8{i} } } }  "." "ln" {  {d rSub { size 8{i+1} } }  over  {d rSub { size 8{i} } } } } + {  {1}  over  {π "." d rSub { size 8{2} }  "." α rSub { size 8{2} } } } } } ;W/m "." K} {}</m:annotation></m:semantics></m:math>(3-27)</para>
+          <para id="id4099527">1 - Hệ số toả nhiệt từ không khí bên ngoài lên mặt ngoài cối đá, W/m2.K;</para>
+          <para id="id4099548">2 - Hệ số toả nhiệt khi sôi môi chất mặt trong cối đá, W/m2.K;</para>
+          <para id="id4099568">i - Hệ số dẫn nhiệt của các lớp vật liệu, W/m.K;</para>
+          <para id="id4099583">di, di+1 - đường kính trong và ngoài của các lớp vật liệu, m;</para>
+          <para id="id4099603">d1, d2 - đường kính ngoài cối đá và đường kính trong mặt trong tiếp xúc với môi chất lạnh (hình 3-13), m</para>
+          <para id="id4099624">* Nhiệt truyền qua nắp:</para>
+          <para id="id4099632">Quá trình truyền nhiệt ở đây có thể coi như qua vách phẳng, nên được tính như sau:</para>
+          <para id="id4099641">Q11N = kN.FN.(tKKN - tKKT) (3-28)</para>
+          <para id="id4099694">FN – Diện tích nắp cối đá, FN = .d12/4, m2</para>
+          <para id="id4099729">tKKN, tKKT – Nhiệt độ không khí bên ngoài và bên trong cối đá, oC</para>
+          <para id="id4099759">Nhiệt độ không khí bên ngoài là nhiệt độ trong nhà nên có thể lấy thấp hơn nhiệt độ tính toán vài độ, nhiệt độ không khí bên trong có thể lấy khoảng tKKT = 3-3oC</para>
+          <para id="id4099791">kN – Hệ số truyền nhiệt của nắp, W/m2.K</para>
+          <para id="id4099808"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>α</m:mi><m:msub><m:mi>'</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k rSub { size 8{N} } = {  {1}  over  { {  {1}  over  {α rSub { size 8{1} } } } + Sum { {  {δ rSub { size 8{i} } }  over  {λ rSub { size 8{i} } } } } + {  {1}  over  {α' rSub { size 8{2} } } } } } } {}</m:annotation></m:semantics></m:math>(3-29)</para>
+          <para id="id4099950">1, ’2 – Hệ số toả nhiệt của không khí bên ngoài và bên trong nắp cối đá, W/m2.K;</para>
+          <para id="id4099982">i, i – Chiều dày và hệ số dẫn nhiệt của các lớp vật liệu.</para>
+          <para id="id4100009">2) Nhiệt truyền kết cấu bao che bể nước tuần hoàn </para>
+          <para id="id4100018">Ở bể nước tuần hoàn quá trình truyền nhiệt thực hiện từ môi trường không khí bên ngoài vào nước lạnh bên trong bể. </para>
+          <para id="id4100025">Q12 = kB.FB.(tKKN – tB)   (3-30)</para>
+          <para id="id4100076">FB – Diện tích thành bể nước, m2 ;</para>
+          <para id="id4100092">tKKN, tB – Nhiệt độ không khí bên ngoài và nước bên trong bể, oC;</para>
+          <para id="id4100119">Nhiệt độ nước tuần hoàn lấy khoảng 2 3oC.</para>
+          <para id="id4100135">kB – Hệ số truyền nhiệt từ không khí vào nước tuần hoàn, W/m2.K</para>
+          <para id="id4100153"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mi>α</m:mi><m:mtext> rSub { size 8{2} } } } } } } {}</m:mtext></m:mrow></m:mtr><m:mtr><m:mfrac><m:mn>1</m:mn><m:mrow/></m:mfrac></m:mtr><m:mtr><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mfrac><m:mn>1</m:mn><m:mrow/></m:mfrac></m:mtr><m:mtr><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>B</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{k rSub { size 8{B} } = {  {1}  over  { {  {1}  over  {α rSub { size 8{1} } } } + Sum { {  {δ rSub { size 8{i} } }  over  {λ rSub { size 8{i} } } } } + {  {1}  over  {α" rSub { size 8{2} } } } } } } {}</m:annotation></m:semantics></m:math>(3-31)</para>
+          <para id="id4100297">1, ”2 – Hệ số toả nhiệt của không khí bên ngoài và nước bên trong bể nước tuần hoàn lên vách bể, W/m2.K;</para>
+          <para id="id4100331">i, i – Chiều dày và hệ số dẫn nhiệt của các lớp vật liệu.</para>
+          <para id="id4100358">Bể nước tuần hoàn có dạng khối hộp. Độ cao của bể tuần hoàn khoảng 250350mm, các cạnh lớn hơn đường kính ngoài của cối đá khoảng 50100mm. Như vậy căn cứ vào đường kính cối đá có thể xác định được sơ bộ kích thước bề nước tuần hoàn để xác định tổn thất nhiệt.</para>
+          <para id="id4100385">3) Nhiệt truyền kết cấu bao che bình giữ mức- tách lỏng </para>
+          <para id="id4100392">Bình giữ mức – tách lỏng có cấu tạo khá nhỏ, diện tích bề mặt khoảng 11,5m2, bên ngoài bọc mút cách nhiệt dày 3050mm. Do kích thước bình nhỏ và được bọc cách nhiệt tốt nên, tổn thất nhiệt qua bình có thể bỏ qua. Trong trường hợp cần chính xác có thể tính theo công sau:</para>
+          <para id="id4100435">Q13 = kGM.t.l(3-32)</para>
+          <para id="id4100465">t = tKKN – to </para>
+          <para id="id4100490">tKKN - Nhiệt độ không khí bên ngoài, oC ;</para>
+          <para id="id4100511">to - Nhiệt độ sôi của môi chất lạnh bên trong bể, lấy to = -20oC</para>
+          <para id="id4100537">l – Chiều dài bình, m</para>
+          <para id="id4100543">kGM - Hệ số truyền nhiệt qua vách bình giữ mức:</para>
+          <para id="id4100556"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>GM</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mtext>.</m:mtext><m:mtext>ln</m:mtext><m:mfrac><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow><m:mi>;</m:mi><m:mrow><m:mi>W</m:mi><m:mo stretchy="false">/</m:mo><m:mi>m</m:mi></m:mrow><m:mtext>.</m:mtext><m:mi>K</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k rSub { size 8{ ital "GM"} } = {  {1}  over  { {  {1}  over  {π "." d rSub { size 8{1} }  "." α rSub { size 8{1} } } } + Sum { {  {1}  over  {2 "." π "." λ rSub { size 8{i} } } }  "." "ln" {  {d rSub { size 8{i+1} } }  over  {d rSub { size 8{i} } } } } + {  {1}  over  {π "." d rSub { size 8{2} }  "." α rSub { size 8{2} } } } } } ;W/m "." K} {}</m:annotation></m:semantics></m:math>(3-33)</para>
+          <para id="id4100787">1 - Hệ số toả nhiệt từ không khí bên ngoài lên vách bình, W/m2.K;</para>
+          <para id="id4100807">2 - Hệ số toả nhiệt từ vách bình vào môi chất lạnh ở trạng thái lỏng, có thể lấy giống bên trong vách cối đá vảy, W/m2.K;</para>
+          <para id="id4100835">i - Hệ số dẫn nhiệt của các lớp vật liệu, W/m.K;</para>
+          <para id="id4100850">di, di+1 - đường kính trong và ngoài của các lớp vật liệu, m;</para>
+          <para id="id4100869">d1, d2 - đường kính ngoài cùng và trong cùng của các lớp vật liệu, m</para>
+          <para id="id4100887">3.3.3.2 Nhiệt để làm lạnh đá </para>
+          <para id="id4100892"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mi>M</m:mi></m:mrow><m:mfrac><m:msub><m:mi>q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext>24</m:mtext><m:mi>x</m:mi><m:mtext>3600</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{2} } =M {  {q rSub { size 8{o} } }  over  {"24"x"3600"} } } {}</m:annotation></m:semantics></m:math>, W(3-34)</para>
+          <para id="id4100994">M – Khối lượng đá được sản xuất trong 1 ngày đêm, về giá trị đúng bằng năng suất cối đá, kg</para>
+          <para id="id4101006">24x3600 Qui đổi ngày đêm ra giây, đó là thời gian làm việc .</para>
+          <para id="id4101016">qo - Nhiệt lượng cần làm lạnh 1 kg nước từ nhiệt độ ban đầu đến khi đông đá hoàn toàn, J/kg</para>
+          <para id="id4101030">Nhiệt làm lạnh 1 kg nước từ nhiệt độ ban đầu đến khi đông đá hoàn toàn qo được xác định theo công thức:</para>
+          <para id="id4101046">qo = Cpn.t1 + r + Cpđ.t2</para>
+          <para id="id4101086">Cpn - Nhiệt dung riêng của nước : Cpn = 4186 J/kg.K</para>
+          <para id="id4101107">r - Nhiệt đông đặc : r = 333600 J/kg</para>
+          <para id="id4101125">Cpđ - Nhiệt dung riêng của đá: Cpđ = 2090 J/kg.K</para>
+          <para id="id4101148">t1 - Nhiệt độ nước đầu vào, oC. Nhiệt độ nước lạnh vào có thể lấy từ hệ thống nước lạnh chế biến t1 = 5 oC hoặc từ mạng nước thường t1 = 30oC.</para>
+          <para id="id4101191">t2 - Nhiệt độ đá hoàn thiện t2 = -5  -8oC</para>
+          <para id="id4101222">Thay vào ta có:</para>
+          <para id="id4101227">qo = 4186.t1 + 333600 + 2090.t2, J/kg(3-35)</para>
+          <para id="id4101262">3.3.3.3 Nhiệt do mô tơ dao cắt đá tạo ra </para>
+          <para id="id4101269">Mô tơ dao cắt đá được đặt bên ngoài cối đá, vì vậy nhiệt lượng tạo ra bằng công suất trên trục của mô tơ:</para>
+          <para id="id4101279">Q3 = 1000..N, W (3-36)</para>
+          <para id="id4101308">- Hiệu suất của động cơ điện.</para>
+          <para id="id4101318">N - Công suất đầu vào mô tơ dao cắt đá (kW) có thể tham khảo ở bảng 3-13 dưới đây.</para>
+          <para id="id4101333">3.3.3.4 Tổn thất nhiệt do bơm nước tuần hoàn </para>
+          <para id="id4101343">Điện năng cung cấp đầu vào cho mô tơ bơm nước một phần biến thành nhiệt năng toả ra trên cuộn dây, trên các trục mô tơ, phần còn lại biến thành cơ năng làm chuyển động dòng nước. Phần cơ năng đó cuối cùng cũng biến thành nhiệt năng làm tăng nhiệt độ của nước. </para>
+          <para id="id4101360">Q4 = 1000..N, W (3-37)</para>
+          <para id="id4101389">- Hiệu suất bơm.</para>
+          <para id="id4101400">3.3.3.5 Tổn thất nhiệt ở kho chứa đá </para>
+          <para id="id4101412">Tổn thất ở kho chứa đá chủ yếu do truyền nhiệt qua kết cấu bao che do độ chênh nhiệt độ. Tổn thất đó tính tương tự tổn thất qua kết cấu bao che kho lạnh. Kho chứa đá cũng được bố trí trên các con lươn thông gió nên có thể tính giống như tổn thất qua tường.</para>
+          <para id="id4101430">Q5 = k.F.t(3-37)</para>
+          <para id="id4101456">k – Hệ số truyền nhiệt kho bảo quản đá, W/m2.K;</para>
+          <para id="id4101469">F – Diện tích kết cấu tường, trần và nền của kho, m2;</para>
+          <para id="id4101483">t - Độ chênh nhiệt độ tính toán. Có thể tính t = 0,6.(tN-tT)</para>
+          <para id="id4101512">tN, tT – Nhiệt độ tính toán ngoài trời và trong kho đá. Nhiệt độ trong kho đá lấy 0-5oC.</para>
+          <para id="id4101540">3.3.4 Chọn cối đá vảy</para>
+          <para id="id4101546">Dưới đây là đặc tính kỹ thuật cối đá vảy của Fuji (Nhật)</para>
+          <para id="id4101557">Bảng 3-12: Thông số kỹ thuật cối đá Fuji (Nhật)</para>
+          <table id="id4101565" summary="">
+            <tgroup cols="13">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <colspec colnum="12" colname="c12"/>
+              <colspec colnum="13" colname="c13"/>
+              <tbody>
+                <row>
+                  <entry>Mục</entry>
+                  <entry>K-3</entry>
+                  <entry>K-5</entry>
+                  <entry>K-10</entry>
+                  <entry>K-20</entry>
+                  <entry>K-35</entry>
+                  <entry>K-50</entry>
+                  <entry>K75</entry>
+                  <entry>K100</entry>
+                  <entry>K150</entry>
+                  <entry>K200</entry>
+                  <entry>K250</entry>
+                  <entry>K330</entry>
+                </row>
+                <row>
+                  <entry>Năng suất (t/ngày)</entry>
+                  <entry>0,3</entry>
+                  <entry>0,5</entry>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>3,5</entry>
+                  <entry>5</entry>
+                  <entry>7,5</entry>
+                  <entry>10</entry>
+                  <entry>15</entry>
+                  <entry>20</entry>
+                  <entry>25</entry>
+                  <entry>33</entry>
+                </row>
+                <row>
+                  <entry>Qo (1000 KCal/h, ở -20oC)</entry>
+                  <entry>1,5</entry>
+                  <entry>2,3</entry>
+                  <entry>4,5</entry>
+                  <entry>9</entry>
+                  <entry>16</entry>
+                  <entry>23</entry>
+                  <entry>34</entry>
+                  <entry>45</entry>
+                  <entry>68</entry>
+                  <entry>90</entry>
+                  <entry>113</entry>
+                  <entry>150</entry>
+                </row>
+                <row>
+                  <entry>Diện tích cối đá (m2)</entry>
+                  <entry>0,1</entry>
+                  <entry>0,15</entry>
+                  <entry>0,3</entry>
+                  <entry>0,435</entry>
+                  <entry>0,737</entry>
+                  <entry>1,5</entry>
+                  <entry>2,13</entry>
+                  <entry>2,88</entry>
+                  <entry>4,2</entry>
+                  <entry>5,55</entry>
+                  <entry>7</entry>
+                  <entry>9,42</entry>
+                </row>
+                <row>
+                  <entry>Công suất ngưng tụ (kW)</entry>
+                  <entry>1,5</entry>
+                  <entry>2,2</entry>
+                  <entry>3-3,7</entry>
+                  <entry>5,5</entry>
+                  <entry>11</entry>
+                  <entry>15</entry>
+                  <entry>22</entry>
+                  <entry>30</entry>
+                  <entry>45</entry>
+                  <entry>60</entry>
+                  <entry>75</entry>
+                  <entry>90</entry>
+                </row>
+                <row>
+                  <entry>Nguồn điện</entry>
+                  <entry namest="c2" nameend="c13">3Ph/220V/50/60Hz</entry>
+                </row>
+                <row>
+                  <entry>Môi chất lạnh</entry>
+                  <entry namest="c2" nameend="c13">R22/R502</entry>
+                </row>
+                <row>
+                  <entry>Mơ tơ giảm tốc (kW)</entry>
+                  <entry namest="c2" nameend="c4">0,2</entry>
+                  <entry namest="c5" nameend="c7">0,4</entry>
+                  <entry namest="c8" nameend="c9">0,75</entry>
+                  <entry>1,5</entry>
+                  <entry namest="c11" nameend="c13">Nhiều tốc độ</entry>
+                </row>
+                <row>
+                  <entry>Bơm nước (kW)</entry>
+                  <entry namest="c2" nameend="c6">0,04</entry>
+                  <entry namest="c7" nameend="c8">0,18</entry>
+                  <entry namest="c9" nameend="c12">0,25</entry>
+                  <entry>0,37</entry>
+                </row>
+                <row>
+                  <entry>Ống dịch vào (mm)</entry>
+                  <entry namest="c2" nameend="c3">10</entry>
+                  <entry namest="c4" nameend="c5">15</entry>
+                  <entry namest="c6" nameend="c7">25</entry>
+                  <entry namest="c8" nameend="c13">32</entry>
+                </row>
+                <row>
+                  <entry>Ống môi chất ra (mm)</entry>
+                  <entry>15</entry>
+                  <entry>20</entry>
+                  <entry namest="c4" nameend="c7">25</entry>
+                  <entry namest="c8" nameend="c13">32</entry>
+                </row>
+                <row>
+                  <entry>Ống nước vào (mm)</entry>
+                  <entry namest="c2" nameend="c8">15</entry>
+                  <entry namest="c9" nameend="c12">20</entry>
+                  <entry>25</entry>
+                </row>
+                <row>
+                  <entry>Ống tràn nước (mm)</entry>
+                  <entry namest="c2" nameend="c6">15</entry>
+                  <entry namest="c7" nameend="c8">20</entry>
+                  <entry>25</entry>
+                  <entry namest="c10" nameend="c13">32</entry>
+                </row>
+                <row>
+                  <entry>Ống xả cặn (mm)</entry>
+                  <entry namest="c2" nameend="c6">15</entry>
+                  <entry namest="c7" nameend="c8">20</entry>
+                  <entry>25</entry>
+                  <entry namest="c10" nameend="c13">32</entry>
+                </row>
+                <row>
+                  <entry>Số lượng van tiết lưu</entry>
+                  <entry namest="c2" nameend="c5">1</entry>
+                  <entry namest="c6" nameend="c8">2</entry>
+                  <entry>3</entry>
+                  <entry>4</entry>
+                  <entry namest="c11" nameend="c13">6</entry>
+                </row>
+                <row>
+                  <entry>Công suất van tiết lưu (Tôn lạnh)</entry>
+                  <entry namest="c2" nameend="c3">0,9</entry>
+                  <entry>1,9</entry>
+                  <entry namest="c5" nameend="c6">3,7</entry>
+                  <entry namest="c7" nameend="c11">6</entry>
+                  <entry namest="c12" nameend="c13">9</entry>
+                </row>
+                <row>
+                  <entry>Cửa đá Ra  (mm)</entry>
+                  <entry namest="c2" nameend="c4">350</entry>
+                  <entry namest="c5" nameend="c6">550</entry>
+                  <entry namest="c7" nameend="c8">750</entry>
+                  <entry>1000</entry>
+                  <entry namest="c10" nameend="c11">1400</entry>
+                  <entry>1770</entry>
+                  <entry>1950</entry>
+                </row>
+                <row>
+                  <entry>Khối lượng (kg)</entry>
+                  <entry>75</entry>
+                  <entry>100</entry>
+                  <entry>125</entry>
+                  <entry>190</entry>
+                  <entry>250</entry>
+                  <entry>660</entry>
+                  <entry>845</entry>
+                  <entry>1700</entry>
+                  <entry>2500</entry>
+                  <entry>3500</entry>
+                  <entry>4000</entry>
+                  <entry>4500</entry>
+                </row>
+                <row>
+                  <entry>Cao (mm)</entry>
+                  <entry>624</entry>
+                  <entry>689</entry>
+                  <entry>830</entry>
+                  <entry>980</entry>
+                  <entry>1200</entry>
+                  <entry>1560</entry>
+                  <entry>1950</entry>
+                  <entry>2087</entry>
+                  <entry>2320</entry>
+                  <entry>2600</entry>
+                  <entry>2650</entry>
+                  <entry>3000</entry>
+                </row>
+                <row>
+                  <entry>Rộng (mm)</entry>
+                  <entry namest="c2" nameend="c4">665</entry>
+                  <entry namest="c5" nameend="c6">767</entry>
+                  <entry namest="c7" nameend="c8">920</entry>
+                  <entry>1000</entry>
+                  <entry namest="c10" nameend="c11">1600</entry>
+                  <entry>1950</entry>
+                  <entry>2350</entry>
+                </row>
+                <row>
+                  <entry>Dài (mm)</entry>
+                  <entry namest="c2" nameend="c4">480</entry>
+                  <entry namest="c5" nameend="c6">574</entry>
+                  <entry namest="c7" nameend="c8">920</entry>
+                  <entry>1000</entry>
+                  <entry namest="c10" nameend="c11">1600</entry>
+                  <entry>1950</entry>
+                  <entry>2350</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4039958">Hiện nay có nhiều đơn vị trong nước đã chế tạo được cối đá vảy, dưới đây là đặc tính kỹ thuật cối đá vãy của Công ty Cơ Điện Lạnh Đà Nẵng SEAREE.</para>
+          <para id="id4039976">Bảng 3-13 dưới đây giới thiệu đặc tính kỹ thuật cối đá vảy của SEAREE dùng để tham khảo.</para>
+          <para id="id4039986">Bảng 3-13: Cối đá vảy của SEAREE</para>
+          <table id="id4039992" summary="">
+            <tgroup cols="6">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <tbody>
+                <row>
+                  <entry>MODEL</entry>
+                  <entry>Đơn vị</entry>
+                  <entry>SRE 05A(F)</entry>
+                  <entry>SRE 10A(F)</entry>
+                  <entry>SRE 15A(F)</entry>
+                  <entry>SRE 20A(F)</entry>
+                </row>
+                <row>
+                  <entry>Năng suất </entry>
+                  <entry>Tấn/Ngày</entry>
+                  <entry>5</entry>
+                  <entry>10</entry>
+                  <entry>15</entry>
+                  <entry>20</entry>
+                </row>
+                <row>
+                  <entry>C/s mô tơ dao cắt đá</entry>
+                  <entry>kW</entry>
+                  <entry>250</entry>
+                  <entry>370</entry>
+                  <entry>550</entry>
+                  <entry>550</entry>
+                </row>
+                <row>
+                  <entry>C/s mô tơ bơm nước</entry>
+                  <entry>kW</entry>
+                  <entry>100</entry>
+                  <entry>100</entry>
+                  <entry>250</entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry>Ống môi chất vào</entry>
+                  <entry>mm</entry>
+                  <entry>25A</entry>
+                  <entry>2x25A</entry>
+                  <entry>2x32A</entry>
+                  <entry>2x40A</entry>
+                </row>
+                <row>
+                  <entry>Ống môi chất ra</entry>
+                  <entry>mm</entry>
+                  <entry>50A</entry>
+                  <entry>2x50A</entry>
+                  <entry>2x65A</entry>
+                  <entry>2x80A</entry>
+                </row>
+                <row>
+                  <entry>Ống nước cấp </entry>
+                  <entry>mm</entry>
+                  <entry>15A</entry>
+                  <entry>20A</entry>
+                  <entry>2x20A</entry>
+                  <entry>2x25A</entry>
+                </row>
+                <row>
+                  <entry>Công suất lạnh</entry>
+                  <entry>KCal/h</entry>
+                  <entry>25.000</entry>
+                  <entry>50.000</entry>
+                  <entry>75.000</entry>
+                  <entry>100.000</entry>
+                </row>
+                <row>
+                  <entry>Môi chất lạnh</entry>
+                  <entry/>
+                  <entry namest="c3" nameend="c6">NH3/R22/R404a</entry>
+                </row>
+                <row>
+                  <entry>Kiểu cấp dịch</entry>
+                  <entry/>
+                  <entry namest="c3" nameend="c6">Tiết lưu trực tiếp/Cấp từ bình giữ mức/bơm dịch</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt độ bay hơi </entry>
+                  <entry>oC</entry>
+                  <entry namest="c3" nameend="c6">-23  -25oC</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt độ nước vào làm đá</entry>
+                  <entry>oC</entry>
+                  <entry namest="c3" nameend="c6">26 </entry>
+                </row>
+                <row>
+                  <entry namest="c1" nameend="c6">KÍCH THƯỚC NGOÀI</entry>
+                </row>
+                <row>
+                  <entry>Chiều cao</entry>
+                  <entry>mm</entry>
+                  <entry>1345</entry>
+                  <entry>1780</entry>
+                  <entry>2200</entry>
+                  <entry>2500</entry>
+                </row>
+                <row>
+                  <entry>Chiều rộng</entry>
+                  <entry>mm</entry>
+                  <entry>1000</entry>
+                  <entry>1130</entry>
+                  <entry>1330</entry>
+                  <entry>1600</entry>
+                </row>
+                <row>
+                  <entry>Chiều dài</entry>
+                  <entry>mm</entry>
+                  <entry>1000</entry>
+                  <entry>1130</entry>
+                  <entry>1330</entry>
+                  <entry>1600</entry>
+                </row>
+                <row>
+                  <entry>Khối lượng</entry>
+                  <entry>kg</entry>
+                  <entry>650</entry>
+                  <entry>1000</entry>
+                  <entry>1500</entry>
+                  <entry>2000</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4040966">3.4 CÁC LOẠI MÁY ĐÁ KIỂU KHÁC</para>
+          <para id="id4040972">Ngoài hai dạng máy đá sử dụng rất phổ biến nêu trên, trong đời sống và dây dụng người ta còn sử dụng nhiều loại máy đá khác nữa. Tuy nhiên các dạng này thường có công suất nhỏ, trong cuốn sách này chúng tôi không đi sâu nghiên cứu các dạng máy như vậy. Dưới đây xin giới thiệu sơ lược về hai chủng máy đá công suất nhỏ thường được sử dụng là máy đá viên và máy đá tuyết.</para>
+          <para id="id4041000">3.4.1 Máy đá viên</para>
+          <para id="id4041007">Máy đá viên được sử dụng để sản xuất đá dạng viên trụ tròn rỗng dùng trong sinh hoạt. Có rất nhiều hãng khác nhau sản xuất máy đá viên, nhưng phổ biến là các hãng Linde, Doelz và Astra (Đức), Vogt và Escher (Mỹ), Trépaud (Pháp). Tuy cấu tạo có khác nhau một số điểm nhưng nguyên lý chung rất giống nhau. </para>
+          <para id="id4041029">Đá được sản xuất trong các ống có kích thước thường sử dụng là 57. Môi chất lạnh sôi bên ngoài ống, trong quá trình làm việc môi chất lạnh ngập bên ngoài ống. Quá trình làm việc của máy theo chu kỳ và chia thành 2 giai đoạn: giai đoạn kết đông đá và giai đoạn tan giá.</para>
+          <para id="id4041054">Hình 3-14 giới thiệu cấu tạo của máy đá viên của Vogt (Mỹ). Cấu tạo giống như bình ngưng ống chùm đặt đứng gồm một bình, bên trong có nhiều ống, bên trên bố trí khay chứa nước, nước từ khay chảy bên trong ống và được làm lạnh và đóng băng lên bề mặt bên trong của ống. Theo thời gian, chiều dày của lớp đá tăng lên. Lượng nước thừa được 01 thùng đặt phía dưới hứng và tiếp tục được bơm bơm lên khay cấp nước phía trên để tiếp tục đông đá. Khi độ dày đá đạt 10-15mm thì kết thúc quá trình đông đá và chuyển sang quá trình tan giá.</para>
+          <para id="id4041082">Để quá trình tan giá thuận lợi và dễ dàng lấy đá ra khỏi ống tạo đá, các ống phải có bề mặt bên trong nhẵn, phẵng. Để làm tan giá người ta sử dụng ga nóng đi vào bình đẩy lỏng trong bình vào bình chứa thu hồi và làm tan 01 lớp mỏng của thanh đá và nó rời khỏi ống rơi xuống. Khi rơi xuống dưới nó được dao cắt thành các đoạn ngắn theo yêu cầu. Sau đó tiếp tục thực hiện quá trình đông đá. Trong quá trình tan giá bơm nước ngừng hoạt động.</para>
+          <para id="id4041107">Thời gian làm đá phụ thuộc vào độ dày của đá, nhiệt độ bay hơi. Thời gian tan đá khoảng 2 phút và độ dày đá tan là 0,5mm. </para>
+          <para id="id4041117">Hiện nay đá viên được sử dụng trong kinh doanh giải khát rất phổ biến ở nước ta. Đá viên vừa thẩm mỹ vừa đảm bảo vệ sinh nên rất được ưa chuộng. Mặt khác máy làm đá viên có kích cỡ khá nhỏ rất phù hợp với thương mại và đời sống, thời gian làm đá ngắn, nên chủ động.</para>
+          <para id="id4041131">Máy đá viên thường có công suất không lớn, do yêu cầu sử dụng thực tế vừa phải.</para>
+          <figure id="id4041142">
+            <media id="id3753373" alt=""><image src="../../media/graphics16.jpg" mime-type="image/jpeg" height="406" width="313"/></media>
+          </figure>
+          <para id="id4041166">Hình 3-14: Máy đá viên</para>
+          <para id="id4041172">3.4.2 Máy đá tuyết</para>
+          <para id="id4041179">Máy sản xuất ra đá dưới dạng giống tuyết, sau đó có thể được ép thành cục lớn nhờ các máy ép.</para>
+          <para id="id4041187">Trên hình 3-15 giới thiệu máy đá tuyết của hãng Taylor (Mỹ). Máy gồm một tang trống, hai đầu có 2 nắp và môi chất lạnh sôi bên ngoài tang trống. Bên trong tang trống có hai lưỡi dao nạo đá quay với tốc độ khá nhanh là 250 vòng/phút.</para>
+          <para id="id4041202">Để tăng tiết diện tạo đá, bề mặt bên trong của tang trống có dạng dích dắc. Nước được đưa vào tạo đá từ phía một của tang trống và ra ở nắp còn lại. Khi nạo, đá sẽ rơi vào nước và sẽ được lọc giữ lại nhờ các lưới, còn nước được đưa trở lại để tiếp tục tạo đá.</para>
+          <figure id="id4041233">
+            <media id="id1168799041773" alt=""><image src="../../media/graphics17-aac3.jpg" mime-type="image/jpeg" height="311" width="360"/></media>
+          </figure>
+          <para id="id4041257">Hình 3-15: Máy đá tuyết</para>
+          <para id="id4041262">Do bề mặt tạo đá bên trong có dạng dích dắc nên lưỡi dao cũng phải có biên dạng tương tự.</para>
+          <para id="id4041270">Nước cấp cho máy đá phải được làm lạnh sơ bộ đạt nhiệt độ khoảng gần 0oC. Do tốc độ lưỡi dao tương đối lớn nên bề mặt bên trong tang trống luôn luôn tiếp xúc với nước lạnh để tạo đá, do đó hệ số truyền nhiệt khá lớn, khoảng 1600 W/m2.K. Do vậy kích thước máy đá khá gọn.Để bảo quản, vận chuyển và sử dụng dễ dàng người ta ép các viên đá thành các cục lớn loại 230g và 450g. Lực ép khá lớn, khoảng 70 bar. </para>
+          <para id="id4041309">Để tiện lợi cho việc thay đổi công suất tạo đá người ta chế tạo tang trống thành những đơn nguyên. Khi muốn tăng công suất người ta nối tiếp thêm một vài đơn nguyên nữa. Mỗi đơn nguyên thường có năng suất khoảng 5 tấn/ngày ở nhiệt độ bay hơi của môi chất là -15oC.</para>
+          <para id="id4041330">* * *</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,969 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vai trò các hệ thống lạnh</title>
+  <metadata>
+  <md:content-id>m30588</md:content-id><md:title>Vai trò các hệ thống lạnh</md:title>
+  <md:abstract>Kỹ thuật lạnh đã ra đời hàng trăm năm nay và được sử dụng rất rộng rãi trong  nhiều ngành kỹ thuật rất khác nhau: trong công nghiệp chế biến và bảo quản thực phẩm, công nghiệp hoá chất, công nghiệp rượu, bia, sinh học, đo lường tự động, kỹ thuật sấy nhiệt độ thấp, xây dựng, công nghiệp dầu mỏ, chế tạo vật liệu, dụng cụ, thiết kế chế tạo máy, xử lý hạt giống, y học, thể thao, trong đời sống vv...
+Ngày nay ngành kỹ thuật lạnh đã phát triển rất mạnh mẽ, được sử dụng với nhiều mục đích khác nhau, phạm vi ngày càng mở rộng và trở thành ngành kỹ thuật vô cùng quan trọng, không thể thiếu được trong đời sống và kỹ thuật của tất cả các nước.</md:abstract>
+  <md:uuid>fce84754-e814-40ae-ae12-194e23bb8c4e</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id4897946">Dưới đây chúng tôi trình bày một số ứng dụng phổ biến nhất của kỹ thuật lạnh hiện nay.</para>
+    <section id="id-663687697001">
+      <title>ỨNG DỤNG TRONG NGÀNH CHẾ BIẾN VÀ BẢO QUẢN THỰC PHẨM </title>
+      <section id="id-753004373637">
+        <title>Tác dụng của nhiệt độ thấp đối với thực phẩm</title>
+        <para id="id4897976">Năm 1745 nhà bác học Nga Lômônôxốp trong một luận án nổi tiếng “Bàn về nguyên nhân của nóng và lạnh“ đã cho rằng: Những quá trình sống và thối rửa diễn ra nhanh hơn do nhiệt độ cao và kìm hãm chậm lại do nhiệt độ thấp.</para>
+        <para id="id4898004">Thật vậy, biến đổi của thực phẩm tăng nhanh ở nhiệt độ 4050oC vì ở nhiệt độ này rất thích hợp cho hoạt hoá của men phân giải (enzim) của bản thân thực phẩm và vi sinh vật.</para>
+        <para id="id4898039">Ở nhiệt độ thấp các phản ứng hoá sinh trong thực phẩm bị ức chế. Trong phạm vi nhiệt độ bình thường cứ giảm 10oC thì tốc độ phản ứng giảm xuống 1/2 đến 1/3 lần.</para>
+        <para id="id4898061">Nhiệt độ thấp tác dụng đến hoạt động của các men phân giải nhưng không tiêu diệt được chúng. Nhiệt độ xuống dưới 0oC, phần lớn hoạt động của enzim bị đình chỉ. Tuy nhiên một số men như lipaza, trypsin, catalaza ở nhiệt độ -191oC cũng không bị phá huỷ. Nhiệt độ càng thấp khả năng phân giải giảm, ví dụ men lipaza phân giải mỡ.</para>
+        <para id="id4898103">Khi nhiệt độ giảm thì hoạt động sống của tế bào giảm là do:</para>
+        <para id="id4898110">- Cấu trúc tế bào bị co rút</para>
+        <para id="id4898117">- Độ nhớt dịch tế bào tăng</para>
+        <para id="id4898124">- Sự khuyếch tán nước và các chất tan của tế bào giảm.</para>
+        <para id="id4898131">- Hoạt tính của enzim có trong tế bào giảm. </para>
+        <section id="id-117717519176">
+          <title>Bảng 1-1: Khả năng phân giải phụ thuộc nhiệt độ</title>
+          <table id="id4898150" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Nhiệt độ, oC</entry>
+                  <entry>40</entry>
+                  <entry>10</entry>
+                  <entry>0</entry>
+                  <entry>-10</entry>
+                </row>
+                <row>
+                  <entry>Khả năng phân giải, %</entry>
+                  <entry>11,9</entry>
+                  <entry>3,89</entry>
+                  <entry>2,26</entry>
+                  <entry>0,70</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4898291">Các tế bào thực vật có cấu trúc đơn giản, hoạt động sống có thể độc lập với cơ thể sống. Vì vậy khả năng chịu lạnh cao, đa số tế bào thực vật không bị chết khi nước trong nó chưa đóng băng.</para>
+          <para id="id4898307">Tế bào động vật có cấu trúc và hoạt động sống phức tạp, gắn liền với cơ thể sống. Vì vậy khả năng chịu lạnh kém hơn. Đa số tế bào động vật chết khi nhiệt độ giảm xuống dưới 4oC so với thân nhiệt bình thường của nó. Tế bào động vật chết là do chủ yếu độ nhớt tăng và sự phân lớp của các chất tan trong cơ thể.</para>
+          <para id="id4898343">Một số loài động vật có khả năng tự điều chỉnh hoạt động sống khi nhiệt độ giảm, cơ thể giảm các hoạt động sống đến mức nhu cầu bình thường của điều kiện môi trường trong một khoảng thời gian nhất định. Khi tăng nhiệt độ, hoạt động sống của chúng phục hồi, điều này được ứng dụng trong vận chuyển động vật đặc biệt là thuỷ sản ở dạng tươi sống, đảm bảo chất lượng tốt và giảm chi phí vận chuyển.</para>
+          <para id="id4898358">* Ảnh hưởng của lạnh đối với vi sinh vật.</para>
+          <para id="id4898373">- Khả năng chịu lạnh của mỗi loài vi sinh vật có khác nhau. Một số loài chết ở nhiệt độ 200oC. Tuy nhiên một số khác chịu ở nhiệt độ thấp hơn. </para>
+          <para id="id4898403">Khi nhiệt độ hạ xuống thấp nước trong tế bào vi sinh vật đông đặc làm vỡ màng tế bào sinh vật. Mặt khác nhiệt độ thấp, nước đóng băng làm mất môi trường khuyếch tán chất tan, gây biến tính của nước làm cho vi sinh vật chết.</para>
+          <para id="id4898418">Trong tự nhiên có 3 loại vi sinh vật thường phát triển theo chế độ nhiệt riêng</para>
+        </section>
+        <section id="id-491132333494">
+          <title>Bảng 1-2: Ảnh hưởng của nhiệt độ đến vi sinh vật</title>
+          <table id="id4898438" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Vi khuẩn</entry>
+                  <entry>Nhiệt độ thấp nhất</entry>
+                  <entry>Nhiệt độ thích hợp nhất</entry>
+                  <entry>Nhiệt độ cao nhất</entry>
+                </row>
+                <row>
+                  <entry>- Vi khuẩn ưa lạnh (Psychrophiles)- Vi khuẩn ưa ấm(Mesophiles)- Vi khuẩn ưa nóng(Thermopphiles)</entry>
+                  <entry>0oC10  20oC40  90oC</entry>
+                  <entry>15  20oC20  40oC50  55oC</entry>
+                  <entry>30oC45oC50  70oC</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4898760">Nấm mốc chịu đựng lạnh tốt hơn, nhưng ở nhiệt độ -10oC hầu hết ngừng hoạt động ngoài trừ các loài Mucor, Rhizopus, Penicellium. Để ngăn ngừa mốc phải duy trì nhiệt độ dưới -15oC. Các loài nấm có thể sống ở nơi khan nước nhưng tối thiểu phải đạt 15%. Ở nhiệt độ -18oC, 86% lượng nước đóng băng, còn lại 14% không đủ cho vi sinh vật phát triển.</para>
+          <para id="id4898812">Vì vậy để bảo quản thực phẩm lâu dài cần duy trì nhiệt độ kho lạnh ít nhất -18oC.</para>
+          <para id="id4898831">Để bảo quả thực phẩm người ta có thể thực hiện nhiều cách như: Phơi, sấy khô, đóng hộp và bảo quản lạnh. Tuy nhiên phương pháp bảo quả lạnh tỏ ra có ưu điểm nổi bật vì:</para>
+          <para id="id4898844">- Hầu hết thực phẩm, nông sản đều thích hợp đối với phương pháp này.</para>
+          <para id="id4898851">- Việc thực hiện bảo quản nhanh chóng và rất hữu hiệu phù hợp với tính chất mùa vụ của nhiều loại thực phẩm nông sản.</para>
+          <para id="id4898861">- Bảo tồn tối đa các thuộc tính tự nhiên của thực phẩm, giữ gìn được hương vị, màu sắc, các vi lượng và dinh dưỡng trong thực phẩm.</para>
+          <para id="id4898871"/>
+        </section>
+      </section>
+      <section id="id-51966985222">
+        <title>Các chế độ xử lý lạnh thực phẩm</title>
+        <para id="id4898886">Thực phẩm trước khi được đưa vào các kho lạnh bảo quản, cần được tiến hành xử lý lạnh để hạ nhiệt độ thực phẩm từ nhiệt độ ban đầu sau khi đánh bắt, giết mổ xuống nhiệt độ bảo quản.</para>
+        <para id="id4898899">Có hai chế độ xử lý lạnh sản phẩm là xử lý lạnh và xử lý lạnh đông</para>
+        <para id="id4898906">a) Xử lý lạnh là làm lạnh các sản phẩm xuống đến nhiệt độ bảo quản lạnh yêu cầu. Nhiệt độ bảo quản này phải nằm trên điểm đóng băng của sản phẩm. Đặc điểm là sau khi xử lý lạnh, sản phẩm còn mềm, chưa bị hóa cứng do đóng băng.</para>
+        <para id="id4898924">b) Xử lý lạnh đông là kết đông (làm lạnh đông) các sản phẩm. Sản phẩm hoàn toàn hóa cứng do hầu hết nước và dịch trong sản phẩm đã đóng thành băng. Nhiệt độ tâm sản phẩm đạt -80C, nhiệt độ bề mặt đạt từ -180C đến -120C. </para>
+        <para id="id4898969">Xử lý lạnh đông có hai phương pháp:</para>
+        <para id="id4898975">a) Kết đông hai pha</para>
+        <para id="id4898989">Thực phẩm nóng đầu tiên được làm lạnh từ 370C xuống khoảng 40C sau đó đưa vào thiết bị kết đông để nhiệt độ tâm khối thực phẩm đạt -80C.</para>
+        <para id="id4899037">b) Kết đông một pha</para>
+        <para id="id4899051">Thực phẩm còn nóng được đưa ngay vào thiết bị kết đông để hạ nhiệt độ tâm khối thực phẩm xuống đạt dưới -80C.</para>
+        <para id="id4899075">Kết đông một pha có nhiều ưu điểm hơn so với kết đông hai pha vì tổng thời gian của quá trình giảm, tổn hao khối lượng do khô ngót giảm nhiều, chi phí lạnh và diện tích buồng lạnh cũng giảm.</para>
+        <para id="id4899091">Đối với chế biến thịt thường sử dụng phương pháp 01 pha. Đối với hàng thuỷ sản do phải qua khâu chế biến và tích trữ trong kho chờ đông nên thực tế diễn ra 2 pha.</para>
+        <para id="id4899104">Các loại thực phẩm khác nhau sẽ có chế độ bảo quản (bảng 1-3 và 1-4) và đông lạnh thích hợp khác nhau (bảng 1-5).</para>
+        <para id="id4899119">Ở chế độ bảo quản lạnh và trong giai đoạn đầu của quá trình kết động hai pha, người ta phải gia lạnh sản phẩm. Thông thường thực phẩm được gia lạnh trong môi trường không khí với các thông số sau:</para>
+        <para id="id4899135">- Độ ẩm không khí trong buồng: 85  90%</para>
+        <para id="id4899154">- Tốc độ không khí đối lưu tự nhiên: 0,1 ữ 0,2 m/s; đối lưu cưỡng bức cho phép  0,5 m/s (kể cả rau quả, thịt, cá, trứng...).</para>
+        <para id="id4899177">- Giai đoạn đầu, khi nhiệt độ sản phẩm còn cao, người ta giữ nhiệt độ không khí gia lạnh thấp hơn nhiệt độ đóng băng của sản phẩm chừng 1 ữ 2 0C. Nhiệt độ đóng băng của một số sản phẩm như sau: thịt -1,2 0C, cá từ 0,6 ữ -20C, rau quả - 0,8 -4,20C. Nhiệt độ không khí gia tăng 20C thì thời gian gia nhiệt kéo dài thêm 5h.</para>
+        <para id="id4858208">Sau khi tăng nhiệt độ sản phẩm đạt 38oC, nhiệt độ không khí tăng lên -100C. Tóm lại, cần tăng tốc độ gia lạnh nhưng phải tránh đóng băng trong sản phẩm.</para>
+        <section id="id-696039074467">
+          <title>Bảng 1-3. Chế độ bảo quản rau quả tươi</title>
+          <table id="id4858265" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Sản phẩm</entry>
+                  <entry>Nhiệt độ 0C</entry>
+                  <entry>Độ ẩm khôngkhí,%</entry>
+                  <entry>Chế độ thông gió</entry>
+                  <entry>Thời gian bảo quản</entry>
+                </row>
+                <row>
+                  <entry>- Bưởi</entry>
+                  <entry>05</entry>
+                  <entry>85</entry>
+                  <entry>Mở</entry>
+                  <entry>12 tháng</entry>
+                </row>
+                <row>
+                  <entry>- Cam</entry>
+                  <entry>0,5 2</entry>
+                  <entry>85</entry>
+                  <entry>“</entry>
+                  <entry>12 tháng</entry>
+                </row>
+                <row>
+                  <entry>- Chanh</entry>
+                  <entry>1 2</entry>
+                  <entry>85</entry>
+                  <entry>“</entry>
+                  <entry>12 tháng</entry>
+                </row>
+                <row>
+                  <entry>- Chuối chín</entry>
+                  <entry>1416</entry>
+                  <entry>85</entry>
+                  <entry>“</entry>
+                  <entry>510 ngày</entry>
+                </row>
+                <row>
+                  <entry>- Chuối xanh</entry>
+                  <entry>11,5 13,5</entry>
+                  <entry>85</entry>
+                  <entry>“</entry>
+                  <entry>310 tuần</entry>
+                </row>
+                <row>
+                  <entry>- Dứa chín</entry>
+                  <entry>47</entry>
+                  <entry>85</entry>
+                  <entry>“</entry>
+                  <entry>3 4 tuần</entry>
+                </row>
+                <row>
+                  <entry>- Dứa xanh</entry>
+                  <entry>10</entry>
+                  <entry>85</entry>
+                  <entry>“</entry>
+                  <entry>46 tháng</entry>
+                </row>
+                <row>
+                  <entry>- Đào</entry>
+                  <entry>01</entry>
+                  <entry>8590</entry>
+                  <entry>“</entry>
+                  <entry>46 tháng</entry>
+                </row>
+                <row>
+                  <entry>- Táo</entry>
+                  <entry>03</entry>
+                  <entry>9095</entry>
+                  <entry>“</entry>
+                  <entry>310 tháng</entry>
+                </row>
+                <row>
+                  <entry>- Cà chua chín</entry>
+                  <entry>02</entry>
+                  <entry>8590</entry>
+                  <entry>“</entry>
+                  <entry>16 Tuần</entry>
+                </row>
+                <row>
+                  <entry>- Cà chua xanh</entry>
+                  <entry>515</entry>
+                  <entry>8590</entry>
+                  <entry>“</entry>
+                  <entry>14 Tuần</entry>
+                </row>
+                <row>
+                  <entry>- Cà rốt</entry>
+                  <entry>01-18</entry>
+                  <entry>909590</entry>
+                  <entry>“Đóng</entry>
+                  <entry>13 Tháng1218 Tháng</entry>
+                </row>
+                <row>
+                  <entry>- Dưa chuột</entry>
+                  <entry>-18- 29</entry>
+                  <entry>9090</entry>
+                  <entry>““</entry>
+                  <entry>5 Tháng1 Năm</entry>
+                </row>
+                <row>
+                  <entry>- Đậu tươi</entry>
+                  <entry>2</entry>
+                  <entry>90</entry>
+                  <entry>Mở</entry>
+                  <entry>34 Tuần</entry>
+                </row>
+                <row>
+                  <entry>- Hành</entry>
+                  <entry>0  4</entry>
+                  <entry>75</entry>
+                  <entry>“</entry>
+                  <entry>12 Năm</entry>
+                </row>
+                <row>
+                  <entry>- Khoai tây</entry>
+                  <entry>3  10</entry>
+                  <entry>8590</entry>
+                  <entry>“</entry>
+                  <entry>810 Tháng</entry>
+                </row>
+                <row>
+                  <entry>- Nấm tươi</entry>
+                  <entry>0  2-18</entry>
+                  <entry>809090</entry>
+                  <entry>“Đóng</entry>
+                  <entry>0,53 Tháng1012 Tháng</entry>
+                </row>
+                <row>
+                  <entry>- Cải bắp, súp lơ</entry>
+                  <entry>-20-18</entry>
+                  <entry>9090</entry>
+                  <entry>““</entry>
+                  <entry>27 Tuần23 Tuần</entry>
+                </row>
+                <row>
+                  <entry>- Su hào</entry>
+                  <entry>-10,5</entry>
+                  <entry>8590</entry>
+                  <entry>“</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Dừa</entry>
+                  <entry>0</entry>
+                  <entry>85</entry>
+                  <entry>“</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Xoài</entry>
+                  <entry>13</entry>
+                  <entry>8590</entry>
+                  <entry>“</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Hoa nói chung</entry>
+                  <entry>1  3</entry>
+                  <entry>8590</entry>
+                  <entry>“</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Cúc</entry>
+                  <entry>1,6</entry>
+                  <entry>80</entry>
+                  <entry>“</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Huệ</entry>
+                  <entry>1,6</entry>
+                  <entry>80</entry>
+                  <entry>“</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Phong lan</entry>
+                  <entry>2  4,5</entry>
+                  <entry>80</entry>
+                  <entry>“</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Hoa hồng</entry>
+                  <entry>4,5</entry>
+                  <entry>80</entry>
+                  <entry>“</entry>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4860037">Bảng 1-4: Chế độ bảo quản sản phẩm động vật</para>
+          <table id="id4860044" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Sản phẩm</entry>
+                  <entry>Nhiệt độ 0C</entry>
+                  <entry>Độ ẩm không khí %</entry>
+                  <entry>Chế độ thông gió</entry>
+                  <entry>Thời gian bảo quản</entry>
+                </row>
+                <row>
+                  <entry>Thịt bò, hươi, nai, cừu</entry>
+                  <entry>-0,50,5</entry>
+                  <entry>8285</entry>
+                  <entry>Đóng</entry>
+                  <entry>1015 ngày</entry>
+                </row>
+                <row>
+                  <entry>Thịt bò gầy</entry>
+                  <entry>00,5</entry>
+                  <entry>8085</entry>
+                  <entry>‘’</entry>
+                  <entry>‘’</entry>
+                </row>
+                <row>
+                  <entry>Gà, vịt, ngan, ngỗng mổ sẵn</entry>
+                  <entry>-10,5</entry>
+                  <entry>8590</entry>
+                  <entry>‘’</entry>
+                  <entry>‘’</entry>
+                </row>
+                <row>
+                  <entry>Thịt lợn tươi ướp lạnh</entry>
+                  <entry>04</entry>
+                  <entry>8085</entry>
+                  <entry>‘’</entry>
+                  <entry>1012Tháng</entry>
+                </row>
+                <row>
+                  <entry>Thịt lợn tươi ướp đông</entry>
+                  <entry>-1,8-23</entry>
+                  <entry>8085</entry>
+                  <entry>‘’</entry>
+                  <entry>1218Tháng</entry>
+                </row>
+                <row>
+                  <entry>Thịt đóng hộp kín</entry>
+                  <entry>02</entry>
+                  <entry>7580</entry>
+                  <entry>‘’</entry>
+                  <entry>‘’</entry>
+                </row>
+                <row>
+                  <entry>Cá tươi ướp đá từ 50 đến 100% lượng cá</entry>
+                  <entry>-1</entry>
+                  <entry>100</entry>
+                  <entry>Đóng</entry>
+                  <entry>612 Ngày</entry>
+                </row>
+                <row>
+                  <entry>Cá khô (W=1417%)</entry>
+                  <entry>24</entry>
+                  <entry>50</entry>
+                  <entry>‘’</entry>
+                  <entry>12 Tháng</entry>
+                </row>
+                <row>
+                  <entry>Cá thu muối, sấy</entry>
+                  <entry>24</entry>
+                  <entry>7580</entry>
+                  <entry>Mở</entry>
+                  <entry>Vài tháng</entry>
+                </row>
+                <row>
+                  <entry>Lươn sống</entry>
+                  <entry>23</entry>
+                  <entry>85100</entry>
+                  <entry>‘’</entry>
+                  <entry>Vài tháng</entry>
+                </row>
+                <row>
+                  <entry>Ốc sống</entry>
+                  <entry>23</entry>
+                  <entry>85100</entry>
+                  <entry/>
+                  <entry>‘’</entry>
+                </row>
+                <row>
+                  <entry>Sò huyết</entry>
+                  <entry>-111</entry>
+                  <entry>85100</entry>
+                  <entry>‘’</entry>
+                  <entry>1530 ngày</entry>
+                </row>
+                <row>
+                  <entry>Tôm sống</entry>
+                  <entry>23</entry>
+                  <entry>85100</entry>
+                  <entry>‘’</entry>
+                  <entry>Vài ngày</entry>
+                </row>
+                <row>
+                  <entry>Tôm nấu chín</entry>
+                  <entry>23</entry>
+                  <entry/>
+                  <entry/>
+                  <entry>Vài ngày</entry>
+                </row>
+                <row>
+                  <entry>Bơ muối ngắn ngày</entry>
+                  <entry>1215</entry>
+                  <entry>7580</entry>
+                  <entry>Mở</entry>
+                  <entry>38 Tuần</entry>
+                </row>
+                <row>
+                  <entry>Bơ muối lâu ngày</entry>
+                  <entry>-14</entry>
+                  <entry>7580</entry>
+                  <entry>‘’</entry>
+                  <entry>12 Tuần</entry>
+                </row>
+                <row>
+                  <entry>Bơ muối lâu ngày</entry>
+                  <entry>-18-20</entry>
+                  <entry>7580</entry>
+                  <entry>‘’</entry>
+                  <entry>36 Tuần</entry>
+                </row>
+                <row>
+                  <entry>Pho mát cứng</entry>
+                  <entry>1,54</entry>
+                  <entry>70</entry>
+                  <entry>‘’</entry>
+                  <entry>412 Tháng</entry>
+                </row>
+                <row>
+                  <entry>Pho mát nhão</entry>
+                  <entry>715</entry>
+                  <entry>8085</entry>
+                  <entry>‘’</entry>
+                  <entry>Ít ngày</entry>
+                </row>
+                <row>
+                  <entry>Sữa bột đóng hộp</entry>
+                  <entry>5</entry>
+                  <entry>7580</entry>
+                  <entry>Đóng</entry>
+                  <entry>36 Tháng</entry>
+                </row>
+                <row>
+                  <entry>Sữa đặc có đường</entry>
+                  <entry>010</entry>
+                  <entry>7580</entry>
+                  <entry>‘’</entry>
+                  <entry>6 Tháng</entry>
+                </row>
+                <row>
+                  <entry>Sữa tươi</entry>
+                  <entry>02</entry>
+                  <entry>7580</entry>
+                  <entry>‘’</entry>
+                  <entry>2 Ngày</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4861565">Trong một kho lạnh có thể có buồng gia lạnh riêng biệt. Song cũng có thể sử dụng buồng bảo quản lạnh để gia lạnh. Khi đó, số lượng sản phẩm đưa vào phải phù hợp với năng suất lạnh của buồng. Các sản phẩm nóng phải bố trí đều cạnh các dàn lạnh để rút ngắn thời gian gia lạnh. Sản phẩm khi gia lạnh xong phải thu dọn và sắp xếp vào vị trí hợp lý trong buồng để tiếp tục gia lạnh đợt tiếp theo.</para>
+          <para id="id4861579">Bảng 1-5. Các thông số về phương pháp kết đông</para>
+          <table id="id4861585" summary="">
+            <tgroup cols="7">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <tbody>
+                <row>
+                  <entry>Phương pháp kết đông</entry>
+                  <entrytbl namest="c2" nameend="c5" cols="4">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c2">Nhiệt độ tâm thịt, 0C</entry>
+                        <entry namest="c3" nameend="c4">Thông số không khí trong buồng kết đông</entry>
+                      </row>
+                      <row>
+                        <entry>Ban đầu</entry>
+                        <entry>Cuối</entry>
+                        <entry>Nhiệt độ, 0C</entry>
+                        <entry>Tốc độ chuyển động, m/s</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                  <entry>Thời gian kết đông</entry>
+                  <entry>Tốn hao khối lượng, %</entry>
+                </row>
+                <row>
+                  <entry>Kết đông hai pha- Chậm- Tăng cường- NhanhKết đông một pha- Chậm- Tăng cường- Nhanh</entry>
+                  <entry>444373737</entry>
+                  <entry>-8-8-8-8-8-8</entry>
+                  <entry>-18-23-15-23-30-35</entry>
+                  <entry>0,10,20,50,8340,10,20,50,812</entry>
+                  <entry>402616362420</entry>
+                  <entry>2,582,352,201,821,601,20</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+    </section>
+    <section id="id-261358290259">
+      <title>ỨNG DỤNG TRONG CÁC NGÀNH KHÁC</title>
+      <para id="id4862056">Ngoài ứng dụng trong kỹ thuật chế biến và bảo quản thực phẩm, kỹ thuật lạnh còn được ứng dụng rất rộng rãi trong rất nhiều ngành kinh tế, kỹ thuật khác nhau. Dưới đây là các ứng dụng thông dụng nhất.</para>
+      <section id="id-628967603395">
+        <title>Ứng dụng trong sản xuất bia, nước ngọt</title>
+        <para id="id4862085">Bia là sản phẩm thực phẩm, thuộc loại đồ uống độ cồn thấp, thu nhận được bằng cách lên men rượu ở nhiệt độ thấp dịch đường (từ gạo, ngô, tiểu mạch, đại mạch vv...), nước và hoa húp lông. Qui trình công nghệ sản xuất bia trải qua nhiều giai đoạn cần phải tiến hành làm lạnh mới đảm bảo yêu cầu.</para>
+        <para id="id4862106">Đối với nhà máy sản xuất bia hiện đại, lạnh được sử dụng ở các khâu cụ thể như sau:</para>
+        <section id="id-160883883112">
+          <title>Sử dụng để làm lạnh nhanh dịch đường sau khi nấu</title>
+          <para id="id4862123">Dịch đường sau quá trình húp lông hoá có nhiệt độ khoảng 80oC cần phải tiến hành hạ nhiệt độ một cách nhanh chóng xuống nhiệt độ lên men 68oC. Tốc độ làm lạnh khoảng 3045 phút. Nếu làm lạnh chậm một số chủng vi sinh vật có hại cho quá trình lên men sẽ kịp phát triển và làm giảm chất lượng bia. Để làm lạnh dịch đường người ta sử dụng thiết bị làm lạnh nhanh. Quá trình đó được thực hiện qua hai giai đoạn:</para>
+          <para id="id4862186">- Dùng nước 1oC hạ nhiệt độ dịch đường từ 80oC xuống khoảng 20oC.</para>
+          <para id="id4862227">- Sử dụng glycol (hoặc nước muối) có nhiệt độ thấp khoảng -8oC để hạ nhiệt độ dịch đường từ 20oC xuống 8oC. Kỹ thuật lạnh hiện đại sử dụng glycol để làm lạnh vì nước muối gây ăn mòn hư hỏng thiết bị điện.</para>
+          <para id="id4862276">Như vậy trong quá trình hạ nhiệt này đòi hỏi phải sử dụng một lượng lạnh khá lớn. Tính trung bình đối với một nhà máy bia công suất 50 triệu lít/năm mỗi ngày phải nấu khoảng 180m3 dịch đường. Lượng lạnh dùng để hạ nhiệt rất lớn.</para>
+        </section>
+        <section id="id-382247088918">
+          <title>Quá trình lên men bia </title>
+          <para id="id4862319">Quá trình lên men bia được thực hiện ở một phạm vi nhiệt độ nhất định khoảng 68oC. Quá trình lên men là giai đoạn quyết định để chuyển hoá dịch đường houblon hoá thành bia dưới tác động của nấm men thông qua hoạt động sống của chúng. Trong quá trình lên men dung dịch toả ra một lượng nhiệt lớn. </para>
+          <para id="id4862360">Quá trình lên men đường houblon hoá diễn ra qua hai giai đoạn:</para>
+          <para id="id4862367">- Lên men chính: Kéo dài từ 7  12 ngày đối với các loại bia vàng và 12  18 ngày đối với các loại bia đen. Nhiệt độ lên men là 6  8oC.</para>
+          <para id="id4862422">- Lên men phụ và tàng trữ: Kéo dài ít nhất 3 tuần đối với tất cả các loại bia. Nhiệt độ lên men phụ là 1  2oC.</para>
+          <para id="id4862458">Nhiệt độ có ảnh hưởng rất lớn đến quá trình lên men và chất lượng sản phẩm. Khi nhiệt độ cao sẽ dẫn đến các tác động như sau:</para>
+          <para id="id4862470">+ Thời gian lên men nhanh.</para>
+          <para id="id4862477">+ Mật độ tối đa đạt được cao hơn khi nhiệt độ thấp.</para>
+          <para id="id4862486">+ Lên men triệt để nhưng hàm lượng các sản phẩm bậc hai (đặc biệt là diaxetyl) tạo ra nhiều hơn.</para>
+          <para id="id4862496">+ Lượng sinh khối tạo ra nhiều hơn nhưng lượng tế bào chết lại nhiều hơn và tốc độ suy giảm các đặc tính công nghệ cũng nhanh hơn.</para>
+          <para id="id4862510">+ Tỷ lệ giữa các cấu tử trong bia không cân đối, chất lượng bia giảm</para>
+          <para id="id4862519">Mỗi loại nấm men đều có nhiệt độ thích hợp cho sự phát triển lên men. Khi không đảm bảo các yêu cầu về nhiệt độ các kết quả nhận được chất lượng sẽ rất kém.</para>
+        </section>
+        <section id="id-734231063161">
+          <title>Bảo quản và nhân men giống </title>
+          <para id="id4862543">Một khâu vô cùng quan trọng cần lạnh trong nhà máy bia là khâu bảo quản và nhân men giống. Men giống được bảo quản trong những tank đặc biệt ở nhiệt độ thấp. Tank cũng có cấu tạo tương tự tank lên men, nó có thân hình trụ bên ngoài có các áo dẫn glycol làm lạnh. Tuy nhiên kích thước của tank men nhỏ hơn tank lên men rất nhiều, nên lượng lạnh cần thiết cho tank men giống không lớn.</para>
+        </section>
+        <section id="id-414841262201">
+          <title>Làm lạnh đông CO2 </title>
+          <para id="id4862581">Trong quá trình lên men nhờ các quá trình thuỷ phân mà trong các tank lên men sinh ra rất nhiều khí CO2. Quá trình phát sinh khí CO2 thể hiện ở phản ứng dưới đây.</para>
+          <para id="id4862618">Kết quả cuối cùng của quá trình chuyển hoá (lên men) từ đường hexoza đến rượu etylic và khí cácbonic có thể biểu diễn bằng phương trình tổng quát của Gay - Lussac như sau:</para>
+          <para id="id4862631">C6H12O6 = 2C2H5OH + 2CO2</para>
+          <para id="id4862684">Khí CO2 lại rất cần cho trong qui trình công nghệ bia như ở khâu chiết rót và xử lý công nghệ ở tank lên men. Khí CO2 thoát ra từ các tank lên men trong các quá trình sinh hoá cần phải được thu hồi, bảo quản để sử dụng vào trong dây chuyền công nghệ. Để bảo quản CO2 tốt nhất chỉ có thể ở thể lỏng, ở nhiệt độ bình thường áp suất ngưng tụ của CO2 đạt gần 100at. Vì vậy để giảm áp suất bảo quản CO2 xuống áp suất dưới 20 kG/cm2 cần thiết phải hạ nhiệt độ bảo quản xuống rất thấp cỡ -30  -35oC.</para>
+          <para id="id4862797">Dưới đây trình bày sơ đồ làm lạnh CO2:</para>
+          <figure id="id4862819">
+            <media id="id1167246667648" alt=""><image src="../../media/graphics1-d455.jpg" mime-type="image/jpeg" height="267" width="515"/></media>
+          </figure>
+          <para id="id4862843">Hình 1.1: Sơ đồ nguyên lý hệ thống thu hồi CO2</para>
+        </section>
+        <section id="id-0396867586152">
+          <title>Làm lạnh nước 1oC </title>
+          <para id="id4862869">Nước lạnh được sử dụng trong nhà máy bia với nhiều mục đích khác nhau, đặc biệt được sử dụng để làm lạnh nhanh dịch đường sau khi được houblon hoá đến khoảng 20oC. Việc sử dụng nước 1oC là một giải pháp rất hữu hiệu và kinh tế trong các nhà máy bia hiện đại. Phụ tải nhiệt của các mẻ nấu theo thời gian trong ngày không đều và liên tực mà có dạng hình xung. Khi các mẻ nấu hoàn thành yêu cầu phải tiến hành làm lạnh rất nhanh. Rõ ròng nếu sử dụng làm lạnh trực tiếp thì công suất máy lạnh sẽ rất lớn. </para>
+          <para id="id4862917">Việc sử dụng nước lạnh 1oC để hạ lạnh nhanh dịch đường cho phép trữ một lượng lạnh đáng kể để làm lạnh dịch đường của các mẻ nấu một cách nhanh chóng. Điều này cho phép không cần có hệ thống lạnh lớn nhưng vẫn đảm bảo yêu cầu. Nước được làm lạnh nhờ glycol đến khoảng 1oC qua thiết bị làm lạnh nhanh kiểu tấm bản.</para>
+        </section>
+        <section id="id-389214597962">
+          <title>Làm lạnh hầm bảo quản tank lên men và điều hoà</title>
+          <para id="id4862975">Trong một số nhà máy công nghệ cũ, bia được bảo quản lạnh trong các hầm làm lạnh, trong trường hợp này cần cung cấp lạnh để làm lạnh hầm bảo quản.</para>
+          <para id="id4862990">Có thể sử dụng lạnh của glycol để điều hoà không khí trong một số khu vực nhất định của nhà máy, các phòng bảo quản hoa vv..</para>
+        </section>
+      </section>
+      <section id="id-990165187283">
+        <title>Ứng dụng trong công nghiệp hoá chất</title>
+        <para id="id4863011">Trong công nghiệp hoá chất như hoá lỏng các chất khí là sản phẩm của công nghiệp hoá học như clo, amôniắc, cacbonnic, sunfuarơ, các loại chất đốt, các khí sinh học vv...</para>
+        <para id="id4863023">Hoá lỏng và tách các chất khí từ không khí là một ngành công nghiệp hết sức quan trọng, có ý nghĩa vô cùng to lớn với ngành luyện kim, chế tạo máy, y học, ngành sản xuất chế tạo cơ khí, phân đạm, chất tải lạnh vv... Các loạt khí trơ như nêôn, agôn vv... được sử dụng trong công nghiệp hoá chất và sản xuất bóng đèn.</para>
+        <para id="id4863039">Việc sản xuất vải sợi, tơ, cao su nhân tạo, phim ảnh được sự hỗ trợ tích cực của kỹ thuật lạnh. Thí dụ trong quy trình sản xuất tơ nhân tạo người ta phải làm lạnh bể quay tơ xuống nhiệt độ thấp đúng yêu cầu công nghệ thì chất lượng mới đảm bảo.</para>
+        <para id="id4863054">Cao su và các chất dẻo khi hạ nhiệt độ xuống thấp sẽ trở nên dòn và dễ vỡ như thuỷ tinh. Nhờ đặc tính này người ta có thể chế tạo được cao su bột. Khi hoà trộn với bột sắt để tạo nên cao su từ tính hoặc hoà trộn với phụ gia nào đó có thể đạt được độ đồng đều rất cao.</para>
+        <para id="id4863070">Trong công nghiệp hoá chất cũng sử dụng lạnh rất nhiều trong các quy trình sản xuất khác nhau để tạo ra nhiệt độ lạnh thích hợp nhất cho từng hoá chất.</para>
+        <section id="id-150432586225">
+          <title>Tách các chất từ các hỗn hợp</title>
+          <para id="id4863091">1. Hỗn hợp khí - hơi </para>
+          <para id="id4863097">Tách hỗn hợp khí - hơi chủ yếu bằng phương pháp ngưng tụ hơi. Mục đích là để sản xuất hơi hoặc khí tinh khiết. </para>
+          <para id="id4863111">Trường hợp này thường gặp khi cần tách các chất khí trong quá trình cracking dầu mỏ. Trong quá trình này các phân tử hyđrô cacbon lớn dưới tác dụng của áp suất và nhiệt độ cao cùng các chất xúc tác được tách ra thành các phân tử nhỏ. Hỗn hợp khí thu được gồm hai nhóm chính: Mê tan cùng các hyđrô cacbon nhẹ và êtan với các hyđrô cacbon nặng. Việc tách hai nhóm các chất đó được thực hiện nhờ ngưng tụ và sau đó chưng cất dưới áp suất từ 1035 bar và nhiệt độ tới -100oC với êtylen là môi chất lạnh. Sản phẩm thu được là êtylen, propylen và các ôlefin khác nhau. Êtylen cũng có thể sản xuất bằng phương pháp này từ khí lò cốc. Để sản xuất polyêtylen cần có êtylen với độ nguyên chất cao do đó thành phần axêtylen trong khí thô cần phải được ngưng tụ để tách ra.</para>
+          <para id="id4863180">Amôniắc cũng có thể sản xuất bằng phương pháp ngưng tụ hổn hợp khí lò. Để có thể ngưng tụ hơi NH3 cần có nhiệt độ -50 đến -60oC.</para>
+          <para id="id4863215">Trong thiết bị chiết suất làm việc với hexan là dung môi, thì hexan được ngưng tụ từ không khí và được thu hồi lại.</para>
+          <para id="id4863228">Đối với khí thiên nhiên để đem sử dụng cần thiết phải khử hiđrô sunfua, quá trình khử đó cũng được thực hiện bằng phương pháp ngưng tụ ở nhiệt độ thấp.</para>
+          <para id="id4863236">Mức độ hoà tan của các khí CO2, H2S và nhiều loại chất khí khác vào metanol phụ thuộc vào nhiệt độ rất nhiều. Nhiệt độ càng thấp metanol có khả năng hấp thụ các chất đó càng lớn. Ứng dụng các tính chất đó người ta sử dụng metanol để rửa và làm sạch các chất khí thô ở áp suất cao. Quá trình rửa thực hiện ở áp suất 20 bar và nhiệt độ -75oC. Khi hấp thụ CO2, nhiệt độ metanol tăng từ -75oC lên -20oC. Sau khi giãn nở, CO2 bay hơi và nhiệt độ mêtanol giảm từ -20oC xuống -75oC như cũ. Với nhiệt độ thấp như vậy mêtanol lại được bơm lại tháp rửa. </para>
+          <para id="id4863351">Phương pháp này cũng có thể áp dụng để hấp thụ axêtylen trong công nghệ sản xuất axêtylen từ các khí pyrolyse.</para>
+          <para id="id4863360">2. Hỗn hợp lỏng </para>
+          <para id="id4863369">Rất nhiều hỗn hợp lỏng có các nhiệt độ sôi của các thành phần rất gần nhau nên tách các chất đó bằng chưng cất rất khó khăn. Ngược lại nhiệt độ đông đặc của chúng cách nhau tương đối xa cho phép có thể dễ dàng tách chúng bằng phương pháp tinh thể hoá phân đoạn.</para>
+          <para id="id4863391">Ví dụ đối với trường hợp xylol thô, trong đó có chứa mêta-, ortho- và paraxylol, etylbenzol và các hiđrô cacbon khác. Sản phẩm chính là paraxylol, nguyên liệu chính để sản xuất sợi tổng hợp polyester.</para>
+          <para id="id4863404">Trong quá trình này, chủ yếu paraxylol được kết tinh ra khỏi xylol thô bằng cách làm lạnh gián tiếp trong thiết bị kết tinh kiểu nạo. Môi chất lạnh trong trường hợp này là R13, nhiệt độ sôi khoảng -80oC. Phương pháp kết tinh mới để thu paraxylol là sử dụng cacbonic lỏng bay hơi trực tiếp ở nhiệt độ -60oC đến -65oC.</para>
+          <para id="id4863461">Phương pháp phun môi chất lạnh lỏng trực tiếp vào thiết bị kết tinh cũng được sử dụng để sản xuất phân bón hoá học nitrophotphat. Phương pháp làm lạnh gián tiếp qua một ống xoắn ruột gà, hệ số toả nhiệt sẽ bị giảm mạnh do các tinh thể bám vào bề mặt trao đổi nhiệt. Nếu phân phối đều môi chất lạnh lỏng, butan hoặc propan từ phía dưới để làm lạnh trực tiếp thùng kết tinh có tác dụng rất tốt cả về mặt làm lạnh và cả về mặt kết tinh vì các chất lỏng hoá hơi tạo thành các bọt khí nổi lên trên làm chất lỏng bị xáo động mạnh, hệ số toả nhiệt lớn.</para>
+          <para id="id4863491">Trong công nghiệp lọc dầu theo phương pháp Edeleanu các hyđrô cacbon giàu cacbon bị loại bỏ bằng SO2 lỏng ở nhiệt độ khoảng -10oC do SO2 có khả năng hoà tan chọn lọc.</para>
+          <para id="id4863532">Tách parafin ra khỏi dầu cũng là một ứng dụng khác của kỹ thuật lạnh trong công nghiệp lọc dầu. Để tách parafin người ta sử dụng một dung môi pha loãng dầu sau đó làm lạnh trong thiết bị làm lạnh chất lỏng kiểu nạo ở nhiệt độ khoảng -30oC.</para>
+        </section>
+        <section id="id-79744436615">
+          <title>Điều khiển tốc độ phản ứng </title>
+          <para id="id4863566">Một số phản ứng toả nhiệt xảy ra một cách chậm chạp do đó phải có phương pháp thải nhiệt cho phản ứng hoặc đôi khi chỉ cần làm lạnh sơ bộ các chất lỏng tham gia phản ứng. Ví dụ trong quá trình sản xuất xà phòng hoặc các chất tẩy rửa chỉ cần làm lạnh dung dịch kiềm natri xuống khoảng +10oC là đủ. Đôi khi làm lạnh trực tiếp bằng nước đá cũng mang lại hiệu quả nhất định. Ví dụ trong quá trình sản xuất các chất màu tổng hợp gốc nitơ người ta cho 4 kg nước đá vào mỗi kg sản phẩm tham gia phản ứng, các phản ứng sẽ tiến hành nhanh chóng do được làm lạnh đều đặn. </para>
+          <para id="id4863603">Trong việc tổng hợp vi tamin A, phản ứng xảy ra chỉ trong một vài phần trăm giây ở nhiệt độ trong phòng. Vì trong khoảng thời gian quá ngắn đó không có khả năng thải nhiệt cho phản ứng nên người ta tiến hành phản ứng ở nhiệt độ thấp. Ví dụ khi cho phản ứng ở -55oC thì thời gian phản ứng kéo dài đến 01 phút. Nhiệt toả ra từ phản ứng được thải đi chủ yếu nhờ bay hơi amôniắc. Amôniắc đóng vai trò chất dung môi trong thùng phản ứng. Ngoài ra, thùng phản ứng còn được làm 2 vỏ và từ ngoài thùng được làm lạnh bằng amôniắc.</para>
+          <para id="id4863640">Trong công nghệ sản xuất cao su tổng hợp người ta cũng đưa thẳng môi chất lạnh vào thùng phản ứng và tuỳ theo sản phẩm ra mà yêu cầu nhiệt độ lạnh khác nhau trong thùng phản ứng. Ví dụ khi polyme hoá hỗn hợp isobutylen và isobutylen-isopren người ta cho etylen lỏng chảy vào thùng phản ứng. Trong quá trình polyme hoá êtylen lỏng bay hơi và duy trì nhiệt độ cần thiết của phản ứng ở nhiệt độ khoảng -100oC. Hơi êtylen được một máy lạnh hoá lỏng trở lại và làm sạch qua chưng cất. Thiết bị hoá lỏng etylen thường sử dụng propan làm môi chất lạnh.</para>
+          <para id="id4863674">Trong các trường hợp khác, thùng phản ứng chỉ cần được làm lạnh từ ngoài bằng amôniắc lỏng sôi trong thùng hai vỏ.</para>
+          <para id="id4863684">Khi polyme hoá ở nhiệt độ thấp, các tính chất của sản phẩm được cải thiện. Ví dụ sợi nhân tạo PVC không bị co ngót ở trong nước nóng khi polyme hoá ở -20 đến -60oC</para>
+        </section>
+        <section id="id-33084764509">
+          <title>Lưu kho và vận chuyển hoá chất </title>
+          <para id="id4863720">1. Các loại hoá chất. Các sản phẩm hút ẩm phải được bảo quản trong phòng nhiệt độ thấp để chúng không bị hút ẩm. Ví dụ phân bón nhân tạo cần có các hạt urê bề mặt nhẵn bóng và rắn đường kính 1,5 đến 2mm, rất dễ lắc. Nếu bảo quản các hạt urê đó trong không khí ẩm thì chúng sẽ hút ẩm trong không khí và sẽ dính kết vào nhau.</para>
+          <para id="id4863750">Trong công nghiệp chất dẻo người ta thường sử dụng loại axít acryl. Hoá chất này có thể gây cháy nổ do polyme hoá ở nhiệt độ thường. Khi bảo quản lạnh có thể tránh được nguy cơ cháy nổ.</para>
+          <para id="id4863765">Axêtylen có thể chuyên chở thuận lợi hơn nhiều khi hoà tan vào dung môi axêtôn ở nhiệt độ thấp. Ví dụ ở nhiệt độ -80oC có thể hoà tan 2000m3 tiêu chuẩn axêtylen vào 1m3 axêtôn.</para>
+          <para id="id4863808">Bảo quản diboran B2H6 lỏng thuận lợi hơn sau khi hoá lỏng ở áp suất 8,5 bar và nhiệt độ -60oC. </para>
+          <para id="id4863845">2. Khí hoá lỏng. Hoá lỏng, lưu giữ và vận chuyển khí đốt thiên nhiên hoặc khí mỏ thuộc về lĩnh vực kỹ thuật cryô, ở đây chỉ điểm qua ngắn gọn.</para>
+          <para id="id4863872">Khí thiên nhiên chủ yếu là mê tan, sôi ở -161oC và có nhiệt lượng lớn hơn hẳn khí thành phố. Vì không để lại cặn khi cháy, khí thiên nhiên được coi là nhiên liệu rất thích hợp cho các động cơ đốt trong. Các nguồn khí mỏ được tìm thấy ở nhiều nước trên thế giới. Từ nơi khai thác trên biển, khí mỏ được đưa vào đất liền đến các nới tiêu thụ bằng đường ống. Để vận chuyển bằng đường biển khí cần được hoá lỏng nhờ làm lạnh.</para>
+          <para id="id4863903">Do khí thiên nhiên có áp suất rất cao khi khai thác từ các mũi khoan nên có thể dãn nở trong ống xoắn để sản xuất lạnh mà không tốn kém gì.</para>
+          <para id="id4863914">Có nhiều phương pháp hoá lỏng khí thiên nhiên. Phương pháp được ứng dụng rộng rãi nhất là phương pháp làm lạnh nhờ các máy ghép tầng, trong đó các cấp trên môi chất lạnh là etylen và propan. Có thể sử dụng các phương pháp làm lạnh gián tiếp để hoá lỏng khí thiên nhiên. Một trong những phương pháp làm lạnh gián tiếp là nén khí lên trên áp suất tới hạn sau đó đưa vào làm lạnh gián tiếp bằng môi chất lạnh, ví dụ như êtan. Sau đó khí được dãn nở và một phần khí được hoá lỏng. Hình 1-2 giới thiệu chu trình hoá lỏng khí thiên nhiên bằng máy lạnh ghép tầng.</para>
+          <para id="id4863938">Chu trình cổ điển thông dụng (hình 1-2a) có nhược điểm là quá nhiều thiết bị với nhiều loại máy nén, thiết bị trao đổi nhiệt, đường ống vv... làm cho công tác vận hành, bảo dưỡng, sửa chữa gặp khó khăn, đặc biệt khi tải dao động và việc hút hơi lạnh về máy nén. Công việc tự động hoá cũng gặp khó khăn.</para>
+          <figure id="id4863956">
+            <media id="id1167246668351" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="382" width="428"/></media>
+          </figure>
+          <para id="id4863980">1-Khí thiên nhiên vào; 2- Máy nén khí thiên nhiên; 3- Máy nén lạnh; 4- Máy nén lạnh hỗn hợp môi chất; 5- Bình ngưng; 6- Thiết bị trao đổi nhiệt; 7- Van tiết lưu</para>
+          <para id="id4863993">Hình 1-2: Chu trình ghép tầng hoá lỏng khí thiên nhiên</para>
+          <para id="id4864000">Một giải pháp tích cực là ứng dụng hỗn hợp môi chất lạnh được viết tắt là phương pháp ARC (Auto-Refrigerated Cascade). Hỗn hợp môi chất lạnh gồm nitơ, mêtan, êtan, propan và butan được nén trong máy nén 4 và được hoá lỏng theo thứ tự từng thành phần. Bằng cách tiết lưu và cho bay hơi từng thành phần đó khí thiên nhiên được làm lạnh dần đến 120oK rồi hoá lỏng một phần khi qua tiết lưu 7. Hiện nay nhiều nhà máy hoá lỏng khí thiên nhiên có năng suất rất lớn làm việc theo phương pháp ARC này. Ví dụ nhà máy hoá lỏng khí Badak (Inđônêxia) có năng suất 250.000m3 tiêu chuẩn trong một giờ và nhà máy hoá lỏng Arzew (Angiêri) có năng suất 1.200.000 m3/h.</para>
+          <para id="id4864068">Khí thiên nhiên hoá lỏng được ký hiệu là LNG (Liquefied Natural Gas) có nhiệt độ sôi ở áp suất khí quyển khoảng -160oC, bởi vậy khí hoá lỏng cần được chứa và vận chuyển trong các bình cách nhiệt tốt. Người ta đã bảo quản khí hoá lỏng trong nền đất đông cứng. Phương pháp này tỏ ra có hiệu quả kinh tế. Bình chứa đặt trong nền đất đông cứng đã sử dụng có sức chứa lên tới 40.000 m3.</para>
+          <para id="id4864114">Khí hoá lỏng từ dầu thô LPG (Liquefied Petroleum Gas) có nhiệt độ sôi ở áp suất khí quyển cao hơn nhiều. Khí PLG là sản phẩm thu được khi chế biến dầu thô và bao gồm chủ yếu các thành phần propan, n-butan và isobutan. Các chất này là thể khí ở nhiệt độ môi trường nhưng chỉ cần nén lên áp suất vừa phải là chúng đã hoá lỏng vì nhiệt độ tới hạn của chúng lớn hơn nhiệt độ môi trường nhiều. </para>
+          <para id="id4864130">Các khí lỏng cũng được bảo quản và vận chuyển bằng các bình. Ngày nay người ta gọi nhiều khí có nhiệt độ tới hạn cao hơn nhiệt độ môi trường, khi được hoá lỏng là khí hoá lỏng như amôniắc, butadien, clo vv...</para>
+          <para id="id4864148">Trong một bình kín chứa khí lỏng, hơi và lỏng ở trạng thái cân bằng, bởi vậy áp suất trong bình phụ thuộc rất nhiều vào nhiệt độ. Trong khi vận chuyển khí lỏng người ta phân biệt ba loại áp suất: áp suất đầy, áp suất giảm và áp suất khí quyển. Chuyên chở với áp suất đầy nghĩa là các chai không được làm lạnh, áp suất trong chai là áp suất bão hoà tương ứng với nhiệt độ môi trường. Các chai thường được thiết kế cho áp suất cao nhất lên tới 17 bar, nghĩa là khi chuyên chở propan, nhiệt độ ngoài trời có thể lên tới khoảng 45oC.</para>
+          <para id="id4864188">Hình dáng của các bình chứa rất khác nhau nhưng thông thường có dạng hình trụ nằm hoặc đặt đứng (đặt trong các khoang tàu thuỷ), đôi khi cả hình cầu. Các bình chứa này rất nặng nên thường được chế tạo không quá 1000 Tấn.</para>
+          <para id="id4864203">Chuyên chở với kiểu áp suất giảm thuận lợi hơn vì áp suất trong bình không quá cao nhưng phải có hệ thống làm lạnh kèm theo. Các bình khí hoá lỏng được làm lạnh đến một nhiệt độ thuận lợi nào đó để áp suất trong bình không quá cao. Do được làm lạnh nên các bình chứa này phải được bọc cách nhiệt để giữ lạnh. Do khối lượng riêng ở nhiệt độ thấp lớn hơn nên với cùng thể tích bình, phương pháp áp suất giảm chứa được nhiều khí hoá lỏng hơn. Các bình chứa áp suất giảm được thiết kế cho áp suất tối đa 10 bar. Nhiệt độ thấp nhất cho phép tuỳ theo vật liệu chế tạo mà tiêu chuẩn cho phép.</para>
+          <para id="id4864240">Do có tổn thất qua lớp cách nhiệt của bình nên để duy trì áp suất bình cần trang bị hệ thống lạnh hoặc tiến hành tái làm lạnh khí hoá lỏng như hình 1-3.</para>
+          <figure id="id4864255">
+            <media id="id1167246668545" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="208" width="304"/></media>
+          </figure>
+          <para id="id4864279">1- Bình chứa khí hoá lỏng; 2- Máy nén; 3- Bình tái ngưng tụ; 4- Van tiết lưu</para>
+          <para id="id4864287">Hình 1-3: Sơ đồ tái hoá lỏng khí thiên nhiên</para>
+          <para id="id4864295">Trên sơ đồ này, phần lỏng đã hoá hơi được máy nén 2 hút về và nén lên áp suất và nhiệt độ cao, sau đó đưa vào bình tái ngưng tụ 3 để ngưng lại thành lỏng, lỏng được tiết lưu để giảm áp suất và nhiệt độ xuống áp suất nhiệt độ trong bình.</para>
+          <para id="id4864314">Để tránh làm bẩn khí lỏng ở bình 1 do dầu bôi trơn máy nén lẫn vào, người ta sử dụng máy nén không cần dầu bôi trơn. Đề phòng trường hợp có khí không ngưng trong bình chứa cần có thiết bị xả khí không ngưng.</para>
+          <para id="id4864324">Chuyên chở khí lỏng với áp suất khí quyển cũng còn được gọi là chuyên chở khí lỏng được làm lạnh hoàn toàn. Áp suất trong bình chỉ cao hơn áp suất khí quyển tối đa là 0,3 bar. Nhiệt độ của khí hoá lỏng trong bình gần bằng nhiệt độ bão hoà theo áp suất khí quyển hay nhiệt độ sôi ở áp suất thường bởi vậy bình chứa cần được bọc cách nhiệt tốt. Do không chịu áp lực nên vách bình không cần dày và hình dáng có thể tuỳ theo kho chứa hoặc khoang tàu thuỷ.</para>
+          <para id="id4864349">Thực tế cho thấy máy lạnh lắp đặt trên tàu và cả trên đất liền để làm lạnh một phần hoặc làm lạnh hoàn toàn khí lỏng trong bình chứa tiêu tốn năng lượng lớn hơn nhiều lần phương pháp tái hoá lỏng.</para>
+          <para id="id4864364">Để làm lạnh khí lỏng đến -50oC cần một máy lạnh hai cấp với khí lỏng đồng thời làm môi chất lạnh. Khi chuyên chở êtylen lỏng ở nhiệt độ -100oC cần trang bị một máy lạnh ghép tầng, tầng dưới lấy êtylen và tầng trên lấy R22 làm môi chất lạnh. Nếu chọn R13B1 thì bình bay hơi ghép tầng không phải làm việc với áp suất chân không.</para>
+        </section>
+      </section>
+      <section id="id-06780391906">
+        <title>Ứng dụng trong điều hoà không khí</title>
+        <para id="id4864425">Ngày nay kỹ thuật điều hoà được sử dụng rất rộng rãi trong đời sống và trong công nghiệp. Khâu quan trọng nhất trong các hệ thống điều hoà không khí đó là hệ thống lạnh </para>
+        <para id="id4864440">Máy lạnh được sử dụng để xử lý nhiệt ẩm không khí trước khi cấp vào phòng. Máy lạnh không chỉ được sử dụng để làm lạnh về mùa hè mà còn được đảo chiều để sưởi ấm mùa đông. </para>
+        <para id="id4864458">Điều hoà không khí được sử dụng với 2 mục đích:</para>
+        <para id="id4864465">- Phục vụ cuộc sống tiện nghi của con người (Hệ thống điều hoà trong đời sống, dân dụng).</para>
+        <para id="id4864475">- Phục vụ các quá trình sản xuất (Hệ thống điều hoà công nghiệp).</para>
+        <section id="id-483905472809">
+          <title>Các hệ thống điều hoà trong đời sống dân dụng</title>
+          <para id="id4864493">Hiện nay các hệ thống điều hoà được sử dụng rất rộng rãi ở các hộ gia đình, trong các công sở, cơ quan, nhà máy, xí nghiệp, khách sạn, ngân hàng, nhà thi đấu thể thao, hội trường, rạp chiếu bóng, rạp hát vv.. nhằm phục vụ cuộc sống tiện nghi của con người.</para>
+          <para id="id4864509">Nhiệt độ thích hợp đối với con người là khoảng từ 22oC đến 29oC. Tuy nhiên khí hậu quanh năm luôn luôn thay đổi, mùa hè nước ta nhiều nơi nhiệt độ có thể đạt 40oC. Làm việc trong những điều kiện như vậy rất khó chịu và ảnh hưởng nhất định đến hiệu quả và chất lượng công việc. Ngược lại mùa đông, nhiệt độ có thể hạ xuống 10oC.</para>
+          <para id="id4864568">Hiện nay người ta sử dụng nhiều hệ thống điều hoà khác nhau trong đời sống như: Máy điều hoà dạng cửa sổ, máy điều hoà 2 mãnh, máy điều hoà kiểu VRV, máy điều hoà làm lạnh bằng nước và máy điều hoà trung tâm.</para>
+          <para id="id4864585">Đối với các hộ gia đình, thích hợp nhất là các máy điều hoà công suất nhỏ như loại cửa sổ và máy điều hoà 2 mãnh.</para>
+        </section>
+        <section id="id-908991225413">
+          <title>Các hệ thống điều hoà trong công nghiệp</title>
+          <para id="id4864605">Trong nhiều ngành công nghiệp để sản xuất ra các sản phẩm có chất lượng kỹ thuật cao đòi hỏi phải duy trì nhiệt độ, độ ẩm trong một giới hạn nhất định. Ví dụ như trong ngành cơ khí chính xác, thiết bị quang học, trong công nghiệp bánh kẹo, trong ngành điện tử vv…</para>
+          <para id="id4864629">Trong các ngành công nghiệp nhẹ điều hoà không khí cũng được sử dụng nhiều như trong công nghiệp dệt, công nghiệp thuốc lá vv...</para>
+          <para id="id4864642">Mỗi loại sản phẩm đòi hỏi sản xuất trong những điều kiện nhiệt độ, độ ẩm khác nhau, ví dụ như:</para>
+          <para id="id4864655">- Kẹo sôcôla: 7  8 oC</para>
+          <para id="id4864680">- Kẹo cao su: 20oC</para>
+          <para id="id4864697">- Bảo quản rau quả: 10oC</para>
+          <para id="id4864717">- Đo lường chính xác: 20  24 oC</para>
+          <para id="id4864742">- Công nghiệp dệt: 20  32oC</para>
+          <para id="id4864767">- Chế biến thực phẩm: Nhiệt độ càng thấp càng tốt, khoảng 510oC</para>
+          <para id="id4864794">Các hệ thống điều hoà không khí trong công nghiệp chủ yếu là các hệ thống công suất lớn như kiểu VRV, máy điều hoà làm lạnh bằng nước và máy điều hoà trung tâm.</para>
+        </section>
+      </section>
+      <section id="id-110391274764">
+        <title>Ứng dụng trong siêu dẫn</title>
+        <para id="id4864818">Một ứng dụng rất quan trọng của kỹ thuật lạnh là sử dụng trong kỹ thuật siêu dẫn. Người ta nhận thấy khi làm lạnh các chất dẫn điện xuống nhiệt độ rất thấp thì điện trở của nó bằng 0. Thông thường nhiệt độ đó rất thấp. </para>
+        <para id="id4864833">Khi dây đạt được nhiệt độ siêu dẫn thì có thể sử dụng vật liệu dẫn điện mà không gây ra tổn thất điện năng trên đường dây. Trong trường hợp đó có thể ứng dụng để tạo ra các nam châm cực lớn trong các máy gia tốc của nhà máy điện nguyên tử, nhiệt hạch, đệm từ cho các tàu cao tốc, nam châm điện của các cầu cảng vv…</para>
+        <para id="id4864849">Ngày nay trong các phòng thí nghiệm người ta đã nghiên cứu được các hợp kim có thể đạt trạng thái siêu dẫn ở nhiệt độ cao, mở ra triển vọng ứng dụng rộng rãi kỹ thuật siêu dẫn.</para>
+      </section>
+      <section id="id-91376911767">
+        <title>Ứng dụng trong y tế và sinh học cryô</title>
+        <section id="id-948595594271">
+          <title>Ứng dụng trong y tế</title>
+          <para id="id4864882">Các ứng dụng của kỹ thuật lạnh trong y tế rất phong phú, từ việc điều hoà trong các bệnh viện, bảo quản thuốc trong các buồng lạnh, đến bảo quản các bộ phận cơ thể. </para>
+          <para id="id4864894">1. Bảo quản máu và các bộ phận cấy ghép</para>
+          <para id="id4864901">Ngày nay, trong các bệnh viện nhu cầu về máu rất cao. Máu được bảo quản trong các tủ lạnh có nhiệt độ +4oC. Tuy nhiên thời gian bảo quản bị hạn chế chỉ trong vài tuần lễ, sau đó bắt đầu quá trình tan rã hồng cầu (quá trình hemolyse). Để bảo quản lâu vài tháng cần tách plasma khỏi hồng cầu.</para>
+          <para id="id4864935">Các bộ phận xương dùng cấy ghép cần duy trì trong tủ lạnh nhiệt độ thấp, nhiệt độ bảo quản càng thấp thời gian bảo quản càng lâu. Ở nhiệt độ +2 đến +4oC thời gian bảo quản từ một đến hai tuần, ở nhiệt độ -18oC có thể giữ được trong 6 tuần. Hiện nay người ta bảo quản xương, các bộ phận cấy ghép ở -70oC. </para>
+          <para id="id4864985">Các bộ phận cấy ghép có thể được bảo quản bằng phương pháp sấy thăng hoa. Như vậy không cần bảo quản và vận chuyển lạnh. Phương pháp sấy thăng hoa giữ một vị trí quan trọng trong kỹ thuật bảo quản các bộ phận cấy ghép lên cơ thể.</para>
+          <para id="id4865000">Ngày nay, thế giới đang phát triển mạnh ngành vi phẩu thuật, để giải quyết tốt hàng loạt các ca phức tạp như ghép dây thần kinh, ghép nối các mạch máu, can thiệp trực tiếp vào các túi phồng mạch máu não, nối các mạch máu da đầu và mạng lưới huyết quản nuôi dưỡng não, tái lập sự lưu thông của hệ thống động mạch vành tim vv… thì việc bảo quản sẵn sàng các phẩm vật sinh học để kịp thời thay thế là một nhu cầu rất cấp thiết. </para>
+          <para id="id4865019">Một số thuốc quí đòi hỏi bảo quản ở nhiệt độ từ –15oC đến –25oC, ví dụ như cao gan, sữa ong chúa, các loại thuốc kháng sinh, vv..</para>
+          <para id="id4865050">Hầu hết các thuốc còn lại cần phải bảo quản trong điều kiện nhiệt độ thấp</para>
+          <para id="id4865059">2. Hạ thân nhiệt nhân tạo</para>
+          <para id="id4865066">Trong y tế người ta còn sử dụng lạnh trong phẩu thuật với những mục đích chủ yếu sau:</para>
+          <para id="id4865075">- Làm lạnh cục bộ tại nơi phẩu thuật để gây tê, giảm đau cho bệnh nhân.</para>
+          <para id="id4865083">- Giảm trao đổi chất để ngừng vòng tuần hoàn máu khi phẩu thuật.</para>
+          <para id="id4865091">- Gây ngủ nhân tạo, để phẩu thuật.</para>
+          <para id="id4865098">- Ướp xác chết phục vụ khám, xét nghiệm tử thi hoặc chờ mai táng.</para>
+          <para id="id4865109">Trong các khoa răng hàm mặt người ta sử dụng các dao mổ lạnh chuyên dùng, có tác dụng làm giảm đau khi nhổ răng. Trong khoa mắt người ta sử dụng kỹ thuật lạnh đông để lấy thuỷ tinh thể bị đục ra khỏi mắt do vậy hiệu quả chữa bệnh nâng lên rất cao. Đối với các bệnh nhân ung thư, người ta dùng N2 lỏng đạt nhiệt độ –196oC bơm bào khối ung thư để diệt những mô ung thư ở đó và loại trừ hoàn toàn khả năng lan truyền của tế bào ung thư trong cơ thể. Dùng những dụng cụ âm sâu cho phép khử những u ác tính ở những vị trí khó phẩu thuật của cơ thể, loại trừ khả năng di căn, hạn chế đau đớn.</para>
+          <para id="id4865159"> Một số động vật có giấc ngủ đông trong khoảng thời gian rất lâu mà vẫn duy trì được sự sống. Muốn vậy động vật thường hạ thân nhiệt xuống nhiệt độ khá thấp, xấp xỉ nhiệt độ môi trường để giảm trao đổi chất trong cơ thể. Con người nếu được giảm thân nhiệt nhân tạo, sự trao đổi chất trong cơ thể giảm xuống đáng kể, nhịp đập của tim giảm xuống.</para>
+          <para id="id4865185">Giảm trao đổi chất trong cơ thể và qua đó giảm tiêu hao ôxi là rất cần thiết trong khi mổ tim. Trong suốt quá trình mổ tim, vòng tuần hoàn máu phải ngừng hoạt động nhưng không được gây ra bất kỳ tổn hại nào. Ngay ở nhiệt độ cơ thể 28oC có thể dừng tuần hoàn máu trong thời gian 8 phút để tiến hành mổ tim.</para>
+          <para id="id4865217">Để làm lạnh (hạ thân nhiệt) một bệnh nhân đã gây mê có thể tiến hành theo nhiều cách, ví dụ như nhúng vào hỗn hợp nước và nước đá hoặc quấn quanh thân một tấm mền lạnh. Từ cách thử nghiệm trên súc vật người ta đã xây dựng được một thiết bị dùng hạ thân nhiệt và được điều chỉnh rất dễ dàng. Bệnh nhân được đặt trong một khoang nhỏ có gió lạnh lưu thông, khoang được làm bằng chất dẻo trong suốt, bên dưới bố trí dàn lạnh và quạt gió. Không khí được làm lạnh xuống +4oC ở cửa vào. Nhiệt độ gió có thể điều chỉnh xuống -2oC. Toàn bộ các thiết bị khác của hệ thống lạnh như máy nén, dàn nóng, tủ điện, đường ống được bố trí ở phía dưới hộp chất dẻo, toàn bộ được đặt trên xe nên di chuyển dễ dàng.</para>
+          <para id="id4865276">Ngoài ra để hạ thân nhiệt người ta còn sử dụng phương pháp bức xạ, bằng cách đặt bệnh nhân vào trong một chiếc hộp, bề mặt xung quanh hộp được làm lạnh sâu bằng polyêtylen. Nhiệt bức xạ từ cơ thể được bề mặt lạnh hấp thụ, nhưng giảm thành phần tổn thất lạnh do đối lưu và hiện tượng ngưng tụ.</para>
+          <para id="id4865295">Trong các ca mổ khó khăn đòi hỏi thời gian mổ kéo dài, nhiệt độ thân nhiệt đòi hỏi hạ thấp hơn nhiều. Tuy nhiên khi hạ nhiệt độ xuống thấp 28 đến 26oC có nhiều nguy cơ không thể đưa tim hoạt động trở lại được. Vì vậy người ta sử dụng phương pháp khác. Trong trường hợp này người ta sử dụng phương pháp làm lạnh riêng vòng tuần hoàn máu. Máu được đưa vào ống xoắn đặt trong dung dịch chất lỏng lạnh và được một bơm máu (thay chức năng của tim) bơm tuần hoàn như bình thường. Tim được đưa ra khỏi vòng tuần hoàn để mổ.</para>
+          <para id="id4865341">Bằng phương pháp này, người ta có thể đưa thân nhiệt xuống đến 13oC thậm chí thấp hơn. Tốc độ làm lạnh phù hợp được ghi nhận là 1K/phút. Làm lạnh máu được tiến hành gián tiếp qua nước lạnh để đề phòng trường hợp nhiệt độ máu giảm xuống 2oC. Nước lạnh được sản xuất trong máy làm lạnh nước có phủ băng để giữ nhiệt độ không đổi khi chảy vào bình làm lạnh máu. Trong quá trình làm ấm sau khi mổ nước nóng có nhiệt độ 42oC được cho chảy vào bình trao đổi nhiệt để làm ấm máu. </para>
+        </section>
+        <section id="id-855880442288">
+          <title>Kỹ thuật cryô</title>
+          <para id="id4865405">Kỹ thuật lạnh ngày càng đóng vai trò quan trọng trong nông, lâm nghiệp, sinh học, vi sinh vv.. Kỹ thuật lạnh thâm độ còn gọi là kỹ thuật cryô (-80-196oC) đã hổ trợ đắc lực cho việc lai tạo giống, bảo quản tinh đông, gây đột biến hoặc các kỹ thuật khác trong lai tạo giống.</para>
+          <para id="id4865442">Nhờ kỹ thuật cryô mà từ một con bò đực người ta đã có thể thụ tinh cho hàng vạn con cái khác nhau, ngay cả sau khi đã chết hàng chục năm.</para>
+          <para id="id4865453">Ở Mỹ hiện nay có hàng chục bệnh nhân bị các chứng bệnh nan y đang được ướp sống chờ đến khi con người có khả năng chữa trị căn bệnh đó từ người bệnh, người ta sẽ phục hồi lại và bệnh nhân có thể sống lại được. Nếu thành công có thể ngừng cuộc sống trong một thời gian nhất định. Tuy nhiên, hiện nay vẫn còn vấn đề kỹ thuật chưa giải quyết được, đó là tế bào thần kinh của các động vật máu nóng không thích hợp với môi trường lạnh nên nếu xác ướp được làm sống lại được thì tâm tư tình cảm sẽ hoàn toàn thay đổi. </para>
+          <para id="id4865486">Đây là nguyên nhân hạn chế sự phát triển của kỹ thuật ướp xác sống bằng lạnh sâu.</para>
+        </section>
+      </section>
+      <section id="id-83613385321">
+        <title>Ứng dụng trong kỹ thuật đo và tự động</title>
+        <para id="id4865504">Áp suất bay hơi của một chất lỏng luôn phụ thuộc vào nhiệt độ vì vậy người ta ứng dụng hiện tượng này trong các dụng cụ đo lường như đồng hồ áp suất, nhiệt kế, trong các rơ le áp suất vv...</para>
+        <para id="id4865514"> Hiệu ứng nhiệt điện phản ánh mối quan hệ của độ chênh nhiệt độ 2 đầu cặp nhiệt với dòng điện chạy qua mạch cặp nhiệt điện. Ứng dụng hiện tượng này người ta đã tạo ra các dụng cụ đo nhiệt độ, áp suất hoặc thiết bị điều khiển tự động. </para>
+      </section>
+      <section id="id-823644858515">
+        <title>Ứng dụng trong thể thao</title>
+        <para id="id4865538">Trong một số bộ môn thi đấu trong nhà người ta duy trì nhiệt độ thấp để không làm ảnh hưởng tới sức khoẻ và nâng cao thành tích của vận động viên. Trong hầu hết các nhà thi đấu đều có trang bị các hệ thống điều hoà không khí.</para>
+        <para id="id4865553">Trong thể thao kỹ thuật lạnh được ứng dụng khá rộng rãi. Trong môn trượt băng nghệ thuật, để tạo ra các sân băng người ta dùng hệ thống lạnh để tạo băng theo yêu cầu. </para>
+        <section id="id-870913587548">
+          <title>Hệ thống làm lạnh sân băng</title>
+          <para id="id4865576">Trước đây để làm lạnh các sân băng người ta thường hay sử dụng nước muối làm chất tải lạnh. Nước muối có nhiệt độ khoảng -10oC và nhiệt độ môi chất lạnh nằm trong khoảng -15 đến -17oC. Do chiều dài ống rất lớn nên không thể phân bố nhiệt độ đều ở tất cả mọi vị trí trên sân băng. Lý do khác là do tiết kiệm nên công suất bơm tuần hoàn nước bị hạn chế. Nhiệt độ vào và ra của nước muối chênh nhau khoảng 3 đến 4K. Một nhược điểm nữa của hệ thống dùng nước muối là luôn luôn phải kiểm tra sự rò rỉ của nước muối, đề phòng hoen rỉ kết cấu nền và gây rả băng. Khi nước muối rò rỉ ra lớp băng, nhiệt độ đông đặc của hỗn hợp nước muối giảm nên băng bị chảy ra. Hình 1-4 và hình 1-5 mô tả sơ đồ hệ thống lạnh và sơ đồ hệ thống cấp nước muối làm lạnh sân băng.</para>
+          <figure id="id4865641">
+            <media id="id1167246453308" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="200" width="436"/></media>
+          </figure>
+          <para id="id4865665">1- Sân băng; 2- Bơm nước muối; 3- Bể nước muối; 4- Nước muối vào ra</para>
+          <para id="id4865672">Hình 1-4: Sơ đồ làm lạnh sân băng bằng nước muối</para>
+          <para id="id4865678">Ngày nay người ta thường sử dụng hệ thống lạnh làm lạnh trực tiếp sân băng do đó có thể khắc phục được các nhược điểm của hệ thống sử dụng nước muối làm chất tải lạnh, ngoài ra còn phát huy các ưu điểm sau:</para>
+          <para id="id4865693">- Nhiệt độ bay hơi trực tiếp -10oC cao hơn 5 đến 7K so với dùng nước muối nên tiêu tốn năng lượng cho máy nén giảm 25 đến 35%.</para>
+          <para id="id4865720">- Bơm tuần hoàn môi chất lạnh tiêu tốn năng lượng chỉ bằng 15 đến 25% năng lượng tiêu tốn cho bơm nước muối vì khối lượng tuần hoàn rất nhỏ.</para>
+          <para id="id4865731">- Các đường ống sân băng đỡ bị han rỉ hơn rất nhiều.</para>
+          <para id="id4865739">- Nhiệt độ ở mọi vị trí sân băng bằng nhau.</para>
+        </section>
+        <section id="id-929215795003">
+          <title>Tính toán tải lạnh sân băng</title>
+          <para id="id4865756">Tải lạnh sân băng bao gồm các thành phần sau:</para>
+          <para id="id4865764">- Dòng nhiệt truyền từ nền đất lên: ở trạng thái cân bằng dòng nhiệt này tương đối nhỏ.</para>
+          <para id="id4865773">- Dòng nhiệt từ không khí: Dòng nhiệt từ không khí bao gồm cả dòng nhiệt hiện lẫn nhiệt ẩn, tuỳ thuộc vào tốc độ không khí, nhiệt độ không khi trên bề mặt băng. Để có một lớp không khí lạnh ở trên có thể làm tường bao chung quanh sân băng cao hơn. Đối với sân băng trong nhà, tốc độ không khí vừa phải có thể tính với hệ số truyền nhiệt k = 0,11 W/m2.K</para>
+          <para id="id4865800">- Dòng nhiệt bức xạ mặt trời: ở các nước ôn đới sân băng có thể xây dựng ngoài trời, nhưng ở Việt Nam chắc chắn phải có mái che nên có thể bỏ qua thành phần này.</para>
+          <figure id="id4865814">
+            <media id="id1167246453495" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="206" width="464"/></media>
+          </figure>
+          <para id="id4865838">1- Bình chứa NH3; 2- Máy nén lạnh; 3- Bình tách dầu; 4- Bình làm mát dầu; 5- Bình ngưng; 6- Thiết bị tiết lưu; 7- Bơm NH3; 8- Sân băng</para>
+          <para id="id4865856">Hình 1-5: Sơ đồ làm lạnh sân băng trực tiếp bằng môi chất lạnh</para>
+          <para id="id4865863">- Kết đông lớp băng mới thay vào lớp băng đã sử dụng. Đối với sân băng có đông khách, kích thước 30 x 60 m mỗi giờ phải thay chừng 2m3</para>
+          <para id="id4865883">Bảng 1-6: Thông số một số sân trượt băng trên Thế giới</para>
+          <table id="id4865892" summary="">
+            <tgroup cols="6">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <tbody>
+                <row>
+                  <entry>Nước, địa điểm, tên sân</entry>
+                  <entry>Loại sân</entry>
+                  <entry>Hệ thống lạnh</entry>
+                  <entry>Diện tích sàn, m2</entry>
+                  <entry>L x dkm/mm</entry>
+                  <entry>Công suất lạnh</entry>
+                </row>
+                <row>
+                  <entry>* Liên xô - Matxcơva</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Công viên thiếu nhi</entry>
+                  <entry>Hở</entry>
+                  <entry>Trực tiếp</entry>
+                  <entry>10x12 =120</entry>
+                  <entry>0,6 / 29</entry>
+                  <entry>50.000</entry>
+                </row>
+                <row>
+                  <entry>- Sân vận động thiếu nhi</entry>
+                  <entry>Kín</entry>
+                  <entry>Trực tiếp</entry>
+                  <entry>20x30=300</entry>
+                  <entry>2,3/29</entry>
+                  <entry>225.000</entry>
+                </row>
+                <row>
+                  <entry>- “ “ “ </entry>
+                  <entry>Hở</entry>
+                  <entry>“</entry>
+                  <entry>31x60=1860</entry>
+                  <entry>18/29</entry>
+                  <entry>900.000</entry>
+                </row>
+                <row>
+                  <entry>- Cung thể thao</entry>
+                  <entry>Kín</entry>
+                  <entry>Gián tiếp</entry>
+                  <entry>31x60=1860</entry>
+                  <entry>18/45</entry>
+                  <entry>1200.000</entry>
+                </row>
+                <row>
+                  <entry>* Ba Lan - Catovit</entry>
+                  <entry>Hở</entry>
+                  <entry>“</entry>
+                  <entry>2400</entry>
+                  <entry>Ống elip</entry>
+                  <entry>350.000</entry>
+                </row>
+                <row>
+                  <entry>* Mỹ</entry>
+                  <entry>Kín</entry>
+                  <entry>Trực tiếp</entry>
+                  <entry>18,5x36=666</entry>
+                  <entry>8,7/16</entry>
+                  <entry>250.000</entry>
+                </row>
+                <row>
+                  <entry>* Tiệp khắc cũ – Praha</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Cung thể thao</entry>
+                  <entry>Kín</entry>
+                  <entry>Gián tiếp</entry>
+                  <entry>30x61=1830</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Sân vận động mùa đông</entry>
+                  <entry>Hở</entry>
+                  <entry>“</entry>
+                  <entry>30x72=2160</entry>
+                  <entry/>
+                  <entry>560.000</entry>
+                </row>
+                <row>
+                  <entry>* Thuỵ sĩ</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>- Baden</entry>
+                  <entry>Hở</entry>
+                  <entry>“</entry>
+                  <entry>75x80=6000</entry>
+                  <entry>84</entry>
+                  <entry>1.000.000</entry>
+                </row>
+                <row>
+                  <entry>- Genevơ</entry>
+                  <entry>Kín</entry>
+                  <entry>Trực tiếp</entry>
+                  <entry>26x60=1560</entry>
+                  <entry>16/32</entry>
+                  <entry>360.000</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4866754"/>
+          <para id="id4866758">Tính toán nhiệt cho sân băng là khá phức tạp vì tải lạnh phụ thuộc rất nhiều vào điều kiện không khí bên ngoài. Sau đây là một vài số liệu định hướng cho một số tháng mùa đông và tháng gối đầu ở các nước ôn đới:</para>
+          <para id="id4866774">- Sân băng mùa đông ngoài trời: 180290 W/m2</para>
+          <para id="id4866797">- Sân băng trong nhà mùa hè: 350470 W/m2</para>
+          <para id="id4866819">- Sân băng có mái che mùa hè: 470 700 W/m2</para>
+          <para id="id4866847">Đối với Việt Nam con số này phải cao hơn, do điều kiện nhiệt độ bên ngoài thường cao hơn các nước ôn đới nhiều.</para>
+          <para id="id4866853">Bảng 1-6 là thông số của một số sân băng trên thế giới.</para>
+        </section>
+      </section>
+      <section id="id-0868324914599">
+        <title>Ứng dụng trong sấy thăng hoa</title>
+        <para id="id4866871">Vật sấy được làm lạnh xuống dưới -20oC và được sấy bằng cách hút chân không. Đây là một phương pháp hiện đại và không làm ảnh hưởng đến chất lượng sản phẩm. Vật phẩm hầu như được rút ẩm hoàn toàn khi sấy nên sản phẩm trở thành bột bảo quản và vận chuyển dễ dàng. Giá thành sản phẩm cao nên người ta chỉ ứng dụng để sấy các vật phẩm đặc biệt như các dược liệu quý hiếm, máu, các loại thuốc, hócmôn.</para>
+        <para id="id4866899">Quá trình thực hiện theo tuần tự sau: đầu tiên người ta kết đông sản phẩm xuống khoảng –20oC, sau đó rút nước ra sản phẩm bằng cách thăng hoa các tinh thể nước hoá đá trong sản phẩm nhờ hút chân không cao. </para>
+        <para id="id4866928">* Đông khô các loại vác xin</para>
+        <para id="id4866934">Do giữ được các tính chất tươi sống, các hoạt tính sinh học, đặc hiệu vv.. . nên kỹ thuật đông khô được sử dụng để sản xuất các loại vắc xin đông khô cho người và gia súc. Hiện nay ở nước ta người ta đã sử dụng rất phổ biến kỹ thuật này như ở Viện vệ sinh và dịch tể Hà Nội, Viện Pasteur thành phố Hồ Chí Minh, Viện sản xuất sinh vật phẩm Đà Lạt – Nha Trang.</para>
+        <para id="id4866960">* Huyết tương đông khô</para>
+        <para id="id4866966">Huyết tương đông khô là sản phẩm được sản xuất từ máu tươi, là một trong những vật phẩm rất quý báu, dùng để điều trị cấp cứu. Trong quá trình sản xuất huyết tương khô người ta làm lạnh và sấy thăng hoa để đạt được huyết tương có độ ẩm 1%.</para>
+      </section>
+      <section id="id-499831232161">
+        <title>Ứng dụng trong xây dựng</title>
+        <section id="id-412053541694">
+          <title>Làm lạnh bê tông ở các đập chắn nước</title>
+          <para id="id4867000">Quá trình kết rắn của bê tông gắn liền với quá trình toả nhiệt, trong đó nhiệt hydrat hoá tuỳ theo thành phần xi măng có thể đạt từ 250 đến 500 kJ/kg xi măng. Nhiệt đó sẽ toả ra môi trường. Các thử nghiệm cho thấy một nửa lượng nhiệt đó toả ra trong 3 ngày đầu và toàn bộ nhiệt lượng toả ra suốt trong một năm mới kết thúc. Do bê tông toả nhiệt nên nhiệt độ tăng khoảng 20 đến 30oC so với nhiệt độ môi trường. Đối với tường mỏng thì nhiệt đó không quá quan trọng vì nhiệt nhanh chóng toả ra môi trường và nhiệt độ tường được duy trì có thể coi đồng đều. </para>
+          <para id="id4867035">Nhưng đối với những công trình được đổ bằng các khối bê tông lớn, ví dụ như các đập chắn sóng. Do hệ số dẫn nhiệt của bê tông =2 W/m.K và hệ số dẫn nhiệt độ a = 0,004 m2/h, nên nhiệt toả từ các khối bê tông ra bên ngoài chậm, ảnh hưởng nhất định đến chất lượng của bê tông. Khi tường dày 2m thời gian làm lạnh 4 ngày, trong khi tường dày 60m thời gian làm nguội lên đến trên 10 năm mà hiệu nhiệt độ so với môi trường bên ngoài không giảm xuống còn một nửa so với lúc ban đầu.</para>
+          <para id="id4867092">Như vậy, trong khi bề mặt đập đã lạnh và đông cứng từ lâu mà trong tường đập nhiệt độ vẫn còn rất cao. Sự chênh lệch nhiệt độ đó tạo ra ứng lực kéo trên bề mặt đập gây ra các vết rạn nứt bê tông. Do không thể thải nhiệt tự do ra môi trường và để tránh hiệu nhiệt độ quá cao giữa tâm tường và bề mặt tường cần phải có biện pháp làm lạnh nhân tạo tường đập khi đổ bê tông. Có các phương pháp khả thi sau đây:</para>
+          <para id="id4867107">1. Đặt ngầm các đường ống làm lạnh bên trong đập. Người ta bố trí các ống nước lạnh đường kính 25mm trong đập cách nhau theo chiều ngang khoảng 2,4 m; chiều cao khoảng 3m và liên tục bơm nước lạnh qua để thải nhiệt cho bê tông. Tốc độ nước trong ống khoảng 0,6 m/s.</para>
+          <para id="id4867134">Công suất lạnh tính toán để có thể hạ nhiệt độ bê tông xuống 20 đến 30 K là tuỳ thuộc vào loại xi măng sử dụng, khả năng làm mát của môi chất, ảnh hưởng bức xạ mặt trời. Theo kinh nghiệm, công suất lạnh có thể tính theo lượng nhiệt tỏa của bê tông khoảng 74000 kJ/m3 bê tông với một số thông số khác của bê tông: Nhiệt dung riêng 0,8 kJ/kg.K, khối lượng riêng 2600 kg/m3 và hiệu nhiệt độ cần làm lạnh khoảng 35K. </para>
+          <para id="id4867183">Biến thiên nhiệt độ của nước lạnh trong ống phụ thuộc chủ yếu vào tỉ lệ nhiệt giải phóng trong bê tông. Khi biết nhiệt lượng hydrat hoá giải phóng và các thông số kỹ thuật của bê tông, có thể tính toán được biến thiên nhiệt độ của khối bê tông và kể cả trường nhiệt độ của bê tông trong khi đang làm lạnh.</para>
+          <para id="id4867203">2. Làm lạnh bằng cách trộn thêm nước đá. Làm lạnh vữa bê tông xuống khoảng 4oC sau đó cho thêm vào vữa một ít nước đá dưới dạng đá mãnh, đá vụn và tính toán sao cho dung nhiệt đủ để cân bằng toàn bộ nhiệt hydrat hoá.</para>
+          <para id="id4867236">Có thể làm lạnh xi măng ngay từ nhà máy sản xuất. Thường nhiệt độ xi măng ở đây lên tới 60oC. Tuy nhiên hệ số dẫn nhiệt của xi măng kém do đó cần diện tích trao đổi nhiệt lớn, gây nhiều khó khăn nên ít được ứng dụng.</para>
+          <para id="id4867262">Các phụ gia như sợi, đá thô có kích thước lớn đến 150mm được rửa sạch và làm lạnh sơ bộ bằng nước lạnh sau đó được chứa vào các silô và được làm lạnh tiếp bằng không khí lạnh nhiệt độ -1oC thổi qua silô. Cát được làm lạnh trực tiếp ngay trên các phương tiện băng tải bằng chất tải lạnh. </para>
+          <para id="id4867294">Nước trộn bê tông được làm lạnh trong các máy sản xuất nước lạnh đến 1oC. Nước đá đưa vào máy trộn cần được nghiền nhỏ để nước đá tan nhanh. Tốc độ tan đá phụ thuộc vào nhiều yếu tố như nhiệt độ máy trộn, kích thước cục đá và lượng đá trộn trong máy trộn. Đá phải đảm bảo tan hết khi vữa bê tông ra khỏi máy trộn.</para>
+        </section>
+        <section id="id-983517974921">
+          <title>Kết đông nền móng</title>
+          <para id="id4867334">Kỹ thuật lạnh còn được sử dụng để làm lạnh lòng đất khi xây dựng các cửa vào hầm mỏ, các công trình ngầm, công trình xây dựng metro, các công trình đê đập, cũng như sử dụng để xử lý nền móng các công trình ở vùng đất yếu, vùng đất phức hợp về địa chất thuỷ văn. Đặc biệt các công trình xây dựng trên nền đất sình lầy và có nhiều nước ngầm. Nền móng xây dựng đôi khi không đủ chắc chắn, nên khi đào móng đất trượt như cát chảy. Để ngăn ngừa hiện tượng đó người ta đưa ra một phương pháp sử dụng lạnh để tạo ổn định móng, đó là phương pháp sử dụng cọc kết đông. Nhờ các cọc này người ta tạo nên một vành đai bao bọc hố cần đào (xem hình 1-6) </para>
+          <para id="id4867374">Cấu tạo cọc kết đông rất đơn giản theo kiểu ống lồng ống. Đường kính ống ngoài khoảng 100mm, ống trong 40mm. Chất lỏng lạnh có nhiệt độ khoảng -20 đến -40oC được dẫn đi vào từ ống trong và đi ra ống ngoài ra ngoài, đầu cọc vót nhọn để dễ nén vào lòng đất. Tuy nhiên để dễ dàng đưa cọc vào nền đất có thể tiến hành khoan mồi trước. Các cọc được nối song song với bộ phận phân phối và thu hồi môi chất lạnh.</para>
+          <figure id="id4867417">
+            <media id="id1167246454756" alt=""><image src="graphics6.wmf" mime-type="image/wmf" height="261" width="251"/></media>
+          </figure>
+          <para id="id4867441">1- Cọc kết đông; 2,3- Môi chất lạnh vào và ra; 4- Khối kết đông</para>
+          <para id="id4867448">Hình 1-6: Sơ đồ kết đông nền móng bằng cọc kết đông</para>
+          <para id="id4867455">Trong quá trình môi chất lạnh tuần hoàn, nền móng xung quanh cọc được làm lạnh và kết đông lại thành 01 khối vững chắc. Kích thước trụ kết đông ngày càng lớn dần ra xung quanh, sau một thời gian nhất định (khoảng vài tuần, có khi vài tháng) các trụ kết đông mới nối lại với nhau thành thành vòng kín vững chắc, đảm bảo không cho đất sụt lở khi đào sâu phía bên trong.</para>
+          <para id="id4867471">Độ chắc chắn của vòng kết đông phụ thuộc vào nhiệt độ làm lạnh và chiều dày của nó. Ví dụ độ bền nén của nền cát kết đông ở -10oC là 100 bar, ở -15oC là 160 bar, ở -25oC là 200 bar. Khi nền cát kết đông thì nước đóng vai trò như xi măng trong kết cấu bê tông.</para>
+          <para id="id4867516">Trong lạnh đông nước ở đất đóng băng liên kết với hạt đất tạo thành lớp liên kết bền vững chẳng khác bê tông. Liên kết này vững hơn nhiều liên kết nước đá thuần tuý. Đất cát đóng băng có độ liên kết bền vững nhất sau đó đến đất thịt và sau cùng là đất sét.</para>
+          <para id="id4867534">Đối với cửa hầm lò, đôi khi cọc phải dài đến hàng trăm mét cắm sâu vào lòng đất. Khi đó phải khoan mồi trước các lổ cọc. Các lổ phải song song để đảm bảo khoảng cách cần thiết, nếu có một vị trí nào đó khoảng cách giữa các cột quá xa, mạch kết đông không liên kết có thể tạo nên những điểm yếu cục bộ, có thể gây sụt lở ở những vị trí này. Trong quá trình sử dụng cần tránh rò rỉ chất vào lòng đất, vì nhiệt độ đông đặc của chất tải lạnh rất thấp không thể đông được nên có thể làm cho các cọc kết đông rả đông, rất nguy hiểm và rất khó khắc phục. </para>
+          <para id="id4867571"> Do chất tải lạnh trên đường ống ra nóng hơn ống chất lỏng lạnh vào đáng kể (khoảng 8K), nên giữa chúng có trao đổi nhiệt với nhau, làm giảm hiệu quả làm lạnh nền đất. Vì vậy phải có biện pháp giảm dòng nhiệt trao đổi này, bằng cách cách nhiệt bề mặt ống trong. Đây là vấn đề tương đối khó, vì như vậy sẽ tăng kích thước ống ngoài. Có thể giảm dòng nhiệt trao đổi này bằng cách sử dụng loại vật liệu có khả năng dẫn nhiệt kém làm ống trong, ví dụ như nhựa PVC.</para>
+          <para id="id4867604">Do phải vận hành trên các công trình xây dựng và luôn luôn phải di chuyển nên hệ thống lạnh phải gọn, dễ cơ động. Tốt nhất nên thiết kế lắp đặt trên các xe thành khối, khi vận hành chỉ cần đấu điện, nước là có thể hoạt động. Việc đấu nối chất tải lạnh cũng phải đơn giản và chắc chắn. </para>
+          <para id="id4867620">Các cọc kết đông có thể được làm lạnh bằng môi chất lạnh. Ưu điểm của phương án này là hiệu quả làm lạnh cao hơn, do độ chênh nhiệt độ lớn. Tuy nhiên phương án này có nhược điểm là chênh lệch nhiệt độ sôi bên trong ống khá lớn do chênh lệch cột áp thuỷ tĩnh, ở phía trên và phía dưới, đấu nối phức tạp hơn và môi chất dễ bị rò rỉ ra ngoài.</para>
+          <para id="id4867636">Để tạo lớp thành vỏ dày 2 – 3 m bảo vệ hoặc ngăn cách nước thẩm thấu vào khu vực thi công, cần thực hiện các giếng khoan lạnh đông cách nhau 0,8-1,2m tuỳ loại đất </para>
+          <para id="id4867645">Môi chất lạnh sử dụng trong các hệ thống này có thể là amôniắc, propan hoặc CO2. Khi sử dụng NH3 cần lưu ý là môi chất NH3 hoà tan trong nước nên khi rò rỉ có thể làm mềm nền, phá vỡ kết cầu nền, nguy hiểm.</para>
+          <para id="id4867696">Có thể sử dụng không khí lạnh để kết đông như trường hợp xây dựng đường hầm Stockholm năm 1884. Người ta dùng không khí lạnh -55oC từ một máy làm lạnh không khí để kết đông nền đất.</para>
+          <para id="id4867725">Ngày nay, để kết đông các nền đất không lớn, người ta sử dụng cả nitơ lỏng. Quá trình kết đông xảy ra rất nhanh chóng.</para>
+          <para id="id4867736">Việc tính toán công suất lạnh trong các tài liệu tham khảo rất khác nhau do tính chất nền đất mỗi nơi rất khác nhau. </para>
+          <para id="id4867746">Tính toán chi phí lạnh để làm lạnh đông đất</para>
+          <para id="id4867762">- Tổng khối lượng đất cần làm lạnh:</para>
+          <para id="id4867768">Vi = V1 + V2 + … + Vn = F.(h1+h2+ …+ hn)(1-1)</para>
+          <para id="id4867844">F – Diện tích tiết diện vỏ đông lạnh, m2</para>
+          <para id="id4867857">hi – Chiều dày của các lớp đất khác nhau, m</para>
+          <para id="id4867877">- Tổng thể tích nước cần làm lạnh</para>
+          <para id="id4867883">Vn = V’i =  Vi x Ei (1-2)</para>
+          <para id="id4867953">Ei – Hàm lượng phần trăm (theo thể tích) nước trong các lớp đất, %</para>
+          <para id="id4867962">- Chi phí làm lạnh nước </para>
+          <para id="id4867968">Qn = n.Vn. [Cn.t1 + r + Cđ t2] , J(1-3)</para>
+          <para id="id4868056">n – Khối lượng riêng của nước, n  1000 kg/m3</para>
+          <para id="id4868104">t1, t2 – Nhiệt độ của nước ban đầu và sau đông đá, oC</para>
+          <para id="id4868140">r – Nhiệt đông đóng băng của nước, r = 2500 kJ/kg (80 kCal/kg)</para>
+          <para id="id4868149">Cn, Cđ - Nhiệt dung riêng của nước và đá, kJ/kg.K</para>
+          <para id="id4868176">- Chi phí làm lạnh các các thành phần khô</para>
+          <para id="id4868186">Qk =  i. ( Vi - V’i ).Ci (t1 - t2), J(1-4)</para>
+          <para id="id4868274">i, Ci – Khối lượng riêng và nhiệt dung riêng của thành phần khô của các lớp đất.</para>
+          <para id="id4868302">Từ tổng chi phí lạnh yêu cầu trên, căn cứ vào thời gian yêu cầu làm lạnh  (giây), có thể xác định công suất lạnh yêu cầu của máy lạnh:</para>
+          <para id="id4868327"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>Q</m:mi><m:mi>τ</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>τ</m:mi></m:mfrac></m:mrow><m:mi>,</m:mi><m:mi>W</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{o} } = {  {Q}  over  {τ} } = {  {Q rSub { size 8{n} } +Q rSub { size 8{K} } }  over  {τ} } ,W} {}</m:annotation></m:semantics></m:math>(1-5)</para>
+          <para id="id4868454"/>
+          <para id="id4868458">* * *</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

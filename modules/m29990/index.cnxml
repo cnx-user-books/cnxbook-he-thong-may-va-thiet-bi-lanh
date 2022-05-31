@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thiết bị  phụ trong hệ thống lạnh</title>
+  <metadata>
+  <md:content-id>m29990</md:content-id><md:title>Thiết bị  phụ trong hệ thống lạnh</md:title>
+  <md:abstract>Thiết bị phụ trong hệ thống lạnh</md:abstract>
+  <md:uuid>7cbb9f95-eec9-4f98-8d23-6a64aa18eff4</md:uuid>
+</metadata>
+
+<content>
+    <para id="id13274484">Những nội dung đã trình bày trong buổi tập huấn IT Văn phòng HN</para>
+    <para id="id13599296">(Chú ý: Office 2007 và 2003 giao diện thực hiện có khác nhau, tuy nhiên cùng 1 nguyên tắc)</para>
+    <list id="id11234811" list-type="enumerated">
+      <item>Lấy ảnh ra khỏi file Word (giữ nguyên chất lượng ảnh lúc ban đầu)<list id="id9816174" list-type="bulleted"><item>Save file Word đó thành webpage (save as … webpage (htm,html))</item><item>Mở thư mục của webpage vừa save ra, lấy file ảnh đã được extract từ file Word</item></list></item>
+      <item>Giảm dung lượng file Word có nhiều ảnh<list id="id13139956" list-type="bulleted"><item>Right click vào 1 ảnh bất kỳ trong file Word, chọn format Object. </item><item>Trong tab picture, chọn compress, change resolution to Web/Screen (96dpi) và nhớ apply for all </item></list></item>
+      <item>Sử dụng bộ gõ Unikey (<link url="file://192.168.3.40/public/Software/Unikey">\\192.168.3.40\public\Software\Unikey</link>) <list id="id13112843" list-type="bulleted"><item>Chuyển mã font, chuyển chữ hoa, thường,… bằng cách copy đoạn cần chuyển mã, Right click vào biểu tượng Unikey (góc phải dưới), chọn chức năng Công cụ, chỉ rõ bảng mã nguồn và đích, sau đó nhấn Chuyển mã.</item><item>3 bảng mã cần nhớ<list id="id8381117" list-type="bulleted"><item>Unicode (Arial, Tahoma, Times New Roman, Verdana)</item><item>TCVN3 hoặc ABC (.Vntimes, .VnAral,…) đều có .Vn</item><item>VNI (VNI-Optima, VNI-Times…)</item></list></item></list></item>
+      <item>Tách session trong file Word (đánh số trang rời rạc, dùng header footer khác nhau, định hướng dọc/ngang trên cùng file Word) </item>
+      <item>Cách in quyển sách A5 (đánh số trang theo thứ tự, vào Properties của máy in, chọn in page layout: 2 pages per sheet)</item>
+      <item>Compare 2 văn bản, merge thành 1 văn bản mới có hiển thị rõ track change</item>
+      <item>Định dạng văn bản theo heading 1, heading 2,… để có thể tạo mục lục tự động. Trong quá trình tạo heading, nếu cần đánh số theo thứ tự 1 → 1.1 → 1.2,… thì chọn Outline Numbered</item>
+      <item>Copy format (định dạng) bằng chức năng format painter.</item>
+    </list>
+  </content>
+</document>

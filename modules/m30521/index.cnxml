@@ -1,0 +1,921 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hệ thống và thiết bị</title>
+  <metadata>
+  <md:content-id>m30521</md:content-id><md:title>Hệ thống và thiết bị</md:title>
+  <md:abstract>Hệ thống và thiết bị kho lạnh bảo quản</md:abstract>
+  <md:uuid>4fb35942-c111-4a51-9279-82a541235fd0</md:uuid>
+</metadata>
+
+<content>
+    
+    
+    
+    
+    
+    
+    
+    
+    <section id="id-369885134743">
+      <title>KHÁI NIỆM, PHÂN LOẠI VÀ CHỌN NHIỆT ĐỘ BẢO QUẢN</title>
+      <section id="id-975052105714">
+        <title>Kho lạnh bảo quản</title>
+        <para id="id4068983">Kho lạnh bảo quản là kho được sử dụng để bảo quản các loại thực phẩm, nông sản, rau quả, các sản phẩm của công nghiệp hoá chất, công nghiệp thực phẩm, công nghiệp nhẹ vv…</para>
+        <para id="id4068995">Hiện nay kho lạnh được sử dụng trong công nghiệp chế biến thực phẩm rất rộng rãi và chiếm một tỷ lệ lớn nhất. Các dạng mặt hàng bảo quản bao gồm:</para>
+        <para id="id4148531">- Kho bảo quản thực phẩm chế biến như: Thịt, hải sản, đồ hộp</para>
+        <para id="id4148540">- Bảo quản nông sản thực phẩm, rau quả.</para>
+        <para id="id4148549">- Bảo quản các sản phẩm y tế, dược liệu</para>
+        <para id="id4148556">- Kho bảo quản sữa.</para>
+        <para id="id4148562">- Kho bảo quản và lên men bia.</para>
+        <para id="id4148570">- Bảo quản các sản phẩm khác.</para>
+      </section>
+      <section id="id-643945685445">
+        <title>Phân loại </title>
+        <para id="id4148586">Có nhiều kiểu kho bảo quản dựa trên những căn cứ phân loại khác nhau:</para>
+        <para id="id4148596">a) Theo công dụng người ta có thể phân ra các loại kho lạnh như sau: </para>
+        <para id="id4148610">- Kho lạnh sơ bộ: Dùng làm lạnh sơ bộ hay bảo quản tạm thời thực phẩm tại các nhà máy chế biến trước khi chuyển sang một khâu chế biến khác.</para>
+        <para id="id4148623">- Kho chế biến: Được sử dụng trong các nhà máy chế biến và bảo quản thực phẩm (nhà máy đồ hộp, nhà máy sữa, nhà máy chế biến thuỷ sản, nhà máy xuất khẩu thịt vv..) Các kho lạnh loại này thường có dung tích lớn cần phải trang bị hệ thống có công suất lạnh lớn. Phụ tải của kho lạnh luôn thay đổi do phải xuất nhập hàng thường xuyên.</para>
+        <para id="id4148647">- Kho phân phối, kho trung chuyển: Dùng điều hoà cung cấp thực phẩm cho các khu vực dân cư, thành phố và dự trữ lâu dài. Kho lạnh phân phối thường có dung tích lớn trữ nhiều mặt hàng và có ý nghĩa rất lớn đến đời sống sinh hoạt của cả một cộng đồng.</para>
+        <para id="id4148668">- Kho thương nghiệp: Kho lạnh bảo quản các mặt hàng thực phẩm của hệ thống thương nghiệp. Kho dùng bảo quản tạm thời các mặt hàng đang được doanh nghiệp bán trên thị trường. </para>
+        <para id="id4148683">- Kho vận tải (trên tàu thuỷ, tầu hoả, xe ôtô ): đặc điểm của kho là dung tích lớn, hàng bảo quản mang tính tạm thời để vận chuyển từ nơi này sang nơi khác.</para>
+        <para id="id4148698">- Kho sinh hoạt: đây là loại kho rất nhỏ dùng trong các hộ gia đình, khách sạn, nhà hàng dùng bảo quản một lượng hàng nhỏ.</para>
+        <para id="id4148710">b) Theo nhiệt độ người ta chia ra:</para>
+        <para id="id4148720">- Kho bảo quản lạnh: Nhiệt độ bảo quản thường nằm trong khoảng -2oC  5oC. Đối với một số rau quả nhiệt đới cần bảo quản ở nhiệt độ cao hơn (chuối &gt; 10oC, chanh &gt; 4oC). Nói chung các mặt hàng chủ yếu là rau quả và các mặt hàng nông sản.</para>
+        <para id="id4371176">- Kho bảo quản đông: Kho được sử dụng để bảo quản các mặt hàng đã qua cấp đông. Đó là hàng thực phẩm có nguồn gốc động vật. Nhiệt độ bảo quản tuỳ thuộc vào thời gian, loại thực phẩm bảo quản. Tuy nhiên nhiệt độ bảo quản tối thiểu cũng phải đạt -18oC để cho các vi sinh vật không thể phát triển làm hư hại thực phẩm trong quá trình bảo quản.</para>
+        <para id="id4371211">- Kho đa năng: Nhiệt độ bảo quản là -12oC</para>
+        <para id="id4371225">- Kho gia lạnh: Nhiệt độ 0oC, dùng gia lạnh các sản phẩm trước khi chuyển sang khâu chế biến khác.</para>
+        <para id="id4371240">- Kho bảo quản nước đá: Nhiệt độ kho tối thiểu -4oC</para>
+        <para id="id4371257">c) Theo dung tích chứa. Kích thước kho lạnh phụ thuộc chủ yếu vào dung tích chứa hàng của nó. Do đặc điểm về khả năng chất tải cho mỗi loại thực phẩm có khác nhau nên thường qui dung tích ra tấn thịt (MT-Meet Tons). Ví dụ kho 50MT, Kho 100MT, Kho 150 MT vv.. là những kho có khả năng chứa 50, 100, 150 vv.. tấn thịt.</para>
+        <para id="id4371287">d) Theo đặc điểm cách nhiệt người ta chia ra:</para>
+        <para id="id4371299">- Kho xây: Là kho mà kết cấu là kiến trúc xây dựng và bên trong người ta tiến hành bọc các lớp cách nhiệt. Kho xây chiếm diện tích lớn, lắp đặt khó, giá thành tương đối cao, không đẹp, khó tháo dỡ và di chuyển. Mặt khác về mặt thẩm mỹ và vệ sinh kho xây không đảm bảo tốt. Vì vậy hiện nay ở nước ta người ta ít sử dụng kho xây để bảo quản thực phẩm.</para>
+        <para id="id4371326">- Kho panel: Được lắp ghép từ các tấm panel tiền chế polyurethan và được lắp ghép với nhau bằng các móc khoá camlocking. Kho panel có hình thức đẹp, gọn và giá thành tương đối rẻ, rất tiện lợi khi lắp đặt, tháo dỡ và bảo quản các mặt hàng thực phẩm, nông sản, thuốc men, dược liệu vv... Hiện nay nhiều doanh nghiệp ở nước ta đã sản xuất các tấm panel cách nhiệt đạt tiêu chuẩn cao. Vì thế hầu hết các xí nghiệp công nghiệp thực phẩm đều sử dụng kho panel để bảo quản hàng hoá.</para>
+      </section>
+      <section id="id-53952250575">
+        <title>Chọn nhiệt độ bảo quản </title>
+        <para id="id4068603">Nhiệt độ bảo quản thực phẩm phải được lựa chọn trên cơ sở kinh tế kỹ thuật. Nó phụ thuộc vào từng loại sản phẩm và thời gian bảo quản của chúng. Thời gian bảo quản càng lâu đòi hỏi nhiệt độ bảo quản càng thấp.</para>
+        <para id="id4068620">Đối với các mặt hàng trữ đông ở các nước châu Âu người ta thường chọn nhiệt độ bảo quản khá thấp từ -25oC -30oC, ở nước ta thường chọn trong khoảng -18oC  2 oC. Các mặt hàng trữ đông cần bảo quản ở nhiệt độ ít nhất bằng nhiệt độ của sản phẩm sau cấp đông tránh không để rã đông và tái kết tinh lại làm giảm chất lượng sản phẩm.</para>
+        <para id="id4068670">Dưới đây là chế độ và thời gian bảo quản của một số rau quả thực phẩm.</para>
+      </section>
+    </section>
+    <section id="id-594816794856">
+      <title>Bảng 2-1: Chế độ và thời gian bảo quản đồ hộp rau quả</title>
+      <table id="id4068693" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Sản phẩm</entry>
+              <entry>Loại hộp</entry>
+              <entry>Nhiệt độ bảo quản, (oC)</entry>
+              <entry>Độ ẩm, (%)</entry>
+              <entry>T.gian bảo quản, ( tháng)</entry>
+            </row>
+            <row>
+              <entry>Côm-pốt quả</entry>
+              <entry>Hộp sắt</entry>
+              <entry>0  5</entry>
+              <entry>6575</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>Đồ hộp rau</entry>
+              <entry>Hộp sắt</entry>
+              <entry>0  5</entry>
+              <entry>6575</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>Nước ra và quả- Tiệt trùng- Thanh trùng</entry>
+              <entry>ChaiChai</entry>
+              <entry>0  100  10</entry>
+              <entry>65756575</entry>
+              <entry>74</entry>
+            </row>
+            <row>
+              <entry>Rau ngâm ướp muối, quả ngâm dấm</entry>
+              <entry>Thùng gổ lớn</entry>
+              <entry>0 1</entry>
+              <entry>9095</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>Nấm ướp muối đầm dấm</entry>
+              <entry>- nt -</entry>
+              <entry>0  1</entry>
+              <entry>9095</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>Quả sấy</entry>
+              <entry>Gói giấy, đóng thùng</entry>
+              <entry>0  5</entry>
+              <entry>6575</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>Rau sấy</entry>
+              <entry>Đóng thùng</entry>
+              <entry>0  5</entry>
+              <entry>6575</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>Nấm sấy</entry>
+              <entry>Gói giấy, đóng thùng</entry>
+              <entry>0  6</entry>
+              <entry>6575</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>Lạc cả vỏ</entry>
+              <entry>- nt -</entry>
+              <entry>- 1</entry>
+              <entry>7585</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>Lạc nhân</entry>
+              <entry>- nt -</entry>
+              <entry>- 1</entry>
+              <entry>7585</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>Mứt thanh trùng trong hộp kín, rim</entry>
+              <entry>Hộp sắt, đóng thùng</entry>
+              <entry>2  20</entry>
+              <entry>8085</entry>
+              <entry>35</entry>
+            </row>
+            <row>
+              <entry>Mứt không kín, rim</entry>
+              <entry>Thùng gổ lớn</entry>
+              <entry>1  15</entry>
+              <entry>8085</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>Mứt thanh trùng trong hộp kín</entry>
+              <entry>Hộp sắt, đóng thùng</entry>
+              <entry>0  20</entry>
+              <entry>8085</entry>
+              <entry>35</entry>
+            </row>
+            <row>
+              <entry>Mứt không thanh trùng hộp</entry>
+              <entry>Thùng gổ lớn</entry>
+              <entry>10  15</entry>
+              <entry>8085</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>Mứt ngọt</entry>
+              <entry>- nt -</entry>
+              <entry>0  2</entry>
+              <entry>8085</entry>
+              <entry>26</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5090185">Đối với rau quả, không thể bảo quản ở nhiệt độ thấp dưới 0oC, vì ở nhiệt độ này nước trong rau quả đóng băng làm hư hại sản phẩm, giảm chất lượng của chúng.</para>
+    </section>
+    <section id="id-904599546761">
+      <title>Bảng 2-2: Chế độ và thời gian bảo quản rau quả tươi</title>
+      <table id="id5090218" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Sản phẩm</entry>
+              <entry>Nhiệt độ bảo quản, (oC)</entry>
+              <entry>Độ ẩm, (%)</entry>
+              <entry>Thông gió</entry>
+              <entry>Thời gian bảo quản,</entry>
+            </row>
+            <row>
+              <entry>Bưởi</entry>
+              <entry>0  5</entry>
+              <entry>85</entry>
+              <entry>Mở</entry>
+              <entry>12 tháng</entry>
+            </row>
+            <row>
+              <entry>Cam</entry>
+              <entry>0,5  2</entry>
+              <entry>85</entry>
+              <entry>Mở</entry>
+              <entry>- nt -</entry>
+            </row>
+            <row>
+              <entry>Chanh</entry>
+              <entry>1  2</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>- nt -</entry>
+            </row>
+            <row>
+              <entry>Chuối chín</entry>
+              <entry>14  16</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>510 ngày</entry>
+            </row>
+            <row>
+              <entry>Chuối xanh</entry>
+              <entry>11,5  13,5</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>310 tuần</entry>
+            </row>
+            <row>
+              <entry>Dứa chín</entry>
+              <entry>4  7</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>34 tuần</entry>
+            </row>
+            <row>
+              <entry>Dứa xanh</entry>
+              <entry>10</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>46 tháng</entry>
+            </row>
+            <row>
+              <entry>Đào </entry>
+              <entry>0  1</entry>
+              <entry>85  90</entry>
+              <entry>- nt -</entry>
+              <entry>46 tháng</entry>
+            </row>
+            <row>
+              <entry>Táo</entry>
+              <entry>0  3</entry>
+              <entry>90  95</entry>
+              <entry>- nt -</entry>
+              <entry>310 tháng</entry>
+            </row>
+            <row>
+              <entry>Cà chua chín</entry>
+              <entry>2  2,5</entry>
+              <entry>75  80</entry>
+              <entry>- nt -</entry>
+              <entry>1 tháng</entry>
+            </row>
+            <row>
+              <entry>Cà rốt</entry>
+              <entry>0  1</entry>
+              <entry>90  95</entry>
+              <entry>- nt -</entry>
+              <entry>vài tháng</entry>
+            </row>
+            <row>
+              <entry>Cà chua xanh</entry>
+              <entry>6</entry>
+              <entry>80  90</entry>
+              <entry>- nt -</entry>
+              <entry>1014 ngày</entry>
+            </row>
+            <row>
+              <entry>Dưa chuột</entry>
+              <entry>0  4</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>vài tháng</entry>
+            </row>
+            <row>
+              <entry>Đậu khô</entry>
+              <entry>5  7</entry>
+              <entry>70  75</entry>
+              <entry>Đóng</entry>
+              <entry>912 tháng</entry>
+            </row>
+            <row>
+              <entry>Đậu tươi</entry>
+              <entry>2</entry>
+              <entry>90</entry>
+              <entry>Mở</entry>
+              <entry>34 tuần</entry>
+            </row>
+            <row>
+              <entry>Hành</entry>
+              <entry>0  1</entry>
+              <entry>75</entry>
+              <entry>- nt -</entry>
+              <entry>12 năm</entry>
+            </row>
+            <row>
+              <entry>Khoai tây</entry>
+              <entry>3  6</entry>
+              <entry>85  90</entry>
+              <entry>- nt -</entry>
+              <entry>56 tháng</entry>
+            </row>
+            <row>
+              <entry>Nấm tươi</entry>
+              <entry>0  1</entry>
+              <entry>90</entry>
+              <entry>- nt -</entry>
+              <entry>12 tuần</entry>
+            </row>
+            <row>
+              <entry>Rau muống</entry>
+              <entry>5  10</entry>
+              <entry>80  90</entry>
+              <entry>- nt -</entry>
+              <entry>35 tuần</entry>
+            </row>
+            <row>
+              <entry>Cải xà lách</entry>
+              <entry>3</entry>
+              <entry>90</entry>
+              <entry>- nt -</entry>
+              <entry>3 tháng</entry>
+            </row>
+            <row>
+              <entry>Xu hào</entry>
+              <entry>0  0,5</entry>
+              <entry>90</entry>
+              <entry>- nt -</entry>
+              <entry>26 tháng</entry>
+            </row>
+            <row>
+              <entry>Cải bắp, xúp lơ</entry>
+              <entry>0  1</entry>
+              <entry>90</entry>
+              <entry>- nt -</entry>
+              <entry>4 tuần</entry>
+            </row>
+            <row>
+              <entry>Su su</entry>
+              <entry>0</entry>
+              <entry>90</entry>
+              <entry>- nt -</entry>
+              <entry>4 tuần</entry>
+            </row>
+            <row>
+              <entry>Đu đủ</entry>
+              <entry>8  10</entry>
+              <entry>80  85</entry>
+              <entry>- nt -</entry>
+              <entry>2 tuần</entry>
+            </row>
+            <row>
+              <entry>Quả bơ</entry>
+              <entry>4  11</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>10 ngày</entry>
+            </row>
+            <row>
+              <entry>Khoai lang</entry>
+              <entry>12  15</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>56 tuần</entry>
+            </row>
+            <row>
+              <entry>Bông actisô</entry>
+              <entry>10</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>2 tuần</entry>
+            </row>
+            <row>
+              <entry>Mít chín (múi)</entry>
+              <entry>8</entry>
+              <entry>90</entry>
+              <entry>- nt -</entry>
+              <entry>1 tuần</entry>
+            </row>
+            <row>
+              <entry>Thanh long</entry>
+              <entry>12</entry>
+              <entry>90</entry>
+              <entry>- nt -</entry>
+              <entry>4 tuần</entry>
+            </row>
+            <row>
+              <entry>Măng cụt</entry>
+              <entry>12</entry>
+              <entry>85</entry>
+              <entry>- nt -</entry>
+              <entry>34 tuần</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-202518109233">
+      <title>Bảng 2-3: Chế độ và thời gian bảo quản TP đông lạnh</title>
+      <table id="id4072470" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Sản phẩm</entry>
+              <entry>Nhiệt độ bảo quản, (oC)</entry>
+              <entry>Thời gian bảo quản, (tháng)</entry>
+            </row>
+            <row>
+              <entry>Thịt bò, thịt cừa các loại</entry>
+              <entry>- 18</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>Thịt heo cả dakhông da</entry>
+              <entry>- 18- 18</entry>
+              <entry>86</entry>
+            </row>
+            <row>
+              <entry>Phủ tạng</entry>
+              <entry>- 18</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>Mỡ tươi làm lạnh đông</entry>
+              <entry>- 18</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>Mỡ muối</entry>
+              <entry>- 18</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>Bơ</entry>
+              <entry>- 18</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>Cá muối</entry>
+              <entry>- 20</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>cá các loại</entry>
+              <entry>- 25</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>Tôm, mực</entry>
+              <entry>- 25</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>Quít không đường</entry>
+              <entry>- 18</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>Quít với sirô đường</entry>
+              <entry>- 18</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>Chanh</entry>
+              <entry>- 18</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>Hồng</entry>
+              <entry>- 18</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>Chuối, đu đủ</entry>
+              <entry>- 18</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>Đậu Hà Lan</entry>
+              <entry>- 18</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4345356">Về công dụng, các tấm panel cách nhiệt ngoài việc sử dụng làm kho bảo quản thực phẩm còn có thể sử dụng vào nhiều mục đích khác nhau cụ thể như sau:</para>
+      <para id="id4345367"/>
+    </section>
+    <section id="id-263010769007">
+      <title>Bảng 2-4: Các ứng dụng của panel cách nhiệt</title>
+      <table id="id4345381" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>TT</entry>
+              <entry>Ứng dụng</entry>
+              <entry>Nhiệt độoC</entry>
+              <entry>Chiều dày mm</entry>
+              <entry>Hệ số truyền nhiệtW/m2.K</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>- Điều hoà không khí trong công nghiệp</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+              <entry>0,43</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>- Kho mát - Tường ngăn kho lạnh</entry>
+              <entry>05oC-20oC</entry>
+              <entry>75</entry>
+              <entry>0,30</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>- Kho lạnh- Tường ngăn kho lạnh sâu</entry>
+              <entry>-20oC-25oC</entry>
+              <entry>100</entry>
+              <entry>0,22</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>- Kho lạnh - Tường ngăn</entry>
+              <entry>-20-25oC-35oC</entry>
+              <entry>125</entry>
+              <entry>0,18</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>- Kho lạnh - Kho cấp đông</entry>
+              <entry>-20-30oC-40oC</entry>
+              <entry>150</entry>
+              <entry>0,15</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>- Kho lạnh</entry>
+              <entry>-35oC</entry>
+              <entry>175</entry>
+              <entry>0,13</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>- Kho lạnh đông sâu </entry>
+              <entry>- 60oC</entry>
+              <entry>200</entry>
+              <entry>0,11</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-457509045392">
+      <title>KẾT CẤU, LẮP ĐẶT VÀ TÍNH TOÁN DUNG TÍCH KHO LẠNH</title>
+      <section id="id-435030698469">
+        <title>Kết cấu kho lạnh </title>
+        <para id="id4341789">Hầu hết các kho lạnh bảo quản và kho cấp đông hiện nay đều sử dụng các tấm panel polyurethan đã được chế tạo theo các kích thước tiêu chuẩn. </para>
+        <para id="id4341800">Đặc điểm các tấm panel cách nhiệt của các nhà sản xuất Việt Nam như sau:</para>
+        <para id="id4341807">Vật liệu bề mặt</para>
+        <para id="id4341818">- Tôn mạ màu (colorbond ) dày 0,50,8mm</para>
+        <para id="id4341830">- Tôn phủ PVC dày 0,50,8mm</para>
+        <para id="id4341842">- Inox dày 0,50,8 mm</para>
+        <para id="id4341856">Lớp cách nhiệt polyurethan (PU)</para>
+        <para id="id4341867">- Tỷ trọng: 38  40 kg/m3</para>
+        <para id="id4341885">- Độ chịu nén: 0,2  0,29 MPa</para>
+        <para id="id4341900">- Tỷ lệ bọt kín: 95%</para>
+        <para id="id4341910">Chiều dài tối đa: 12.000 mm</para>
+        <para id="id4341923">Chiều rộng tối đa: 1.200mm</para>
+        <para id="id4365563">Chiều rộng tiêu chuẩn: 300, 600, 900 và 1200mm</para>
+        <para id="id4365575">Chiều dày tiêu chuẩn: 50, 75, 100, 125, 150, 175 và 200mm</para>
+        <para id="id4365588"> Phương pháp lắp ghép: Ghép bằng khoá camlocking hoặc ghép bằng mộng âm dương. Phương pháp lắp ghép bằng khoá camlocking được sử dụng nhiều hơn cả do tiện lợi và nhanh chống hơn.</para>
+        <para id="id4365611"> Hệ số dẫn nhiệt:  = 0,018  0,020 W/m.K</para>
+        <para id="id4365632">Vì vậy khi thiết kế cần chọn kích thước kho thích hợp: kích thước bề rộng, ngang phải là bội số của 300mm. Chiều dài của các tấm panel tiêu chuẩn là 1800, 2400, 3000, 3600, 4500, 4800 và 6000mm.</para>
+        <para id="id4365645">Trên hình 2-2 giới thiệu cấu tạo của 01 tấn panel </para>
+        <para id="id4365652">Cấu tạo gồm có 03 lớp chính: Hai bên là các lớp tôn dày 0,50,6mm, ở giữa là lớp polyurethan cách nhiệt dày từ 50200mm tuỳ thuộc phạm vi nhiệt độ làm việc. Hai chiều cạnh có dạng âm dương để thuận lợi cho việc lắp ghép.</para>
+        <para id="id4365679">So với panel trần và tường, panel nền do phải chịu tải trọng lớn của hàng nên sử dụng loại có mật độ cao, khả năng chịu nén tốt. Các tấm panel nền được xếp vuông góc với các con lươn thông gió (Hình 2-7).</para>
+        <para id="id4365692">Các tấm panel được liên kết với nhau bằng các móc khoá gọi là camlocking đã được gắn sẵn trong panel, vì thế lắp ghép rất nhanh, khít và chắc chắn.</para>
+        <para id="id4365708">Panel trần được gối lên các tấm panel tường đối diện nhau và cũng được gắn bằng khoá camlocking. Khi kích thước kho quá lớn cần có khung treo đỡ panel, nếu không panel sẽ bị võng ở giữa và có thể gãy gập.</para>
+        <para id="id4365721">Sau khi lắp đặt xong, cần phun silicon hoặc sealant để làm kín các khe hở lắp ghép. Do có sự biến động về nhiệt độ nên áp suất trong kho luôn thay đổi, để cân bằng áp bên trong và bên ngoài kho, người ta gắn trên tường các van thông áp. Nếu không có van thông áp thì khi áp suất trong kho thay đổi sẽ rất khó khăn khi mở cửa hoặc ngược lại khi áp suất lớn cửa sẽ bị tự động mở ra.</para>
+        <figure id="id4365748">
+          <media id="id1167144334793" alt=""><image src="../../media/graphics1-b0da.jpg" mime-type="image/jpeg" height="310" width="430"/></media>
+        </figure>
+      </section>
+    </section>
+    <section id="id-476001800544">
+      <title>Hình 2-1: Kết cấu kho lạnh panel</title>
+      <para id="id4365783"/>
+      <figure id="id4365790">
+        <media id="id1167144468075" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="168" width="240"/></media>
+      </figure>
+    </section>
+    <section id="id-0799703321539">
+      <title>Hình 2-2: Cấu tạo tấm panel cách nhiệt</title>
+      <para id="id4365823">Để giảm tổn thất nhiệt khi mở cửa, ở ngay cửa kho có lắp quạt màng dùng ngăn cản luồng không khí thâm nhập vào ra. Mặt khác do thời gian xuất nhập hàng thường dài nên người ta có bố trí trên tường kho 01 cửa nhỏ, kích thước 680x680mm để ra vào hàng. Không nên ra, vào hàng ở cửa lớn vì như thế tổn thất nhiệt rất lớn.</para>
+      <para id="id4365841">Cửa kho lạnh có trang bị bộ chốt tự mở chống nhốt người, còi báo động, bộ điện trở sấy chống đóng băng.</para>
+      <para id="id4365851">Do khả năng chịu tải trọng của panel không lớn, nên các dàn lạnh được treo trên bộ giá đỡ và được treo giằng lên xà nhà nhờ hệ thống tăng đơ, dây cáp (xem hình 2-6).</para>
+      <figure id="id4365867">
+        <media id="id2631600" alt=""><image src="../../media/graphics3-62d9.png" mime-type="image/png" height="243" width="384"/></media>
+      </figure>
+    </section>
+    <section id="id-0827624858052">
+      <title>Hình 2-3: Kho lạnh bảo quản</title>
+      <figure id="id4365903">
+        <media id="id1167146506540" alt=""><image src="../../media/graphics4-8e75.jpg" mime-type="image/jpeg" height="132" width="424"/></media>
+      </figure>
+      <para id="id4365927">Hình 2-4: Lắp ghép panel kho lạnh</para>
+      <section id="id-664453911253">
+        <title>Tính toán dung tích kho lạnh </title>
+        <section id="id-282523994666">
+          <title>Thể tích kho lạnh </title>
+          <para id="id4365949">Thể tích kho được xác định theo công thức sau:</para>
+          <para id="id4365958"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>V</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>E</m:mi><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>v</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mi>,</m:mi><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V= {  {E}  over  {g rSub { size 8{v} } } } ,m rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>(2-1)</para>
+          <para id="id4179722">trong đó:</para>
+          <para id="id4179726">E - Năng suất kho lạnh, Tấn sản phẩm</para>
+          <para id="id4179733">gV - Định mức chất tải của các loại kho lạnh, Tấn sản phẩm/m3</para>
+          <para id="id4179750">Định mức chất tải được xác định theo bảng 2-5 dưới đây</para>
+          <table id="id4179756" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id4812683" alt=""><image src="../../media/graphics5-4ce9.jpg" mime-type="image/jpeg"/></media>a)</entry>
+                  <entry><media id="id6617897" alt=""><image src="../../media/graphics6-97bc.jpg" mime-type="image/jpeg"/></media>b)</entry>
+                </row>
+                <row>
+                  <entry><media id="id5249189" alt=""><image src="../../media/graphics7-d453.jpg" mime-type="image/jpeg"/></media>c)</entry>
+                  <entry><media id="id3721157" alt=""><image src="../../media/graphics8-6ffe.jpg" mime-type="image/jpeg"/></media>d)</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4179923">a- Tường-trần; b- Trần-trần; c- Tường-nền; d- Tường tường</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-248827754994">
+      <title>1- Rivê; 2- Thanh nhôm góc; 3- Thanh nhựa; 4- Miếng che mối ghép; 5- Dầm mái; 6- Bách treo; 7- Thanh treo; 8- Thanh nhựa; </title>
+      <para id="id4179933">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-738751155315">
+      <title>9- Miếng đệm; 10- Khoá cam-lock; 11- Nắp nhựa che lổ khoá </title>
+      <para id="id4179946">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-861576071153">
+      <title>Hình 2-5 : Các chi tiết lắp đặt panel</title>
+      <para id="id4179956">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-81201354472">
+      <title>Bảng 2-5: Tiêu chuẩn chất tải của các loại sản phẩm</title>
+      <table id="id4179975" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>TT</entry>
+              <entry>Sản phẩm bảo quản</entry>
+              <entry>Tiêu chuẩn chất tải gv, t/m3</entry>
+            </row>
+            <row>
+              <entry>123456789101112131415161718192021222324</entry>
+              <entry>Thịt bò đông lạnh 1/4 con1/2 con1/4 và 1/2 conThịt cừu đông lạnhThịt lợn đông lạnhGia cầm đông lạnh trong hòm gỗCá đông lạnh trong hòm gỗ hoặc cactôngThịt thân, cá đông lạnh trong hòm, cactôngMỡ trong hộp cactôngTrứng trong hộp cactôngĐồ hộp trong các hòm gỗ hoặc cactôngCam, quýt trong các ngăn gỗ mỏngKHI SẮP XẾP TRÊN GIÁMỡ trong các hộp cactôngTrứng trong các ngăn cactôngThịt trong các ngăn gỗGiò trong các ngăn gỗThịt gia cầm đông lạnh trong các ngăn gỗtrong ngăn cactôngNho và cà chua ở khayTáo và lê trong ngăn gỗCam, quýt trong hộp mỏngCam, quýt trong ngăn gỗ, cactôngHành tây khôCà rốtDưa hấu, dưa bởBắp cảiThịt gia lạnh hoặc kết đông bằng giá treotrong công ten nơ</entry>
+              <entry>0,400,300,350,280,450,380,450,700,800,270,600,650,450,700,260,380,300,440,380,300,310,320,300,300,320,400,300,20</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id-0468551884535">
+        <title>Diện tích chất tải </title>
+        <para id="id4345059">Diện tích chất tải của các kho lạnh được xác định theo công thức sau</para>
+        <para id="id4345067"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>V</m:mi><m:mi>h</m:mi></m:mfrac></m:mrow><m:mi>,</m:mi><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F= {  {V}  over  {h} } ,m rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> (2-2)</para>
+        <para id="id4345148">F - Diện tích chất tải, m2</para>
+        <para id="id4345158">h - Chiều cao chất tải của kho lạnh, m</para>
+        <para id="id4345165">Chiều cao chất tải của kho lạnh phụ thuộc chiều cao thực tế h1 của kho. Chiều cao h1 được xác định bằng chiều cao phủ bì của kho lạnh, trừ đi hai lần chiều dày cách nhiệt </para>
+        <para id="id4345190">h1 = H - 2.</para>
+        <para id="id4345204">Như vậy chiều cao chất tải bằng chiều cao thực h1 trừ khoảng hở cần thiết để cho không khí lưu chuyển phía trên. Khoảng hở đó tuỳ thuộc vào chiều dài kho, kho càng dài thì cần phải để khoảng hở lớn để gió lưu chuyển. Khoảng hở tối thiểu phải đạt từ 500 800mm. Chiều cao chất tải còn phụ thuộc vào cách sắp xếp hàng trong kho. Nếu hàng hàng hoá được đặt trên các giá thì khả năng chất tải lớn, nhưng nếu không được đặt trên giá thì chiều cao chất tải không thể lớn được. </para>
+        <para id="id4345245">Chiều cao phủ bì H của kho lạnh hiện nay đang sử dụng thường được thiết kế theo các kích thước tiêu chuẩn sau: 3000mm, 3600mm, 4800mm, 6000mm. Tuy nhiên khi cần thay đổi vẫn có thể điều chỉnh theo yêu cầu thực tế.</para>
+        <para id="id4345264">Chiều dày  của kho lạnh nằm trong khoảng  = 50  200mm, tuỳ thuộc nhiệt độ bảo quản và tính chất của tường (tường bao, tường ngăn).</para>
+      </section>
+      <section id="id-859106097283">
+        <title>Diện tích cần xây dựng</title>
+        <para id="id4143866">Diện tích kho lạnh thực tế cần tính đến đường đi, khoảng hở giữa các lô hàng, diện tích lắp đặt dàn lạnh vv… Vì thế diện tích cần xây dựng phải lớn hơn diện tích tính toán ở trên và được xác định theo công thức:</para>
+        <para id="id4143881"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>XD</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>F</m:mi><m:msub><m:mi>β</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mi>,</m:mi><m:msup><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{ ital "XD"} } = {  {F}  over  {β rSub { size 8{T} } } } ,m rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> (2-3)</para>
+        <para id="id4143983">FXD - Diện tích cần xây dựng, m2</para>
+        <para id="id4143998">T - Hệ số sử dụng diện tích, tính đến diện tích đường đi lại, khoảng hở giữa các lô hàng, diện tích lắp đặt dàn lạnh vv… và được xác định theo bảng 2-6.</para>
+      </section>
+    </section>
+    <section id="id-932073991292">
+      <title>Bảng 2-6: Hệ số sử dụng diện tích</title>
+      <table id="id4144028" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>TT</entry>
+              <entry>Diện tích buồng lạnh, m2</entry>
+              <entry>T</entry>
+            </row>
+            <row>
+              <entry>1234</entry>
+              <entry>- Đến 20- Từ 20 đến 100- Từ 100 đến 400- Hơn 400</entry>
+              <entry>0,500,600,700,750,750,800,800,85</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4144186">Bảng 2-7 dưới đây giới thiệu kích thước của các kho lạnh PANEL bảo quả trong ngành thuỷ sản ở Việt Nam dùng để tham khảo, trong đó tấn hàng qui chuẩn ở đây là tấn thịt.</para>
+    </section>
+    <section id="id-793719022612">
+      <title>Bảng 2-7: Kích thước kho bảo quản tiêu chuẩn</title>
+      <table id="id4144207" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Năng suất kho(MT)</entry>
+              <entry>Kích thước ngoàiDài x Rộng x Cao (mm)</entry>
+            </row>
+            <row>
+              <entry>25 Tấn</entry>
+              <entry>5.400 x 5.400 x 3.000 (mm)</entry>
+            </row>
+            <row>
+              <entry>50 Tấn</entry>
+              <entry>10.800 x 5.400 x 3.000 (mm)</entry>
+            </row>
+            <row>
+              <entry>100 Tấn</entry>
+              <entry>10.800 x 10.800 x 3.000 (mm)</entry>
+            </row>
+            <row>
+              <entry>150 Tấn</entry>
+              <entry>16.200 x 10.800 x 3.000 (mm)</entry>
+            </row>
+            <row>
+              <entry>200 Tấn</entry>
+              <entry>21.600 x 10.800 x 3.000 (mm)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <figure id="id4144373">
+        <media id="id1167149752371" alt=""><image src="graphics9.wmf" mime-type="image/wmf" height="330" width="426"/></media>
+      </figure>
+      <para id="id4144397">Hình 2-6: Bố trí bên trong khoa lạnh</para>
+      <section id="id-424082403086">
+        <title>Một số vấn đề khi thiết kế, lắp đặt và sử dụng kho lạnh </title>
+        <section id="id-577477084423">
+          <title>Hiện tượng lọt ẩm </title>
+          <para id="id4144420">Không khí trong kho lạnh có nhiệt độ thấp, khi tuần hoàn qua dàn lạnh một luợng nước đáng kể đã kết ngưng lại, vì vậy phân áp suất hơi nước không khí trong buồng nhỏ hơn so với bên ngoài. Kết quả hơi ẩm có xu hướng thẩm thấu vào phòng qua kết cấu bao che.</para>
+          <para id="id4144435">Đối với kho xây hơi ẩm khi xâm nhập có thể làm ẩm ướt lớp cách nhiệt làm mất tính chất cách nhiệt của lớp vật liệu. Vì thế kho xây cần phải được quét hắc ín và lót giấy dầu chống thấm. Giấy dầu chống thấm cần lót 02 lớp, các lớp chồng mí lên nhau và phải dán băng keo kín, tạo màng cách ẩm liên tục trên toàn bộ diện tích nền kho. </para>
+          <para id="id4364807">Đối với kho panel bên ngoài và bên trong kho có các lớp tôn nên không có khả năng lọt ẩm. Tuy nhiên cần tránh các vật nhọn làm thủng vỏ panel dẫn đến làm ẩm ướt lớp cách nhiệt. Vì thế trong các kho lạnh người ta thường làm hệ thống palet bằng gỗ để đỡ cho panel tránh xe đẩy, vật nhọn đâm vào trong quá trình vận chuyển đi lại. Giữa các tấm panel khi lắp ghép có khe hở nhỏ cần làm kín bằng silicon, sealant. Bên ngoài các kho trong nhiều nhà máy người ta chôn các dãy cột cao khoảng 0,8m phòng ngừa các xe chở hàng va đập vào kho lạnh gây hư hỏng.</para>
+        </section>
+        <section id="id-0879126873445">
+          <title>Hiện tượng cơi nền do băng </title>
+          <para id="id4364838">Kho lạnh bảo quản lâu ngày, lạnh truyền qua kết cấu cách nhiệt xuống nền đất. Khi nhiệt độ xuống thấp nước kết tinh thành đá, quá trình này tích tụ lâu ngày tạo nên các khối đá lớn làm cơi nền kho lạnh, phá huỷ kết cấu xây dựng.</para>
+          <para id="id4364856">Để đề phòng hiện tượng cơi nền người ta sử dụng các biện pháp sau:</para>
+          <para id="id4364866">a) Tạo khoảng trống phía dưới để thông gió nền: Lắp đặt kho lạnh trên các con lươn, hoặc trên hệ thống khung đỡ.</para>
+          <para id="id4364876">Các con lươn thông gió được xây bằng bê tông hoặc gạch thẻ, cao khoảng 100  200mm đảm bảo thông gió tốt. Khoảng cách giữa các con lươn tối đa 400mm </para>
+          <para id="id4364896">Bề mặt các con lươn dốc về hai phía 2% để tránh đọng nước (hình 2-7)</para>
+          <para id="id4364904">b) Dùng điện trở để sấy nền. Biện pháp đơn giản, dễ lắp đặt, nhưng chi phí vận hành khá cao, đặc biệt khi kích thước kho lớn. Vì vậy biện pháp này ít sử dụng.</para>
+          <para id="id4364915">c) Dùng các ống thông gió nền: Đối với kho có nền xây, để tránh đóng băng nền, biện pháp kinh tế nhất là sử dụng các ống thông gió nền. Các ống thông gió là ống PVC đường kính 100mm, bố trí cách quảng 10001500mm, đi dích dắc phía dưới nền, hai đầu thông lên khí trời. </para>
+          <table id="id4364955" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id3516834" alt=""><image src="graphics10.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                  <entry>
+                    <media id="id7913095" alt=""><image src="../../media/graphics11-b8a9.jpg" mime-type="image/jpeg"/></media>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id4365036">1- Panel tường; 2- Con lươn; 3- Nền móng kho lạnh</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-05201947267">
+      <title>Hình 2-7: Con lươn thông gió kho lạnh</title>
+      <para id="id4365059">Trong quá trình làm việc, gió thông vào ống, trao đổi nhiệt với nền đất và sưởi ấm nền, ngăn ngừa đóng băng.</para>
+      <section id="id-230157702416">
+        <title>Hiện tượng lọt không khí </title>
+        <para id="id4365082"/>
+        <para id="id4365086">Khi xuất nhập hàng hoặc mở cửa thao tác kiểm tra, không khí bên ngoài sẽ thâm nhập vào kho gây ra tổn thất nhiệt đáng kể và làm ảnh hưởng chế độ bảo quản. </para>
+        <para id="id4365102">Quá trình thâm nhập này thực hiện như sau: Gió nóng bên ngoài chuyển động vào kho lạnh từ phía trên cửa và gió lạnh trong phòng ùa ra ngoài từ phía dưới nền. </para>
+        <para id="id4365116">Quá trình thâm nhập của không khí bên ngoài vào kho lạnh không những làm mất lạnh của phòng mà còn mang theo một lượng hơi ẩm vào phòng và sau đó tích tụ trên các dàn lạnh ảnh hưởng đến hiệu quả làm việc của hệ thống.</para>
+        <para id="id4365131">Để ngăn ngừa hiện tượng đó người ta sử dụng nhiều biện pháp khác nhau:</para>
+        <para id="id4365138">+ Sử dụng quạt màn tạo màn khí ngăn chặn sự trao đổi không khí bên ngoài và bên trong.</para>
+        <para id="id4365148">+ Làm cửa đôi: Cửa ra vào kho lạnh có 02 lớp riêng biệt làm cho không khí bên trong không bao giờ thông với bên ngoài. Phương pháp này bất tiện vì chiếm thêm diện tích, xuất nhập hàng khó khăn, giảm mỹ quan công trình nên ít sử dụng. Nhiều hệ thống kho lạnh lớn người ta làm hẳn cả một kho đệm. Kho đệm có nhiệt độ vừa phải, có tác dụng như lớp đệm tránh không khí bên ngoài xâm nhập vào kho lạnh (hình2-8).</para>
+        <para id="id4365165">+ Sử dụng cửa sổ nhỏ để vào ra hàng. Các cửa này được lắp đặt trên tường ở độ cao thích hợp và có kích thước cỡ 680x680mm (hình 2-7).</para>
+        <para id="id4365177">+ Sử dụng màn nhựa: Treo ở cửa ra vào 01 tấm màn nhựa được ghép từ nhiều mãnh nhỏ. Phương pháp này hiệu quả tương đối cao, nhưng không ảnh hưởng đến việc đi lại.</para>
+        <para id="id4365191">Nhựa chế tạo màn cửa phải đảm bảo khả năng chịu lạnh tốt và có độ bền cao. Cửa được ghép từ các dãi nhựa rộng 200mm, các mí gấp lên nhau một khoảng ít nhất 50mm, vừa đảm bảo thuận lợi đi lại nhưng khi không có người vào ra thì màn che vẫn rất kín (hình 2-9).</para>
+        <figure id="id4365214">
+          <media id="id1167148865842" alt=""><image src="graphics12.wmf" mime-type="image/wmf" height="221" width="502"/></media>
+        </figure>
+        <para id="id4365238">Hình 2-8: Hệ thống kho lạnh SEAPRODEX Vũng Tàu</para>
+        <figure id="id4365251">
+          <media id="id4245039" alt=""><image src="graphics13.wmf" mime-type="image/wmf" height="269" width="302"/></media>
+        </figure>
+      </section>
+    </section>
+    <section id="id-898884788147">
+      <title>Hình 2-9: Màn nhựa che cửa ra vào và xuất nhập hàng kho lạnh</title>
+      <section id="id-534226610173">
+        <title>Tuần hoàn gió trong kho lạnh </title>
+        <para id="id4365298">Để tạo điều kiện thuận lợi cho việc tuần hoàn gió trong phòng khi thiết kế và sử dụng cần phải hết sức chú ý các công việc sau:</para>
+        <para id="id4365309">* Sắp xếp hàng hợp lý </para>
+        <para id="id4365315">Việc sắp xếp hàng trong kho phải tuân thủ các điều kiện:</para>
+        <para id="id4365325">- Thuận lợi cho việc thông gió trong kho để tất các khối hàng đều được làm lạnh tốt.</para>
+        <para id="id4365335">- Đi lại kiểm tra, xem xét thuận lợi.</para>
+        <para id="id4365348">- Đảm bảo nguyên tắc hàng nhập trước xuất trước, nhập sau xuất sau.</para>
+        <para id="id4365357">- Hàng bố trí theo từng khối, tránh nằm rời rạc khả năng bốc hơi nước lớn làm giảm chất lượng thực phẩm.</para>
+        <para id="id4365369">Khi sắp xếp hàng trong kho phải chú ý để chừa các khoảng hở hợp lý giữa các lô hàng và giữa lô hàng với tường, trần, nền kho để cho không khí lưu chuyển và giữ lạnh sản phẩm. Đối với tường việc xếp cách tường kho một khoảng còn có tác dụng không cho hàng nghiêng tựa lên tường, vì như vậy có thể làm bung các tấm panel cách nhiệt nếu quá nặng. Khoảng cách tối thiểu về các phía cụ thể nêu trên bảng 2-8.</para>
+      </section>
+    </section>
+    <section id="id-301355566176">
+      <title>Bảng 2-8: Khoảng cách cực tiểu khi xếp hàng trong kho lạnh</title>
+      <table id="id4365400" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Sàn</entry>
+              <entry>Tường</entry>
+              <entry>Trần</entry>
+            </row>
+            <row>
+              <entry>1  1,5 dm</entry>
+              <entry>2  8 dm</entry>
+              <entry>50 dm</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4324775"/>
+      <para id="id4324780">Trong kho cần phải chừa các khoảng hở cần thiết cho người và các phương tiện bốc dỡ đi lại. Bề rộng tuỳ thuộc vào phương pháp bốc dỡ và thiết bị thực tế. Nếu khe hở hẹp khi phương tiện đi lại va chạm vào các khối hàng có thể làm đổ mất an toàn và làm hư hỏng sản phẩm.</para>
+      <para id="id4324794">Phía dưới dàn lạnh không nên bố trí hàng để người vận hành dễ dàng xử lý khi cần thiết.</para>
+      <para id="id4324804">* Sử dụng hệ thống kênh gió để phân phối </para>
+      <para id="id4324811">Đối với các kho lạnh dung tích lớn cần thiết phải sử dụng các kênh gió để phân phối gió đều trong kho. Nhờ hệ thống kênh gió thiết kế hợp lý gió sẽ được phân bố đều hơn đến nhiều vị trí trong kho.</para>
+      <figure id="id4324822">
+        <media id="id1167150937246" alt=""><image src="graphics14.wmf" mime-type="image/wmf" height="262" width="490"/></media>
+      </figure>
+      <para id="id4324846">1- Dàn lạnh; 2- Ống gió; 3- Miệng thổi</para>
+    </section>
+    <section id="id-897150920662">
+      <title>Hình 2-10: Bố trí kênh gió trong kho lạnh</title>
+      <section id="id-608403379945">
+        <title>Xả băng dàn lạnh </title>
+        <para id="id4324878">Không khí khi chuyển dịch qua dàn lạnh, ngưng kết một phần hơi nước ở đó. Quá trình tích tụ càng lâu lớp tuyết càng dày. Việc bám tuyết ở dàn lạnh dẫn đến nhiều sự cố cho hệ thống lạnh như: Nhiệt độ kho lạnh không đạt yêu cầu, thời gian làm lạnh lâu, ngập dịch, cháy mô tơ vv…</para>
+        <para id="id4324896">Sở dĩ như vậy là vì:</para>
+        <para id="id4324902">- Lớp tuyết bám bên ngoài dàn lạnh tạo thành lớp cách nhiệt, ngăn cản quá trình trao đổi nhiệt giữa môi chất và không khí trong buồng lạnh. Do đó nhiệt độ buồng lạnh không đạt yêu cầu, thời gian làm lạnh kéo dài. Mặt khác môi chất lạnh trong dàn lạnh do không nhận được nhiệt để hoá hơi nên, một lượng lớn hơi ẩm được hút về máy nén gây ra ngập lỏng máy nén.</para>
+        <para id="id4324932">- Khi tuyết bám nhiều đường tuần hoàn của gió trong dàn lạnh bị nghẽn, lưu lượng gió giảm, hiệu quả trao đổi nhiệt cũng giảm theo, trở lực lớn quạt làm việc quá tải và mô tơ có thể bị cháy.</para>
+        <para id="id4324953">- Trong một số trường hợp tuyết bám quá dày làm cho cánh quạt bị ma sát không thể quay được và sẽ bị cháy, hỏng quạt.</para>
+        <para id="id4324966">Để xả tuyết cho dàn lạnh người ta thường sử dụng 3 phương pháp sau đây.</para>
+        <para id="id4324972">a) Dùng gas nóng: Phương pháp này rất hiệu quả vì quá trình cấp nhiệt xả băng thực hiện từ bên trong. Tuy nhiên, phương pháp xả băng bằng gas nóng cũng gây nguy hiểm do chỉ thực hiện khi hệ thống đang hoạt động, khi xả băng quá trình sôi trong dàn lạnh xãy ra mãnh liệt có thể cuốn theo lỏng về máy nén. Vì thế chỉ nên sử dụng trong hệ thống nhỏ hoặc hệ thống có bình chứa hạ áp. </para>
+        <para id="id4325009">b) Xả băng bằng nước: Phương pháp dùng nước hiệu quả cao, dễ thực hiện đặc biệt trong các hệ thống lớn. Mặt khác khi xả băng bằng nước người ta đã thực hiện hút kiệt ga và dừng máy nén trước khi xả băng nên không sợ ngập lỏng khi xả băng.</para>
+        <para id="id4325036">Tuy nhiên, khi xả băng, nước có thể bắn tung toé ra các sản phẩm trong buồng lạnh và khuyếch tán vào không khí trong phòng, làm tăng độ ẩm của nó, lượng ẩm này tiếp tục bám lại trên dàn lạnh trong quá trình vận hành kế tiếp. Vì thế biện pháp dùng nước thường sử dụng cho hệ thống lớn, tuyết bám nhiều, ví dụ như trong các hệ thống cấp đông.</para>
+        <para id="id4325065">c) Dùng điện trở: trong các kho lạnh nhỏ các dàn lạnh thường sử dụng phương pháp xả băng bằng điện trở.</para>
+        <para id="id4325080">Cũng như phương pháp xả băng bằng nước phương pháp dùng điện trở không sợ ngập lỏng. Mặt khác xả băng bằng điện trở không làm tăng độ ẩm trong kho. Tuy nhiên phương pháp dùng điện trở chi phí điện năng lớn và không dễ thực hiện. Các điện trở chỉ được lắp đặt sẵn do nhà sản xuất thực hiện.</para>
+      </section>
+    </section>
+  </content>
+</document>

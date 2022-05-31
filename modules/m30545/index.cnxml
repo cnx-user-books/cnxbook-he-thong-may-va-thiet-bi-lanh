@@ -1,0 +1,209 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hệ thống lạnh khác</title>
+  <metadata>
+  <md:content-id>m30545</md:content-id><md:title>Hệ thống lạnh khác</md:title>
+  <md:abstract>Hệ thống lạnh khác trong công nghiệp và trong đời sống.</md:abstract>
+  <md:uuid>28fe779b-bfb3-4ccb-a54c-d168babdfefb</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id-104844366837">
+      <title>HỆ THỐNG LẠNH TRONG NHÀ MÁY BIA </title>
+      <section id="id-157049919249">
+        <title>Sơ đồ nguyên lý hệ thống lạnh trung tâm</title>
+        <para id="id5688540">Trong các nhà máy bia người ta sử dụng hệ thống lạnh trung tâm để làm lạnh các đối tượng sau :</para>
+        <para id="id5688549">- Làm lạnh các tank lên men và tank thành phẩm</para>
+        <para id="id5681779">- Làm lạnh tank men giống</para>
+        <para id="id5681785">- Làm lạnh nhanh nước 1oC</para>
+        <para id="id5681802">- Làm lạnh nhanh dịch đường sau hệ thống nấu.</para>
+        <para id="id5681810">- Làm lạnh trung gian hệ thống CO2</para>
+        <para id="id5681822">- Các hộ tiêu thụ khác: bảo quản hoan, điều hoà không khí vv…</para>
+        <para id="id5681830">Trên hình 5-1 là sơ đồ nguyên lý hệ thống lạnh trung tâm sử dụng môi chất NH3 ở nhà máy bia hiện đại. Hệ thống lạnh sử dụng glycol và nước làm chất tải lạnh. Trước kia trong nhiều nhà máy bia người ta sử dụng chất tải lạnh là nước muối. Do tính chất ăn mòn của nước muối ảnh hưởng quá lớn đến hệ thống các thiết bị nên hiện nay hầu hết đã được thay thế bằng chất tải lạnh glycol .</para>
+        <para id="id5173900">Các thiết bị chính bao gồm: Máy nén 1 cấp hiệu MYCOM, bình bay hơi làm lạnh glycol, dàn ngưng tụ bay hơi, các thùng chứa glycol và các thiết bị phụ khác của hệ thống lạnh. </para>
+        <para id="id5173918">Thùng chứa glycol được chế tạo bằng inox, bên ngoài bọc cách nhiệt gồm 02 cái có nhiệt độ khác nhau, đảm bảo bơm glycol đã được làm lạnh đến các hộ tiêu thụ và bơm glycol sau khi sử dụng đến bình bay hơi để gia lạnh. Giữa 02 thùng glycol được thông với nhau tạo ra sự ổn định và cân bằng.</para>
+        <figure id="id5679129">
+          <media id="id1165058925085" alt=""><image src="graphics1.wmf" mime-type="image/wmf" height="400" width="600"/></media>
+        </figure>
+        <para id="id5679152">1- Máy nén; 2- Bình chứa cao áp; 3- Dàn ngưng; 4- Tách dầu; 5- Bình bay hơi; 6- Bình thu hồi dầu; 7- Bơm glycol đến các hộ tiêu thụ; 8- Bơm glycol tuần hoàn; 9- Thùng glycol</para>
+        <section id="id-314216369655">
+          <title>Hình 5-1 : Sơ đồ nguyên lý hệ thống lạnh nhà máy bia</title>
+          <figure id="id5679173">
+            <media id="id1165058036136" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="179" width="510"/></media>
+          </figure>
+          <para id="id5832498">1- Áo nước; 2- Thân bình; 3- Tách lỏng; 4- Gas ra; 5- Tấm chắn lỏng;</para>
+          <para id="id5832505">6- Ống trao đổi nhiệt; 7- Nước ra; 8- Nước vào; 9- Chân bình; 10- Rốn bình; 11- Ống nối van phao</para>
+        </section>
+        <section id="id-906008197365">
+          <title>Hình 5-2 : Bình bay hơi làm lạnh glycol</title>
+          <para id="id5832524">Trên hình 5-2 trình bày cấu tạo của bình bay hơi làm lạnh glycol. Về cấu tạo bình bay hơi giống bình ngưng ống chùm nằm ngang. Ở đây glycol chuyển động bên trong ống trao đổi nhiệt, môi chất sôi bên ngoài ống. Phía trên bình bay hơi có gắn sẵn bình tách lỏng, để đảm bảo sự chuyển động của gas bên trong bình bay hơi người ta bố trí 02 ống hút ở 2 phía của bình. Phía dưới có rốn để gom dầu về bình thu hồi dầu. Để đảm bảo lỏng trong bình không quá cao gây ngập lỏng máy nén người ta sử dụng van phao khống chế mức dịch trong bình bay hơi nằm trong giới hạn cho phép.</para>
+        </section>
+      </section>
+      <section id="id-534693910717">
+        <title>Sơ đồ nguyên lý hệ thống lạnh CO2</title>
+        <para id="id5298115">Trong các nhà máy bia người ta thường sử dụng các hệ thống lạnh riêng để làm lạnh CO2 vì chế độ nhiệt âm sâu.</para>
+        <para id="id5298136">Máy lạnh sử dụng để làm lạnh CO2 trong sơ đồ này là máy lạnh 2 cấp hoạt động hoàn toàn độc lập với hệ thống lạnh glycol bảo quản tank lên men và làm lạnh nhanh dịch nấu . Trong một số trường hợp để nâng cao hiệu quả giải nhiệt, người ta trích glycol từ hệ thống lạnh bảo quản bia sang làm mát trung gian hơi CO2 sau mỗi cấp nén. Sơ đồ như vậy, tuy hiệu quả giải nhiệt tăng nhưng hệ thống thu hồi CO2 hoạt động phụ thuộc vào hoạt động của hệ thống làm lạnh glycol nên hiện nay ít sử dụng glycol để làm mát mà chuyển sang sử dụng nước. </para>
+        <figure id="id4282994">
+          <media id="id6078649" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="401" width="739"/></media>
+        </figure>
+        <para id="id4283018">1- Ba lông CO2; Tháp rửa; 3- Máy nén CO2; 4,5- Bình làm mát cấp 1 và cấp 2; 6,8- Tháp hấp thụ; 7,9- Tháp làm khô; 10- Bảo vệ ba lông; 11- Tách lỏng hệ CO2; 12- Hoá hơi CO2; 13- Bình chứa CO2 lỏng; 14- Bình ngưng CO2; 15- Tách lỏng HT lạnh; 16- Tách dầu; 17- Máy lạnh; 18- Bộ làm mát trung gian HT lạnh; 19- Bình ngưng; 20- Bình chứa; 21- Tháp GN</para>
+        <section id="id-377409924101">
+          <title>Hình 5-3: Sơ đồ nguyên lý hệ thống ngưng tụ CO2</title>
+          <para id="id5809207">Nguyên lý thhoạt động của hệ thống thu hồi CO2 như sau: Khí CO2 từ các tank lên men được dẫn đến balon (1), sau đó được đưa qua tháp rửa (2), ở đây các bọt bia bị cuốn theo được rửa sạch, chỉ còn khí CO2 và được dẫn sang bình tách lỏng để tách các giọt nước bị cuốn theo dòng. Khí CO2 được nén qua 2 cấp, mỗi cấp đều được làm mát bằng nước ở các bình 4, 5. Khí CO2 được đưa qua bình hấp thụ (6) để hấp thụ hết các mùi và các chất cặn bẩn và sau đó đến bình làm khô (7) để làm khô trước khi đưa đến làm lạnh ở bình ngưng tụ CO2 (14). Ở bình ngưng tụ CO2 được làm lạnh và ngưng tụ lại thành lỏng và chảy xuống bình chứa (13). Trong quá trình bảo quản, nếu CO2 trong bình hoá hơi bốc lên phía trên sẽ được làm lạnh và ngưng chảy lại xuống bình.</para>
+          <para id="id4242198">Khi cần sử dụng, lỏng CO2 được dẫn sang dàn hoá hơi (12) để hoá hơi trước khi đưa đến các hộ tiêu thụ.</para>
+          <para id="id4242220">Hệ thống có trang bị 02 bộ bình hấp thụ và làm khô, mục đích là trong khi các bình (6) và (7) đang hoạt động thì các bình (8) và (9) tiến hành hoàn nguyên. Để hoàn nguyên người ta sử dụng hơi từ lò hơi đi vào phần vỏ bên ngoài các bình để sấy khô các bình nhằm thực hiện hoàn nguyên.</para>
+        </section>
+      </section>
+      <section id="id-322365369082">
+        <title>Tính toán nhiệt nhà máy bia</title>
+        <para id="id4242248">Hệ thống lạnh nhà máy bia có các tổn thất nhiệt chính sau đây:</para>
+        <list id="id4242258" list-type="bulleted">
+          <item>Tổn thất do truyền nhiệt qua tất cả các thiết bị sử dụng và bảo quản lạnh.</item>
+          <item>Tổn thất nhiệt do làm lạnh nhanh dịch đường húp lông hoá sau hệ thống nấu.</item>
+          <item>Tổn thất nhiệt để làm lạnh các đối tượng khác.</item>
+        </list>
+        <para id="id5252951"/>
+        <section id="id-801578633969">
+          <title>Tổn thất nhiệt do truyền nhiệt ở các thiết bị sử dụng và bảo quản lạnh</title>
+          <para id="id5252966">Tổn thất nhiệt ở tất cả các thiết bị làm lạnh, bao gồm:</para>
+          <para id="id5252974">- Các tank lên men và tank thành phẩm;</para>
+          <para id="id5252981">- Bình bay hơi làm lạnh glycol;</para>
+          <para id="id5252987">- Thùng glycol;</para>
+          <para id="id5175143">- Thùng nước 1oC;</para>
+          <para id="id5175160">- Các thùng men giống;</para>
+          <para id="id5175167">Việc tính tổn thất nhiệt ở các thiết bị này có đặc điểm tương tự nhau, đó là tổn thất nhiệt chủ yếu qua vách có dạng hình trụ, bên ngoài tiếp xúc không khí, bên trong là môi trường lạnh (Môi chất lạnh, glycol, dịch bia hoặc nước lạnh)</para>
+          <para id="id5175181">Khi tính tổn thất nhiệt qua kết cấu bao che của tank lên men, tank thành phẩm và thùng men giống chúng ta gặp khó khăn về 2 vấn đề :</para>
+          <para id="id5175191">- Dọc theo bề mặt bên trong của tank có vị trí tiếp xúc với dịch bia, có vị trí tiếp xúc với glycol và có nơi tiếp xúc với không khí nên khó xác định hệ số toả nhiệt bên trong. Vì vậy, một cách gần đúng có thể coi như tổn thất từ dịch bia ra môi trường xung quanh.</para>
+          <para id="id5688597">- Phần thân hình trụ, phần đáy và đỉnh có thể hình côn hoặc hình elip khá khó xác định.</para>
+          <para id="id5688608">Để đơn giản bài toán tạm qui đổi diện tích toàn bộ ra dạng hình trụ và bên trong coi như tiếp xúc với một môi trường lạnh nhất định nào đó.</para>
+          <para id="id5688619">Tổn thất do truyền nhiệt qua thân trụ có thể được tính theo công thức sau :</para>
+          <para id="id5688627">Q = k.h.t(5-1)</para>
+          <para id="id5688657">trong đó:</para>
+          <para id="id5129658"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow><m:mtext>ln</m:mtext><m:mrow><m:mfrac><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>π</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k= {  {1}  over  { {  {1}  over  {π "." d rSub { size 8{1} }  "." α rSub { size 8{1} } } } + Sum { {  {1}  over  {2 "." π "." λ rSub { size 8{i} } } } } "ln" {  {d rSub { size 8{i+1} } }  over  {d rSub { size 8{i} } } } + {  {1}  over  {π "." d rSub { size 8{2} }  "." α rSub { size 8{2} } } } } } } {}</m:annotation></m:semantics></m:math>, W/m2.K(5-2)</para>
+          <para id="id5118241">h - Chiều cao hay dài qui đổi của bình, m;</para>
+          <para id="id5118249">d1, d2 là đường kính ngoài cùng và trong cùng của lớp vật liệu vỏ, m;</para>
+          <para id="id5118276">1 - Hệ số toả nhiệt bên trong, W/m2.K;</para>
+          <para id="id5151579">2 - Hệ số toả nhiệt bên ngoài, W/m2.K;</para>
+          <para id="id5151604">t = t1 - t2 : Hiệu nhiệt độ không khí bên ngoài và môi chất bên trong;</para>
+          <para id="id5151636">i - Hệ số dẫn nhiệt của các lớp vật liệu, W/m.K.</para>
+          <section id="id-800324229775">
+            <title>Bảng 5-1: Các thông số các thiết bị</title>
+            <table id="id5943118" summary="">
+              <tgroup cols="4">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <tbody>
+                  <row>
+                    <entry>Thiết bị</entry>
+                    <entry>Môi chất bên trong</entry>
+                    <entry>Nhiệt độ</entry>
+                    <entry>Cách nhiệt</entry>
+                  </row>
+                  <row>
+                    <entry>1. Tank lên men, thành phẩm, men giống</entry>
+                    <entry>Dịch bia đứng yên</entry>
+                    <entry>8oC</entry>
+                    <entry>100mm</entry>
+                  </row>
+                  <row>
+                    <entry>2. Thùng glycol</entry>
+                    <entry>Glycol có chuyển động</entry>
+                    <entry>-5oC</entry>
+                    <entry>150mm</entry>
+                  </row>
+                  <row>
+                    <entry>3. Bình bay hơi</entry>
+                    <entry>Lỏng NH3 đang sôi</entry>
+                    <entry>-15oC</entry>
+                    <entry>150mm</entry>
+                  </row>
+                  <row>
+                    <entry>4. Thùng nước 1oC</entry>
+                    <entry>Nước lạnh đứng yên</entry>
+                    <entry>1oC</entry>
+                    <entry>100mm</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </section>
+          <section id="id-816848658266">
+            <title>Bảng 5-2 :Thông số cách nhiệt các thiết bị</title>
+            <table id="id5173855" summary="">
+              <tgroup cols="4">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <tbody>
+                  <row>
+                    <entry>STT</entry>
+                    <entry>Tên lớp vật liệu</entry>
+                    <entry>Độ dày, mm</entry>
+                    <entry>Hệ số dẫn nhiệtW/m.K</entry>
+                  </row>
+                  <row>
+                    <entry>1</entry>
+                    <entry>Lớp inox vỏ ngoài</entry>
+                    <entry>0,5  0,6</entry>
+                    <entry>45,3</entry>
+                  </row>
+                  <row>
+                    <entry>2</entry>
+                    <entry>Lớp polyurethan</entry>
+                    <entry>100  150</entry>
+                    <entry>0,018  0,020</entry>
+                  </row>
+                  <row>
+                    <entry>3</entry>
+                    <entry>Lớp thân bên trong</entry>
+                    <entry>3  4</entry>
+                    <entry>45,3</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </section>
+        </section>
+        <section id="id-513936486588">
+          <title>Tổn thất nhiệt do làm lạnh dịch đường</title>
+          <para id="id5252848">Nhiệt cần làm lạnh dịch đường từ nhiệt độ ban đầu đến nhiệt độ bảo quản được thực hiện qua hai giai đoạn:</para>
+          <para id="id5252860">- Giai đoạn 1: Làm lạnh dịch bia sau hệ thống nấu (khoảng 80oC) xuống 20oC bằng nước lạnh 1oC.</para>
+          <para id="id5252898">- Làm lạnh tiếp bằng glycol từ 20oC xuống 8oC </para>
+          <para id="id5253928">Tất cả các tổn thất do làm lạnh này đều là phụ tải của máy nén lạnh do đó không cần phân biệt giai đoạn, mà được tính từ 80oC xuống 8oC: </para>
+          <para id="id5253959">Việc tính phụ tải lạnh máy nén sẽ rất khác nhau tuỳ thuộc vào quan điểm và cách thiết kế hệ thống lạnh. Để hạ nhanh dịch đường húp lông hoá sau hệ thống nấu nếu sử dụng phương pháp làm lạnh trực tiếp, sẽ đòi hỏi máy lạnh có công suất rất lớn. Ngược lại nếu sử dụng nước lạnh 1oC để làm lạnh, nhờ quá trình tích lạnh thì công suất lạnh yêu cầu sẽ bé hơn nhiều. </para>
+          <para id="id5254000">Theo quan điểm này, phụ tải nhiệt cần thiết để làm lạnh dịch đường húp lông hoá được tính như sau:</para>
+          <para id="id5252496"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>G</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mtext>24</m:mtext><m:mi>x</m:mi><m:mtext>3600</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{2} } = {  {G rSub { size 8{d} }  "." C rSub { size 8{p} }  "."  \( t rSub { size 8{1} }  - t rSub { size 8{2} }  \) }  over  {"24"x"3600"} } } {}</m:annotation></m:semantics></m:math>, W(5-3)</para>
+          <para id="id5255120">+ Gd – Lượng dịch đường húp lông hoá trong một ngày đêm, kg/ngày đêm;</para>
+          <para id="id5942593">+ Cp – Nhiệt dung riêng của dịch đường húp lông hoá. Dịch đường sau húp lông hoá là một hỗn hợp rất phức tạp phụ thuộc vào loại nguyên liệu và thiết bị công nghệ sản xuất. Vì vậy nhiệt dung riêng của dịch đường húp lông hoá không có giá trị cố định và chính xác cho tất cả các hệ thống. Một cách gần đúng có thể lấy theo nhiệt dung riêng của nước;</para>
+          <para id="id5942624">+ t1, t2- Nhiệt độ của dịch đường trước và sau khi được làm lạnh. Sau khi qua hệ thống nấu và được đưa húp lông hoá ở nhiệt độ sôi 100oC, dịch đường được đưa sang thiết bị lọc và thùng lắng xoáy trước khi được làm lạnh, vì vậy nhiệt độ t1 khoảng 80oC, nhiệt độ đầu ra phải đạt nhiệt độ bảo quản trong tank lên men, tức t2 = 8oC.</para>
+        </section>
+        <section id="id-523422689075">
+          <title>Tổn thất nhiệt để làm lạnh các đối tượng khác.</title>
+          <para id="id5121421">Trong các nhà máy bia công suất lạnh do máy lạnh tạo ra còn được sử dụng vào nhiều mục đích khác nhau, tuỳ thuộc thực tế tại nhà máy và cần phải được tính đến, cụ thể là:</para>
+          <para id="id5121434">1. Tổn thất để làm lạnh trung gian trong hệ thống thu hồi CO2 - Q31</para>
+          <para id="id5117194">Việc làm mát trung gian sau các cấp nén của máy nén CO2 trong hệ thống thu hồi khí này được thực hiện bằng nhiều phương pháp: Sử dụng nước hoặc glycol của hệ thống làm lạnh và bảo quản bia. Trong trường hợp cuối, cần phải tính tổn thất này, khí tính phụ tải lạnh của máy làm lạnh glycol.</para>
+          <para id="id5117230">Trong trường hợp này, một cách gần đúng có thể lấy công suất lạnh cần thiết để làm mát trung gian 2 cấp, bằng tổng công suất nhiệt làm mát trung gian ở các cấp của máy nén CO2 :</para>
+          <para id="id5117259">Q31 = Qtg1 + Qtg2, W(5-4)</para>
+          <para id="id5114113">Q31- Tổn thất nhiệt để làm mát trung gian, W</para>
+          <para id="id5114131">Qtg1, Qtg2 – Công suất làm mát trung gian của máy nén CO2, W</para>
+          <para id="id5114165"/>
+          <para id="id5811162">2. Bảo quản hoa Q32</para>
+          <para id="id5811174">Hoa húp lông sâu khi sấy được tiến hành phân loại và sau đó xông SO2. Công việc xông hơi được tiến hành trong buồng kín. Liều lượng lưu huỳnh đem sử dụng khoảng 0,5 1 kg /100 kg hoa. Mục đích là để hạn chế quá trình ôxi hoá và sự phát triển của vi sinh. Sau khi xông hơi hoa được ép chặt thành bánh và xếp vào túi polyetylen, hàn kín và cho vào thùng kim loại đem đi bảo quản.</para>
+          <para id="id5811212">Hoa húp lông được bảo quản ở chế độ nhiệt độ khoảng 0,5  2oC.</para>
+          <para id="id5811241">Tổn thất nhiệt ở kho bảo quản hoa húp lông bao gồm tất cả các tổn thất tương tự như các kho bảo quản khác.</para>
+          <para id="id5804459">3. Điều hoà không khí Q33</para>
+          <para id="id5804476">Trong một số nhà máy, người ta tận dụng lạnh của hệ thống làm lạnh glycol để điều hoà cho một số khu vực nhất định của nhà máy, chẳng hạn như khu văn phòng, các phòng thí nghiệm, các phòng làm việc khác trong khu chế biến. Đây là một phương án rất kinh tế và hiệu quả.</para>
+          <para id="id5804494">Tổn thất nhiệt do để điều hoà được xác định theo công thức:</para>
+          <para id="id5804503"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>33</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext>.</m:mtext><m:mfrac><m:mrow><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>O</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>O</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{"33"} } =Q rSub { size 8{T} }  "."  {  {I rSub { size 8{C} }  - I rSub { size 8{O} } }  over  {I rSub { size 8{T} }  - T rSub { size 8{O} } } } } {}</m:annotation></m:semantics></m:math>, W(5-5)</para>
+          <para id="id5130439">IC, IV , IT – En tanpi trạng thái không khí trước khi vào, ra dàn lạnh và trong buồng điều hoà không khí.</para>
+          <para id="id5130483">QT – Nhiệt thừa của các phòng điều hoà, W</para>
+          <para id="id5130502">Nhiệt thừa QT được xác định nhờ tính cân bằng nhiệt của các phòng.</para>
+          <para id="id5251597"></para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
